@@ -1,6 +1,6 @@
 msgctxt "Dialog title"
 msgid "Log in"
-msgstr "Log in"
+msgstr "Sign in"
 
 msgid "Cool!"
 msgstr "Leuk!"

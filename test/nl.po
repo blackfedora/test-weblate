@@ -1,6 +1,0 @@
-msgctxt "Dialog title"
-msgid "Log in"
-msgstr "Log in"
-
-msgid "Let’s make the web multilingual."
-msgstr "Laten we de web meertalig maken."

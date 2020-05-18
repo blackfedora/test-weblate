@@ -3,7 +3,7 @@ msgid "Log in"
 msgstr "Sign in"
 
 msgid "Cool!"
-msgstr "wow!"
+msgstr "wowza!"
 
-msgid "foo!"
+msgid "neat!"
 msgstr "bar!"

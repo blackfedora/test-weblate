@@ -5,5 +5,5 @@ msgstr "Sign in"
 msgid "Cool!"
 msgstr "Leuk!"
 
-msgid "further_testing!"
+msgid "I don't know"
 msgstr "bar!"

@@ -4,6 +4,3 @@ msgstr "Sign in"
 
 msgid "Cool!"
 msgstr "Leuk!"
-
-msgid "asdf!"
-msgstr "aasdfasdf!"

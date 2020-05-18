@@ -4,3 +4,6 @@ msgstr "Sign in"
 
 msgid "Cool!"
 msgstr "Leuk!"
+
+msgid "test!"
+msgstr "bar!"

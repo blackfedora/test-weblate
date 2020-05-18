@@ -6,4 +6,4 @@ msgid "Cool!"
 msgstr "Leuk!"
 
 msgid "asdf!"
-msgstr "foo!"
+msgstr "aasdfasdf!"

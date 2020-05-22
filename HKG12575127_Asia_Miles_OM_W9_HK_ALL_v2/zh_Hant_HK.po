@@ -1,26 +1,1192 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-22 08:47+0000\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-11-06 10:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: zh_Hant_HK\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.5.1\n"
+"Generated-By: Babel 2.5.3\n"
 
-msgctxt "Dialog title"
-msgid "Log in"
+#: /question:lingua/text:1
+msgctxt "/question:lingua/text"
+msgid "What is your preferred language to answer surveys with? 請選擇問卷語言。"
 msgstr ""
 
-msgid "Oh well"
+#: /question:languagepreference/text:1
+msgctxt "/question:languagepreference/text"
+msgid "What is your preferred language to answer surveys with? 請選擇問卷語言。"
 msgstr ""
 
-msgid "Cool!"
+#: /question:languagepreference/response:1/text:1
+msgctxt "/question:languagepreference/response:1/text"
+msgid "English"
+msgstr "English"
+
+#: /question:languagepreference/response:2/text:1
+msgctxt "/question:languagepreference/response:2/text"
+msgid "Bahasa Indonesia"
+msgstr "Bahasa Indonesia"
+
+#: /question:languagepreference/response:3/text:1
+msgctxt "/question:languagepreference/response:3/text"
+msgid "繁體中文"
+msgstr "繁體中文"
+
+#: /question:languagepreference/response:4/text:1
+msgctxt "/question:languagepreference/response:4/text"
+msgid "简体中文"
+msgstr "简体中文"
+
+#: /question:languagepreference/response:5/text:1
+msgctxt "/question:languagepreference/response:5/text"
+msgid "ภาษาไทย"
+msgstr "ภาษาไทย"
+
+#: /question:languagepreference/response:6/text:1
+msgctxt "/question:languagepreference/response:6/text"
+msgid "Bahasa Melayu"
+msgstr "Bahasa Melayu"
+
+#: /question:languagepreference/response:7/text:1
+msgctxt "/question:languagepreference/response:7/text"
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: /question:languagepreference/response:8/text:1
+msgctxt "/question:languagepreference/response:8/text"
+msgid "Tiếng Việt"
+msgstr "Tiếng Việt"
+
+#: /question:languagepreference/response:9/text:1
+msgctxt "/question:languagepreference/response:9/text"
+msgid "한국어"
+msgstr "한국어"
+
+#. change vendor names accordingly
+#: /question:vendor/text:1
+msgctxt "/question:vendor/text"
+msgid "Vendor"
+msgstr "Vendor"
+
+#: /question:vendor/response:1/text:1
+msgctxt "/question:vendor/response:1/text"
+msgid "YouGov"
+msgstr "YouGov"
+
+#: /question:vendor/response:2/text:1
+msgctxt "/question:vendor/response:2/text"
+msgid "Rakuten"
 msgstr ""
 
-msgid "Of course!"
+#: /question:vendor/response:3/text:1
+msgctxt "/question:vendor/response:3/text"
+msgid "Vendor 2"
+msgstr "Vendor 2"
+
+#: /question:vendor/response:4/text:1
+msgctxt "/question:vendor/response:4/text"
+msgid "Vendor 3"
+msgstr "Vendor 3"
+
+#: /question:vendor/response:5/text:1
+msgctxt "/question:vendor/response:5/text"
+msgid "Vendor 4"
+msgstr "Vendor 4"
+
+#: /question:gender/text:1
+msgctxt "/question:gender/text"
+msgid "Which gender do you belong to?"
+msgstr "您的性别是"
+
+#: /question:gender/response:1/text:1
+msgctxt "/question:gender/response:1/text"
+msgid "Male"
+msgstr "男"
+
+#: /question:gender/response:2/text:1
+msgctxt "/question:gender/response:2/text"
+msgid "Female"
+msgstr "女"
+
+#: /question:birthyear/text:1
+msgctxt "/question:birthyear/text"
+msgid "What is your birth year?"
+msgstr "您的出生年份？"
+
+#: /question:countryofresidence/text:1
+msgctxt "/question:countryofresidence/text"
+msgid "In which country do you currently reside? (Country of residence)"
+msgstr "請問您現居住在哪裏？ (居住地所在國家)"
+
+#: /question:countryofresidence/default_text:1
+msgctxt "/question:countryofresidence/default_text"
+msgid "Please select a country"
+msgstr "請選擇國家"
+
+#: /question:countryofresidence/response:31/text:1
+msgctxt "/question:countryofresidence/response:31/text"
+msgid "Australia"
+msgstr "澳大利亞"
+
+#: /question:countryofresidence/response:61/text:1
+msgctxt "/question:countryofresidence/response:61/text"
+msgid "Mainland China"
+msgstr "中國大陸"
+
+#: /question:countryofresidence/response:112/text:1
+msgctxt "/question:countryofresidence/response:112/text"
+msgid "Hong Kong"
+msgstr "香港"
+
+#: /question:countryofresidence/response:138/text:1
+msgctxt "/question:countryofresidence/response:138/text"
+msgid "Malaysia"
+msgstr "馬來西亞"
+
+#: /question:countryofresidence/response:194/text:1
+msgctxt "/question:countryofresidence/response:194/text"
+msgid "Singapore"
+msgstr "新加坡"
+
+#: /question:countryofresidence/response:134/text:1
+msgctxt "/question:countryofresidence/response:134/text"
+msgid "Macau"
+msgstr "澳門"
+
+#: /question:countryofresidence/response:211/text:1
+msgctxt "/question:countryofresidence/response:211/text"
+msgid "Taiwan"
+msgstr "台灣"
+
+#: /question:countryofresidence/response:115/text:1
+msgctxt "/question:countryofresidence/response:115/text"
+msgid "India"
+msgstr "印尼"
+
+#: /question:countryofresidence/response:116/text:1
+msgctxt "/question:countryofresidence/response:116/text"
+msgid "Indonesia"
+msgstr "印度"
+
+#: /question:countryofresidence/response:175/text:1
+msgctxt "/question:countryofresidence/response:175/text"
+msgid "Philippines"
+msgstr "菲律賓"
+
+#: /question:countryofresidence/response:214/text:1
+msgctxt "/question:countryofresidence/response:214/text"
+msgid "Thailand"
+msgstr "泰國"
+
+#: /question:countryofresidence/response:233/text:1
+msgctxt "/question:countryofresidence/response:233/text"
+msgid "Vietnam"
+msgstr "越南"
+
+#: /question:countryofresidence/response:227/text:1
+msgctxt "/question:countryofresidence/response:227/text"
+msgid "United States of America"
+msgstr "美國"
+
+#: /question:countryofresidence/response:122/text:1
+msgctxt "/question:countryofresidence/response:122/text"
+msgid "Japan"
+msgstr "日本"
+
+#: /question:countryofresidence/response:201/text:1
+msgctxt "/question:countryofresidence/response:201/text"
+msgid "South Korea"
+msgstr "韓國"
+
+#: /question:countryofresidence/response:160/text:1
+msgctxt "/question:countryofresidence/response:160/text"
+msgid "New Zealand"
+msgstr "紐西蘭"
+
+#: /question:countryofresidence/response:998/text:1
+msgctxt "/question:countryofresidence/response:998/text"
+msgid "Other"
+msgstr "其他"
+
+#: /question:agegroup1/text:1
+msgctxt "/question:agegroup1/text"
+msgid "Age Group"
+msgstr "Age Group"
+
+#: /question:agegroup1/response:1/text:1
+msgctxt "/question:agegroup1/response:1/text"
+msgid "18 - 24"
+msgstr "18 - 24"
+
+#: /question:agegroup1/response:2/text:1
+msgctxt "/question:agegroup1/response:2/text"
+msgid "25 - 34"
+msgstr "25 - 34"
+
+#: /question:agegroup1/response:3/text:1
+msgctxt "/question:agegroup1/response:3/text"
+msgid "35 - 44"
+msgstr "35 - 44"
+
+#: /question:agegroup1/response:4/text:1
+msgctxt "/question:agegroup1/response:4/text"
+msgid "45 - 54"
+msgstr "45 - 54"
+
+#: /question:agegroup1/response:5/text:1
+msgctxt "/question:agegroup1/response:5/text"
+msgid "55 - 64"
+msgstr "55 - 64"
+
+#: /question:agegroup1/response:6/text:1
+msgctxt "/question:agegroup1/response:6/text"
+msgid "65+"
+msgstr "65+"
+
+#: /question:agegroup2/text:1
+msgctxt "/question:agegroup2/text"
+msgid "Age Group"
+msgstr "Age Group"
+
+#: /question:agegroup2/response:1/text:1
+msgctxt "/question:agegroup2/response:1/text"
+msgid "18 - 24"
+msgstr "18 - 24"
+
+#: /question:agegroup2/response:2/text:1
+msgctxt "/question:agegroup2/response:2/text"
+msgid "25 - 34"
+msgstr "25 - 34"
+
+#: /question:agegroup2/response:3/text:1
+msgctxt "/question:agegroup2/response:3/text"
+msgid "35 - 44"
+msgstr "35 - 44"
+
+#: /question:agegroup2/response:4/text:1
+msgctxt "/question:agegroup2/response:4/text"
+msgid "45 - 54"
+msgstr "45 - 54"
+
+#: /question:agegroup2/response:5/text:1
+msgctxt "/question:agegroup2/response:5/text"
+msgid "55+"
+msgstr "55+"
+
+#: /question:geo_district_hk/text:1
+msgctxt "/question:geo_district_hk/text"
+msgid "In which district do you currently live in?"
+msgstr "您住在哪區?"
+
+#: /question:geo_district_hk/response:1/text:1
+msgctxt "/question:geo_district_hk/response:1/text"
+msgid "Central & Western"
+msgstr "中西區"
+
+#: /question:geo_district_hk/response:2/text:1
+msgctxt "/question:geo_district_hk/response:2/text"
+msgid "Eastern"
+msgstr "東區"
+
+#: /question:geo_district_hk/response:3/text:1
+msgctxt "/question:geo_district_hk/response:3/text"
+msgid "Southern"
+msgstr "南區"
+
+#: /question:geo_district_hk/response:4/text:1
+msgctxt "/question:geo_district_hk/response:4/text"
+msgid "Wan Chai"
+msgstr "灣仔區"
+
+#: /question:geo_district_hk/response:5/text:1
+msgctxt "/question:geo_district_hk/response:5/text"
+msgid "Kowloon City"
+msgstr "九龍城區"
+
+#: /question:geo_district_hk/response:6/text:1
+msgctxt "/question:geo_district_hk/response:6/text"
+msgid "Kwun Tong"
+msgstr "觀塘區"
+
+#: /question:geo_district_hk/response:7/text:1
+msgctxt "/question:geo_district_hk/response:7/text"
+msgid "Sham Shui Po"
+msgstr "深水埗區"
+
+#: /question:geo_district_hk/response:8/text:1
+msgctxt "/question:geo_district_hk/response:8/text"
+msgid "Wong Tai Sin"
+msgstr "黃大仙區"
+
+#: /question:geo_district_hk/response:9/text:1
+msgctxt "/question:geo_district_hk/response:9/text"
+msgid "Yau Tsim Mong"
+msgstr "油尖旺區"
+
+#: /question:geo_district_hk/response:10/text:1
+msgctxt "/question:geo_district_hk/response:10/text"
+msgid "Kwai Tsing"
+msgstr "葵青區"
+
+#: /question:geo_district_hk/response:11/text:1
+msgctxt "/question:geo_district_hk/response:11/text"
+msgid "North"
+msgstr "北區"
+
+#: /question:geo_district_hk/response:12/text:1
+msgctxt "/question:geo_district_hk/response:12/text"
+msgid "Sai Kung"
+msgstr "西貢區"
+
+#: /question:geo_district_hk/response:13/text:1
+msgctxt "/question:geo_district_hk/response:13/text"
+msgid "Sha Tin"
+msgstr "沙田區"
+
+#: /question:geo_district_hk/response:14/text:1
+msgctxt "/question:geo_district_hk/response:14/text"
+msgid "Tai Po"
+msgstr "大埔區"
+
+#: /question:geo_district_hk/response:15/text:1
+msgctxt "/question:geo_district_hk/response:15/text"
+msgid "Tsuen Wan"
+msgstr "荃灣區"
+
+#: /question:geo_district_hk/response:16/text:1
+msgctxt "/question:geo_district_hk/response:16/text"
+msgid "Tuen Mun"
+msgstr "屯門區"
+
+#: /question:geo_district_hk/response:17/text:1
+msgctxt "/question:geo_district_hk/response:17/text"
+msgid "Yuen Long"
+msgstr "元朗區"
+
+#: /question:geo_district_hk/response:18/text:1
+msgctxt "/question:geo_district_hk/response:18/text"
+msgid "Islands"
+msgstr "離島區"
+
+#: /question:geo_district_hk/response:998/text:1
+msgctxt "/question:geo_district_hk/response:998/text"
+msgid "Other"
+msgstr "其他"
+
+#: /question:nationality/text:1
+msgctxt "/question:nationality/text"
+msgid "What is your nationality?"
+msgstr "您來自哪個國家？ (國籍)"
+
+#: /question:nationality/default_text:1
+msgctxt "/question:nationality/default_text"
+msgid "Please select a country"
+msgstr "請選擇國家"
+
+#: /question:nationality/response:31/text:1
+msgctxt "/question:nationality/response:31/text"
+msgid "Australia"
+msgstr "澳大利亞"
+
+#: /question:nationality/response:61/text:1
+msgctxt "/question:nationality/response:61/text"
+msgid "Mainland China"
+msgstr "中國大陸"
+
+#: /question:nationality/response:112/text:1
+msgctxt "/question:nationality/response:112/text"
+msgid "Hong Kong"
+msgstr "香港"
+
+#: /question:nationality/response:138/text:1
+msgctxt "/question:nationality/response:138/text"
+msgid "Malaysia"
+msgstr "馬來西亞"
+
+#: /question:nationality/response:194/text:1
+msgctxt "/question:nationality/response:194/text"
+msgid "Singapore"
+msgstr "新加坡"
+
+#: /question:nationality/response:134/text:1
+msgctxt "/question:nationality/response:134/text"
+msgid "Macau"
+msgstr "澳門"
+
+#: /question:nationality/response:211/text:1
+msgctxt "/question:nationality/response:211/text"
+msgid "Taiwan"
+msgstr "台灣"
+
+#: /question:nationality/response:116/text:1
+msgctxt "/question:nationality/response:116/text"
+msgid "Indonesia"
+msgstr "印尼"
+
+#: /question:nationality/response:115/text:1
+msgctxt "/question:nationality/response:115/text"
+msgid "India"
+msgstr "印度"
+
+#: /question:nationality/response:13/text:1
+msgctxt "/question:nationality/response:13/text"
+msgid "United Kingdom"
+msgstr "英國"
+
+#: /question:nationality/response:227/text:1
+msgctxt "/question:nationality/response:227/text"
+msgid "United States of America"
+msgstr "美國"
+
+#: /question:nationality/response:175/text:1
+msgctxt "/question:nationality/response:175/text"
+msgid "Philippines"
+msgstr "菲律賓"
+
+#: /question:nationality/response:214/text:1
+msgctxt "/question:nationality/response:214/text"
+msgid "Thailand"
+msgstr "泰國"
+
+#: /question:nationality/response:233/text:1
+msgctxt "/question:nationality/response:233/text"
+msgid "Vietnam"
+msgstr "越南"
+
+#: /question:nationality/response:998/text:1
+msgctxt "/question:nationality/response:998/text"
+msgid "Other"
+msgstr "其他"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid "...\n"
 msgstr ""
+
+#: /free_text/text:1
+#, fuzzy
+msgctxt "/free_text/text"
+msgid ""
+"Thank you for agreeing to participate in this survey\n"
+"\n"
+"**Length of interview:  Approximately 5 minutes **\n"
+"**Prize: 180 Points**\n"
+"\n"
+"Your views are important and more powerful than you think.\n"
+"\n"
+"Please use the ‘next’ button at the bottom of each page to navigate "
+"through the survey. \n"
+"Please do not use the arrow/progress button at the top of your browser.\n"
+msgstr ""
+"多謝您同意參與問卷調查。\n"
+"\n"
+"**完成所需時間：2 分钟**\n"
+"**賬戶信用值：120 點 **\n"
+"\n"
+"您的意見非常重要，比您想像的更有力。\n"
+"\n"
+"在填寫問卷過程中您可以使用各頁下方的“下一頁”按鈕進行翻頁，而不要使用瀏覽器上方的箭頭/前進按鈕。\n"
+"請注意如果出現錯誤提示消息或頁面停止響應，請嘗試刷新頁面。"
+
+#: /question:Q11/text:1
+msgctxt "/question:Q11/text"
+msgid ""
+"Do you think the following descriptions applicable to Asia Miles or Marco"
+" Polo Club (Cathay Pacific)? For each description, you could choose "
+"either one of the brands, or none, or both of them."
+msgstr "您認為以下的句子適合用來形容「亞洲萬里通」還是馬可孛羅會（國泰航空）？您可以就每一句句子選擇「亞洲萬里通」或馬可孛羅會（國泰航空），亦可同時選擇「亞洲萬里通」和馬可孛羅會（國泰航空），或選「以上皆無」。"
+
+#: /question:Q8_1/text:1
+msgctxt "/question:Q8_1/text"
+msgid "Rewarding through daily spending"
+msgstr "通過日常消費得到獎賞"
+
+#: /question:Q8_2/text:1
+msgctxt "/question:Q8_2/text"
+msgid ""
+"Offering variety choice of flight ticket and lifestyle products for "
+"redemption"
+msgstr "提供不同選擇的機票和生活品味產品以供兌換"
+
+#: /question:Q8_3/text:1
+msgctxt "/question:Q8_3/text"
+msgid "Offering premium benefits/ services during travel journey"
+msgstr "在旅程中提供特級享受／服務"
+
+#: /question:Q8_4/text:1
+msgctxt "/question:Q8_4/text"
+msgid "For upgrading travel experience"
+msgstr "提升旅行體驗"
+
+#: /question:Q8_5/text:1
+msgctxt "/question:Q8_5/text"
+msgid "For saving travel costs"
+msgstr "節省旅行支出"
+
+#: /question:Q8_6/text:1
+msgctxt "/question:Q8_6/text"
+msgid "Earn miles through flying, credit card spending and other daily activities"
+msgstr "通過飛行，信用卡消費和日常生活賺取里數"
+
+#: /question:Q8_7/text:1
+msgctxt "/question:Q8_7/text"
+msgid "With different membership tiers"
+msgstr "有不同的會籍等級"
+
+#: /question:Q8_8/text:1
+msgctxt "/question:Q8_8/text"
+msgid "Inspiring my travel and living style"
+msgstr "為我的旅行和生活品味帶來啟發"
+
+#: /question:Q8_9/text:1
+msgctxt "/question:Q8_9/text"
+msgid "Travel and lifestyle rewards programme"
+msgstr "旅遊及消閒獎勵計劃"
+
+#: /question:Q8_10/text:1
+msgctxt "/question:Q8_10/text"
+msgid "Loyalty programme of Cathay Pacific"
+msgstr "國泰航空的忠誠顧客計劃"
+
+#: /question:Q8_11/text:1
+msgctxt "/question:Q8_11/text"
+msgid "Free to join the programme"
+msgstr "免費加入"
+
+#: /question:Q11/response:1/text:1
+msgctxt "/question:Q11/response:1/text"
+msgid "Asia Miles"
+msgstr "「亞洲萬里通」"
+
+#: /question:Q11/response:2/text:1
+msgctxt "/question:Q11/response:2/text"
+msgid "Marco Polo Club (Cathay Pacific)"
+msgstr "馬可孛羅會（國泰航空）"
+
+#: /question:Q11/response:99/text:1
+msgctxt "/question:Q11/response:99/text"
+msgid "None"
+msgstr "以上皆無"
+
+#: /question:Q22/text:1
+msgctxt "/question:Q22/text"
+msgid ""
+"Are you aware of the recent \"Miles More Ways to Earn\" campaign by Asia "
+"Miles? If yes, did you participate in it?"
+msgstr ""
+"您有沒有留意到最近有關「亞洲萬里通」—「跨享更多里賞」的推廣活動? \n"
+"如有，您有沒有參加此活動？"
+
+#: /question:Q22/response:1/text:1
+msgctxt "/question:Q22/response:1/text"
+msgid ""
+"Yes, I am aware of the \"Miles More Ways to Earn\" campaign by Asia Miles"
+" AND I have participated in it"
+msgstr "我留意到有關「亞洲萬里通」—「跨享更多里賞」的推廣活動，而且我有參加此活動 "
+
+#: /question:Q22/response:2/text:1
+msgctxt "/question:Q22/response:2/text"
+msgid ""
+"Yes, I am aware of the \"Miles More Ways to Earn\" campaign by Asia Miles"
+" BUT I have not participated in it"
+msgstr "我留意到有關「亞洲萬里通」—「跨享更多里賞」的推廣活動，但我沒有參加此活動"
+
+#: /question:Q22/response:3/text:1
+msgctxt "/question:Q22/response:3/text"
+msgid ""
+"No, I am not aware of the \"Miles More Ways to Earn\" campaign by Asia "
+"Miles"
+msgstr "我沒有留意到有關「亞洲萬里通」—「跨享更多里賞」 的推廣活動"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid "**Moving on...**\n"
+msgstr "**繼續...**\n"
+
+#: /question:CLC_Q44_new/text:1
+msgctxt "/question:CLC_Q44_new/text"
+msgid ""
+"Which ONE, if any, of the following animals would you say you _identify "
+"with_ the most?"
+msgstr "以下哪種動物，你覺得與自己 _最相似_  ？"
+
+#: /question:CLC_Q44_new/response:1/text:1
+msgctxt "/question:CLC_Q44_new/response:1/text"
+msgid "Dog"
+msgstr "狗"
+
+#: /question:CLC_Q44_new/response:2/text:1
+msgctxt "/question:CLC_Q44_new/response:2/text"
+msgid "Cat"
+msgstr "貓"
+
+#: /question:CLC_Q44_new/response:3/text:1
+msgctxt "/question:CLC_Q44_new/response:3/text"
+msgid "Bird"
+msgstr "鳥"
+
+#: /question:CLC_Q44_new/response:4/text:1
+msgctxt "/question:CLC_Q44_new/response:4/text"
+msgid "Rabbit"
+msgstr "兔"
+
+#: /question:CLC_Q44_new/response:5/text:1
+msgctxt "/question:CLC_Q44_new/response:5/text"
+msgid "Mouse"
+msgstr "老鼠"
+
+#: /question:CLC_Q44_new/response:6/text:1
+msgctxt "/question:CLC_Q44_new/response:6/text"
+msgid "Pig"
+msgstr "豬"
+
+#: /question:CLC_Q44_new/response:7/text:1
+msgctxt "/question:CLC_Q44_new/response:7/text"
+msgid "Sheep"
+msgstr "羊"
+
+#: /question:CLC_Q44_new/response:8/text:1
+msgctxt "/question:CLC_Q44_new/response:8/text"
+msgid "Horse"
+msgstr "馬"
+
+#: /question:CLC_Q44_new/response:9/text:1
+msgctxt "/question:CLC_Q44_new/response:9/text"
+msgid "Tiger"
+msgstr "老虎"
+
+#: /question:CLC_Q44_new/response:10/text:1
+msgctxt "/question:CLC_Q44_new/response:10/text"
+msgid "Lion"
+msgstr "獅子"
+
+#: /question:CLC_Q44_new/response:11/text:1
+msgctxt "/question:CLC_Q44_new/response:11/text"
+msgid "Leopard"
+msgstr "豹"
+
+#: /question:CLC_Q44_new/response:12/text:1
+msgctxt "/question:CLC_Q44_new/response:12/text"
+msgid "Elephant"
+msgstr "大象"
+
+#: /question:CLC_Q44_new/response:13/text:1
+msgctxt "/question:CLC_Q44_new/response:13/text"
+msgid "Giraffe"
+msgstr "長頸鹿"
+
+#: /question:CLC_Q44_new/response:14/text:1
+msgctxt "/question:CLC_Q44_new/response:14/text"
+msgid "Alligator"
+msgstr "鱷魚"
+
+#: /question:CLC_Q44_new/response:15/text:1
+msgctxt "/question:CLC_Q44_new/response:15/text"
+msgid "Snake"
+msgstr "蛇"
+
+#: /question:CLC_Q44_new/response:16/text:1
+msgctxt "/question:CLC_Q44_new/response:16/text"
+msgid "Lizard"
+msgstr "蜥蝪"
+
+#: /question:CLC_Q44_new/response:17/text:1
+msgctxt "/question:CLC_Q44_new/response:17/text"
+msgid "Kangaroo"
+msgstr "袋鼠"
+
+#: /question:CLC_Q44_new/response:18/text:1
+msgctxt "/question:CLC_Q44_new/response:18/text"
+msgid "Ant"
+msgstr "螞蟻"
+
+#: /question:CLC_Q44_new/response:19/text:1
+msgctxt "/question:CLC_Q44_new/response:19/text"
+msgid "Spider"
+msgstr "蜘蛛"
+
+#: /question:CLC_Q44_new/response:20/text:1
+msgctxt "/question:CLC_Q44_new/response:20/text"
+msgid "Butterfly"
+msgstr "蝴蝶"
+
+#: /question:CLC_Q44_new/response:21/text:1
+msgctxt "/question:CLC_Q44_new/response:21/text"
+msgid "Shark"
+msgstr "鯊魚"
+
+#: /question:CLC_Q44_new/response:22/text:1
+msgctxt "/question:CLC_Q44_new/response:22/text"
+msgid "Fish"
+msgstr "魚"
+
+#: /question:CLC_Q44_new/response:23/text:1
+msgctxt "/question:CLC_Q44_new/response:23/text"
+msgid "Dolphin"
+msgstr "海豚"
+
+#: /question:CLC_Q44_new/response:24/text:1
+msgctxt "/question:CLC_Q44_new/response:24/text"
+msgid "Penguin"
+msgstr "企鵝"
+
+#: /question:CLC_Q44_new/response:25/text:1
+msgctxt "/question:CLC_Q44_new/response:25/text"
+msgid "Sloth"
+msgstr "樹獺"
+
+#: /question:CLC_Q44_new/response:977/text:1
+msgctxt "/question:CLC_Q44_new/response:977/text"
+msgid "Other"
+msgstr "其他"
+
+#: /question:CLC_Q44_new/response:988/text:1
+msgctxt "/question:CLC_Q44_new/response:988/text"
+msgid "Don't know"
+msgstr "不知道"
+
+#: /question:CIC_Q47a_new/text:1
+msgctxt "/question:CIC_Q47a_new/text"
+msgid ""
+"If it was possible and you could choose, which ONE, if any, of the "
+"following planets would you MOST like to live on?"
+msgstr "如果能夠選擇，你最想在以下哪一個星球上生活？"
+
+#: /question:CIC_Q47a_new/response:1/text:1
+msgctxt "/question:CIC_Q47a_new/response:1/text"
+msgid "Mercury"
+msgstr "水星"
+
+#: /question:CIC_Q47a_new/response:2/text:1
+msgctxt "/question:CIC_Q47a_new/response:2/text"
+msgid "Venus"
+msgstr "金星"
+
+#: /question:CIC_Q47a_new/response:3/text:1
+msgctxt "/question:CIC_Q47a_new/response:3/text"
+msgid "Earth"
+msgstr "地球"
+
+#: /question:CIC_Q47a_new/response:4/text:1
+msgctxt "/question:CIC_Q47a_new/response:4/text"
+msgid "Mars"
+msgstr "火星"
+
+#: /question:CIC_Q47a_new/response:5/text:1
+msgctxt "/question:CIC_Q47a_new/response:5/text"
+msgid "Jupiter"
+msgstr "木星"
+
+#: /question:CIC_Q47a_new/response:6/text:1
+msgctxt "/question:CIC_Q47a_new/response:6/text"
+msgid "Saturn"
+msgstr "土星"
+
+#: /question:CIC_Q47a_new/response:7/text:1
+msgctxt "/question:CIC_Q47a_new/response:7/text"
+msgid "Uranus"
+msgstr "天王星"
+
+#: /question:CIC_Q47a_new/response:8/text:1
+msgctxt "/question:CIC_Q47a_new/response:8/text"
+msgid "Neptune"
+msgstr "海王星"
+
+#: /question:CIC_Q47a_new/response:9/text:1
+msgctxt "/question:CIC_Q47a_new/response:9/text"
+msgid "None of these"
+msgstr "以上皆非"
+
+#: /question:CIC_Q47a_new/response:10/text:1
+msgctxt "/question:CIC_Q47a_new/response:10/text"
+msgid "Don't know"
+msgstr "不知道"
+
+#: /question:CIC_Q8_new/text:1
+msgctxt "/question:CIC_Q8_new/text"
+msgid ""
+"<p><b>For the following question, please imagine that you won money on "
+"the National Lottery...</b>Which ONE, if any, of the following would be "
+"the FIRST thing you would do?</p>"
+msgstr "<p><b>以下的問題，請想像您贏取了六合彩獎金…</b>以下哪項會是您首要做的事？</p>"
+
+#: /question:CIC_Q8_new/response:2/text:1
+msgctxt "/question:CIC_Q8_new/response:2/text"
+msgid "Travel the world (e.g. an extended trip around the world)"
+msgstr "遊歷世界 （例如︰環遊世界的長途旅行）"
+
+#: /question:CIC_Q8_new/response:3/text:1
+msgctxt "/question:CIC_Q8_new/response:3/text"
+msgid "Buy a house"
+msgstr "買樓"
+
+#: /question:CIC_Q8_new/response:4/text:1
+msgctxt "/question:CIC_Q8_new/response:4/text"
+msgid "Buy a car"
+msgstr "買車"
+
+#: /question:CIC_Q8_new/response:5/text:1
+msgctxt "/question:CIC_Q8_new/response:5/text"
+msgid "Go on a holiday"
+msgstr "享受假期"
+
+#: /question:CIC_Q8_new/response:6/text:1
+msgctxt "/question:CIC_Q8_new/response:6/text"
+msgid "Donate to charity"
+msgstr "捐款予慈善團體"
+
+#: /question:CIC_Q8_new/response:20/text:1
+msgctxt "/question:CIC_Q8_new/response:20/text"
+msgid "Quit job"
+msgstr "離職"
+
+#: /question:CIC_Q8_new/response:7/text:1
+msgctxt "/question:CIC_Q8_new/response:7/text"
+msgid "Give money to my family/ friends"
+msgstr "將獎金贈予家人/朋友"
+
+#: /question:CIC_Q8_new/response:8/text:1
+msgctxt "/question:CIC_Q8_new/response:8/text"
+msgid "Invest the money"
+msgstr "投資"
+
+#: /question:CIC_Q8_new/response:9/text:1
+msgctxt "/question:CIC_Q8_new/response:9/text"
+msgid "Go on a shopping spree (i.e clothes, jewelry, shoes etc)"
+msgstr "瘋狂購物（即衣服、珠寶、鞋履等）"
+
+#: /question:CIC_Q8_open1/prompt:1
+msgctxt "/question:CIC_Q8_open1/prompt"
+msgid "Please Specify"
+msgstr "請註明"
+
+#: /question:CIC_Q8_new/response:15/text:1
+msgctxt "/question:CIC_Q8_new/response:15/text"
+msgid "Other"
+msgstr "其他"
+
+#: /question:CIC_Q8_new/response:11/text:1
+msgctxt "/question:CIC_Q8_new/response:11/text"
+msgid "Don't know"
+msgstr "不知道"
+
+#: /question:CIC_Q22/text:1
+msgctxt "/question:CIC_Q22/text"
+msgid ""
+"<div><p><b>For the following question, even if you never go on dates, we "
+"are still interested in your opinion.</b></p><div><b>Please imagine you "
+"were to go on a first date with someone...</b></div><div><p>Which one of "
+"the following statements best describes how much you think you would "
+"contribute towards the <b><u>total</u> </b>cost of the "
+"date?</p></div></div>"
+msgstr "<div><p><b>以下的問題，即使您從未約會過，我們仍對您的意見感興趣。</b></p><div><b>請想像您與某人首次約會…</b></div><div><p>以下哪句您認為最能描述自己的約會花費？</p></div></div>"
+
+#: /question:CIC_Q22/response:1/text:1
+msgctxt "/question:CIC_Q22/response:1/text"
+msgid "I would pay the full cost"
+msgstr "我會支付全部費用"
+
+#: /question:CIC_Q22/response:2/text:1
+msgctxt "/question:CIC_Q22/response:2/text"
+msgid "I would pay most of the cost"
+msgstr "我會支付大部分費用"
+
+#: /question:CIC_Q22/response:3/text:1
+msgctxt "/question:CIC_Q22/response:3/text"
+msgid ""
+"I would pay half of the cost (i.e. splitting the cost equally between "
+"both people)"
+msgstr "我會支付一半費用 （即兩人平均攤分費用）"
+
+#: /question:CIC_Q22/response:4/text:1
+msgctxt "/question:CIC_Q22/response:4/text"
+msgid "I would let my date pay most of the cost"
+msgstr "我會讓約會對象支付大部分費用"
+
+#: /question:CIC_Q22/response:5/text:1
+msgctxt "/question:CIC_Q22/response:5/text"
+msgid "I would let my date pay the full cost"
+msgstr "我會讓約會對象支付全部費用"
+
+#: /question:CIC_Q22/response:6/text:1
+msgctxt "/question:CIC_Q22/response:6/text"
+msgid "Don't know"
+msgstr "不知道"
+
+#: /question:CLC_Q31_new/text:1
+msgctxt "/question:CLC_Q31_new/text"
+msgid ""
+"Do you know _the MAIN reason why_ each of the following holidays are "
+"celebrated?"
+msgstr "請問您是否知道慶祝下列各個假期的 _主要原因_ 是 ？"
+
+#: /question:CLC_Q31_1/text:1
+msgctxt "/question:CLC_Q31_1/text"
+msgid "Independence Day in the US"
+msgstr "美國獨立日"
+
+#: /question:CLC_Q31_2/text:1
+msgctxt "/question:CLC_Q31_2/text"
+msgid "Bastille Day in France"
+msgstr "法國國慶日"
+
+#: /question:CLC_Q31_new/response:1/text:1
+msgctxt "/question:CLC_Q31_new/response:1/text"
+msgid "Yes, I do"
+msgstr "知道"
+
+#: /question:CLC_Q31_new/response:2/text:1
+msgctxt "/question:CLC_Q31_new/response:2/text"
+msgid "No, I don't"
+msgstr "不知道"
+
+#: /question:maritalstatus/text:1
+msgctxt "/question:maritalstatus/text"
+msgid "What is your current marital status?"
+msgstr "您的婚姻狀況是？"
+
+#: /question:maritalstatus/response:1/text:1
+msgctxt "/question:maritalstatus/response:1/text"
+msgid "Married"
+msgstr "已婚"
+
+#: /question:maritalstatus/response:2/text:1
+msgctxt "/question:maritalstatus/response:2/text"
+msgid "Living with partner"
+msgstr "與伴侶同居"
+
+#: /question:maritalstatus/response:3/text:1
+msgctxt "/question:maritalstatus/response:3/text"
+msgid "In relationship, but not living with partner"
+msgstr "已有戀愛對象，但未同居"
+
+#: /question:maritalstatus/response:4/text:1
+msgctxt "/question:maritalstatus/response:4/text"
+msgid "Widowed"
+msgstr "喪偶"
+
+#: /question:maritalstatus/response:5/text:1
+msgctxt "/question:maritalstatus/response:5/text"
+msgid "Divorced"
+msgstr "離異"
+
+#: /question:maritalstatus/response:6/text:1
+msgctxt "/question:maritalstatus/response:6/text"
+msgid "Separated"
+msgstr "分居"
+
+#: /question:maritalstatus/response:7/text:1
+msgctxt "/question:maritalstatus/response:7/text"
+msgid "Single"
+msgstr "單身"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"<div class=\"alert alert-error\">Sir/ Madam, your current age is "
+"$pipe_age, you have declared that you are a full time student. Please "
+"ensure that you have properly selected your intended answer.</div>\n"
+msgstr ""
+"<div class=\"alert alert-error\">女士/先生，您目前的年齡是$pipe_age, "
+"您曾表示您是全職學生。請確認您已選擇了與實際相符的答案。</div>"
+
+#: /question:employment_status_hk/text:1
+msgctxt "/question:employment_status_hk/text"
+msgid "Which of these applies to you?"
+msgstr "以下哪個選項最符合您的情況？"
+
+#: /question:employment_status_hk/response:1/text:1
+msgctxt "/question:employment_status_hk/response:1/text"
+msgid "Working full time (30 or more hours per week)"
+msgstr "全職上班 (每星期30小時或以上)"
+
+#: /question:employment_status_hk/response:2/text:1
+msgctxt "/question:employment_status_hk/response:2/text"
+msgid "Working part time (8-29 hours a week)"
+msgstr "兼職 (每星期8-29小時)"
+
+#: /question:employment_status_hk/response:3/text:1
+msgctxt "/question:employment_status_hk/response:3/text"
+msgid "Working part time (Less than 8 hours a week)"
+msgstr "兼職 (每星期少於8小時)"
+
+#: /question:employment_status_hk/response:4/text:1
+msgctxt "/question:employment_status_hk/response:4/text"
+msgid "Full time student"
+msgstr "全職學生"
+
+#: /question:employment_status_hk/response:5/text:1
+msgctxt "/question:employment_status_hk/response:5/text"
+msgid "Retired"
+msgstr "退休"
+
+#: /question:employment_status_hk/response:6/text:1
+msgctxt "/question:employment_status_hk/response:6/text"
+msgid "Unemployed"
+msgstr "待業 (正在找工作)"
+
+#: /question:employment_status_hk/response:7/text:1
+msgctxt "/question:employment_status_hk/response:7/text"
+msgid "Not working"
+msgstr "沒有工作 (不打算找工作)"
+
+#: /question:employment_status_hk/response:8/text:1
+msgctxt "/question:employment_status_hk/response:8/text"
+msgid "Other"
+msgstr "其它"
+
+#: /question:localincome_hk/text:1
+msgctxt "/question:localincome_hk/text"
+msgid ""
+"If you add up the income from all sources, what is your average NET "
+"household income per month? (Net income means amounts as you receive it, "
+"which is normally after tax and contributions to social insurance and "
+"pension.)"
+msgstr "如果將各種收入加起來，請問您家庭平均每月淨收入是多少？ （淨收入是指您在扣除稅金及社保或養老保險之後所獲得全部收入）"
+
+#: /question:localincome_hk/default_text:1
+msgctxt "/question:localincome_hk/default_text"
+msgid "Please select"
+msgstr "請選擇"
+
+#: /question:localincome_hk/response:1/text:1
+msgctxt "/question:localincome_hk/response:1/text"
+msgid "Under HKD 7,999"
+msgstr "8,000 港元以下"
+
+#: /question:localincome_hk/response:2/text:1
+msgctxt "/question:localincome_hk/response:2/text"
+msgid "HKD 8,000–9,999"
+msgstr "8,000–9,999 港元"
+
+#: /question:localincome_hk/response:3/text:1
+msgctxt "/question:localincome_hk/response:3/text"
+msgid "HKD 10,000–14,999"
+msgstr "10,000–14,999 港元"
+
+#: /question:localincome_hk/response:4/text:1
+msgctxt "/question:localincome_hk/response:4/text"
+msgid "HKD 15,000–19,999"
+msgstr "15,000–19,999 港元"
+
+#: /question:localincome_hk/response:5/text:1
+msgctxt "/question:localincome_hk/response:5/text"
+msgid "HKD 20,000–24,999"
+msgstr "20,000–24,999 港元"
+
+#: /question:localincome_hk/response:6/text:1
+msgctxt "/question:localincome_hk/response:6/text"
+msgid "HKD 25,000–29,999"
+msgstr "25,000–29,999 港元"
+
+#: /question:localincome_hk/response:7/text:1
+msgctxt "/question:localincome_hk/response:7/text"
+msgid "HKD 30,000–34,999"
+msgstr "30,000–34,999 港元"
+
+#: /question:localincome_hk/response:8/text:1
+msgctxt "/question:localincome_hk/response:8/text"
+msgid "HKD 35,000–39,999"
+msgstr "35,000–39,999 港元"
+
+#: /question:localincome_hk/response:9/text:1
+msgctxt "/question:localincome_hk/response:9/text"
+msgid "HKD 40,000–44,999"
+msgstr "40,000–44,999 港元"
+
+#: /question:localincome_hk/response:10/text:1
+msgctxt "/question:localincome_hk/response:10/text"
+msgid "HKD 45,000–49,999"
+msgstr "45,000–49,999 港元"
+
+#: /question:localincome_hk/response:11/text:1
+msgctxt "/question:localincome_hk/response:11/text"
+msgid "HKD 50,000–59,999"
+msgstr "50,000–59,999 港元"
+
+#: /question:localincome_hk/response:12/text:1
+msgctxt "/question:localincome_hk/response:12/text"
+msgid "HKD 60,000–79,999"
+msgstr "60,000–79,999 港元"
+
+#: /question:localincome_hk/response:13/text:1
+msgctxt "/question:localincome_hk/response:13/text"
+msgid "HKD 80,000–99,999"
+msgstr "80,000–99,999 港元"
+
+#: /question:localincome_hk/response:14/text:1
+msgctxt "/question:localincome_hk/response:14/text"
+msgid "HKD 100,000 and over"
+msgstr "100,000 港元或以上"
+
+#: /question:localincome_hk/response:998/text:1
+msgctxt "/question:localincome_hk/response:998/text"
+msgid "Prefer not to say"
+msgstr "不願透露"
+
+#: /question:localincome_hk/response:999/text:1
+msgctxt "/question:localincome_hk/response:999/text"
+msgid "Don't know"
+msgstr "不清楚"
+
+#: /question:education_a_hk/text:1
+msgctxt "/question:education_a_hk/text"
+msgid "What is the highest level of education you have completed?"
+msgstr "請問您的最高文化教育水平是？"
+
+#: /question:education_a_hk/response:1/text:1
+msgctxt "/question:education_a_hk/response:1/text"
+msgid "Primary school (P1-P6)"
+msgstr "小學 (P1-P6) "
+
+#: /question:education_a_hk/response:2/text:1
+msgctxt "/question:education_a_hk/response:2/text"
+msgid "Junior Secondary (F1-F3)"
+msgstr "初中 (F1-F3)"
+
+#: /question:education_a_hk/response:3/text:1
+msgctxt "/question:education_a_hk/response:3/text"
+msgid "Senior secondary (F4-F6/7)"
+msgstr "高中 (F4-F6/7)"
+
+#: /question:education_a_hk/response:4/text:1
+msgctxt "/question:education_a_hk/response:4/text"
+msgid ""
+"Non-Degree Tertiary (e.g.  Diploma, Higher Diploma, Associate degree, "
+"vocational education)"
+msgstr "專上教育（例如文憑，高級文憑，副學士，職業技術教育等)"
+
+#: /question:education_a_hk/response:5/text:1
+msgctxt "/question:education_a_hk/response:5/text"
+msgid "University  degree (e.g. BA, BSc, B.Ed)"
+msgstr "大學本科（例如文學學士，理學學士，教育學學士等)"
+
+#: /question:education_a_hk/response:6/text:1
+msgctxt "/question:education_a_hk/response:6/text"
+msgid "University higher degree (Masters, MBA, PhD)"
+msgstr "大學本科以上（例如碩士，工商管理碩士，博士等)"
+
+#: /question:education_a_hk/response:7/text:1
+msgctxt "/question:education_a_hk/response:7/text"
+msgid "Professional higher education (e.g. to qualify as a lawyer, accountant)"
+msgstr "專業資格（例如律師資格證書，會計師資格證書等)"
+
+#: /question:education_a_hk/response:97/text:1
+msgctxt "/question:education_a_hk/response:97/text"
+msgid "None of these"
+msgstr "以上皆非"
+
+#~ msgctxt "/question:vendor/response:2/text"
+#~ msgid "Vendor 1"
+#~ msgstr "Vendor 1"
+

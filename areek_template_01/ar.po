@@ -1,26 +1,6933 @@
+# Translations template for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-22 08:49+0000\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-01-30 11:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: ar\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.5.1\n"
+"Generated-By: Babel 2.6.0\n"
 
-msgctxt "Dialog title"
-msgid "Log in"
+#: /question:QWsAV/text:1
+msgctxt "/question:QWsAV/text"
+msgid "Header Question"
 msgstr ""
 
-msgid "Oh well"
+#: /question:QWsAV/response:1/text:1
+msgctxt "/question:QWsAV/response:1/text"
+msgid "asd"
 msgstr ""
 
-msgid "Cool!"
+#: /question:QWsAV/response:2/text:1
+msgctxt "/question:QWsAV/response:2/text"
+msgid "asfsf"
 msgstr ""
 
-msgid "Of course!"
+#: /question:vESTH/text:1
+msgctxt "/question:vESTH/text"
+msgid "Client Question"
 msgstr ""
+
+#: /question:vESTH/response:1/text:1
+msgctxt "/question:vESTH/response:1/text"
+msgid "aaa"
+msgstr ""
+
+#: /question:vESTH/response:2/text:1
+msgctxt "/question:vESTH/response:2/text"
+msgid "ssff"
+msgstr ""
+
+#: /question:l37Tr/text:1
+msgctxt "/question:l37Tr/text"
+msgid "Tail Question"
+msgstr ""
+
+#: /question:l37Tr/response:1/text:1
+msgctxt "/question:l37Tr/response:1/text"
+msgid "asff"
+msgstr ""
+
+#: /question:l37Tr/response:2/text:1
+msgctxt "/question:l37Tr/response:2/text"
+msgid "asf"
+msgstr ""
+
+#: /question:l37Tr/response:3/text:1
+msgctxt "/question:l37Tr/response:3/text"
+msgid "gdf"
+msgstr ""
+
+#: /question:Ux7Ij/text:1
+msgctxt "/question:Ux7Ij/text"
+msgid "template question"
+msgstr ""
+
+#: /question:Ux7Ij/response:1/text:1
+msgctxt "/question:Ux7Ij/response:1/text"
+msgid "abc"
+msgstr ""
+
+#: /question:Ux7Ij/response:2/text:1
+msgctxt "/question:Ux7Ij/response:2/text"
+msgid "mno"
+msgstr ""
+
+#: /question:Ux7Ij/response:3/text:1
+msgctxt "/question:Ux7Ij/response:3/text"
+msgid "xyz"
+msgstr ""
+
+#~ msgctxt "/question:Ux7Ij/text"
+#~ msgid "template question"
+#~ msgstr ""
+
+#~ msgctxt "/question:Ux7Ij/response:1/text"
+#~ msgid "abc"
+#~ msgstr ""
+
+#~ msgctxt "/question:Ux7Ij/response:2/text"
+#~ msgid "mno"
+#~ msgstr ""
+
+#~ msgctxt "/question:Ux7Ij/response:3/text"
+#~ msgid "xyz"
+#~ msgstr ""
+
+#~ msgctxt "/question:lingua/text"
+#~ msgid ""
+#~ "<p style=\"text-align:center;width:100%;\">What is"
+#~ " your preferred language to answer "
+#~ "surveys with?<br/>ما اللّغة التي تفضل "
+#~ "استخدامها عند الإجابة على الاستطلاعات؟</p>"
+#~ msgstr ""
+
+#~ msgctxt "/question:vAKfT/text"
+#~ msgid "India"
+#~ msgstr "الهند"
+
+#~ msgctxt "/question:vAKfT/response:1/text"
+#~ msgid "Hong Kong"
+#~ msgstr "هونج كونج"
+
+#~ msgctxt "/question:vAKfT/response:2/text"
+#~ msgid "Poland"
+#~ msgstr "بولندا"
+
+#~ msgctxt "/question:vAKfT/response:3/text"
+#~ msgid "London"
+#~ msgstr "لندن"
+
+#~ msgctxt "/logic/text"
+#~ msgid "Please enter response for Consumed Ever"
+#~ msgstr "يرجى ادخال الإجابة اللخيار \"لم استهلكهه من قبل\" "
+
+#~ msgctxt "/logic/text"
+#~ msgid "Please enter response for Consumed in last 4 weeks"
+#~ msgstr "يرجى ادخال الإجابة للخيار \"استهلكته خلال ال4 أسابيع الماضية\" "
+
+#~ msgctxt "/logic/text"
+#~ msgid "Please enter response for Consumed in last 1 week"
+#~ msgstr "يرجى ادخال الإجابة للخيار \"استهلكته خلال الإسبوع الماضي\""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "<div style=\"text-align: center;\">\n"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<style>\n"
+#~ "#mainNav {display:none !important;}\n"
+#~ "#deviceId {display:none}\n"
+#~ "#deviceId_2 {display:none}\n"
+#~ "</style>\n"
+#~ "<script>\n"
+#~ "ready(function () {\n"
+#~ "$.when(\n"
+#~ "$.getScript( \"$fingerprint_js.raw\" ),\n"
+#~ "$.getScript( \"$client_min_js.raw\" ),\n"
+#~ "$.Deferred(function( deferred ){\n"
+#~ "$( deferred.resolve );\n"
+#~ "})\n"
+#~ ").done(function(){\n"
+#~ "$('#deviceId').find('input').val($.fingerprint());\n"
+#~ "$('#deviceId_2').find('input').val((new "
+#~ "ClientJS()).getFingerprint());\n"
+#~ "$('#next_button').click()\n"
+#~ "});\n"
+#~ "});\n"
+#~ "</script>\n"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "<div id=\"deviceId\">\n"
+#~ msgstr ""
+
+#~ msgctxt "/question:deviceId/text"
+#~ msgid "Your Unique ID:"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "</div>\n"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "<div id=\"deviceId_2\">\n"
+#~ msgstr ""
+
+#~ msgctxt "/question:deviceId_2/text"
+#~ msgid "Your Unique ID 2:"
+#~ msgstr ""
+
+#~ msgctxt "/question:city/text"
+#~ msgid "In which city do you currently live?"
+#~ msgstr "فى أي مدينة تعيش حالياً؟"
+
+#~ msgctxt "/question:city/default_text"
+#~ msgid "Please select the city you live in"
+#~ msgstr "الرجاء اختيار المدينة التي تعيش فيها حالياً"
+
+#~ msgctxt "/question:city/response:2/text"
+#~ msgid "Ain el Beida"
+#~ msgstr "عين البيضا"
+
+#~ msgctxt "/question:city/response:3/text"
+#~ msgid "Algiers"
+#~ msgstr "الجزائر"
+
+#~ msgctxt "/question:city/response:4/text"
+#~ msgid "Annaba"
+#~ msgstr "عنابة"
+
+#~ msgctxt "/question:city/response:5/text"
+#~ msgid "Bab Ezzouar"
+#~ msgstr "باب الزوار"
+
+#~ msgctxt "/question:city/response:6/text"
+#~ msgid "Batna"
+#~ msgstr "باتنة"
+
+#~ msgctxt "/question:city/response:7/text"
+#~ msgid "Béchar"
+#~ msgstr "بشار"
+
+#~ msgctxt "/question:city/response:8/text"
+#~ msgid "Béjaïa"
+#~ msgstr "بجاية"
+
+#~ msgctxt "/question:city/response:9/text"
+#~ msgid "Biskra"
+#~ msgstr "بسكرة"
+
+#~ msgctxt "/question:city/response:10/text"
+#~ msgid "Blida"
+#~ msgstr "البليدة"
+
+#~ msgctxt "/question:city/response:11/text"
+#~ msgid "Bordj Bou Arreridj"
+#~ msgstr "برج بوعريريج"
+
+#~ msgctxt "/question:city/response:12/text"
+#~ msgid "Bordj el Kiffan"
+#~ msgstr "برج الكيفان"
+
+#~ msgctxt "/question:city/response:13/text"
+#~ msgid "Bou Saâda"
+#~ msgstr "بوسعادة"
+
+#~ msgctxt "/question:city/response:14/text"
+#~ msgid "Chlef"
+#~ msgstr "الشلف"
+
+#~ msgctxt "/question:city/response:15/text"
+#~ msgid "Constantine"
+#~ msgstr "قسنطينة"
+
+#~ msgctxt "/question:city/response:16/text"
+#~ msgid "Djelfa"
+#~ msgstr "الجلفة"
+
+#~ msgctxt "/question:city/response:17/text"
+#~ msgid "El Khroub"
+#~ msgstr "الخروب"
+
+#~ msgctxt "/question:city/response:18/text"
+#~ msgid "El Oued"
+#~ msgstr "الواد"
+
+#~ msgctxt "/question:city/response:19/text"
+#~ msgid "Ghardaia"
+#~ msgstr "غرداية"
+
+#~ msgctxt "/question:city/response:20/text"
+#~ msgid "Guelma"
+#~ msgstr "قالمة"
+
+#~ msgctxt "/question:city/response:21/text"
+#~ msgid "Jijel"
+#~ msgstr "جيجل"
+
+#~ msgctxt "/question:city/response:22/text"
+#~ msgid "Khenchela"
+#~ msgstr "خنشلة"
+
+#~ msgctxt "/question:city/response:23/text"
+#~ msgid "Laghouat"
+#~ msgstr "الأغواط"
+
+#~ msgctxt "/question:city/response:24/text"
+#~ msgid "Médéa"
+#~ msgstr "مدية"
+
+#~ msgctxt "/question:city/response:25/text"
+#~ msgid "Messaad"
+#~ msgstr "مسعد"
+
+#~ msgctxt "/question:city/response:26/text"
+#~ msgid "Mostaganem"
+#~ msgstr "مستغانم"
+
+#~ msgctxt "/question:city/response:27/text"
+#~ msgid "M'Sila"
+#~ msgstr "المسيلة"
+
+#~ msgctxt "/question:city/response:28/text"
+#~ msgid "Oran"
+#~ msgstr "وهران"
+
+#~ msgctxt "/question:city/response:29/text"
+#~ msgid "Ouargla"
+#~ msgstr "ورقلة"
+
+#~ msgctxt "/question:city/response:30/text"
+#~ msgid "Relizane"
+#~ msgstr "غليزان"
+
+#~ msgctxt "/question:city/response:31/text"
+#~ msgid "Saida"
+#~ msgstr "صيدا"
+
+#~ msgctxt "/question:city/response:32/text"
+#~ msgid "Sétif"
+#~ msgstr "سطيف"
+
+#~ msgctxt "/question:city/response:33/text"
+#~ msgid "Sidi Bel Abbes"
+#~ msgstr "سيدي بلعباس"
+
+#~ msgctxt "/question:city/response:34/text"
+#~ msgid "Skikda"
+#~ msgstr "سكيكدة"
+
+#~ msgctxt "/question:city/response:35/text"
+#~ msgid "Souk Ahras"
+#~ msgstr "سوق أهراس"
+
+#~ msgctxt "/question:city/response:36/text"
+#~ msgid "Tébessa"
+#~ msgstr "تبسة"
+
+#~ msgctxt "/question:city/response:37/text"
+#~ msgid "Tiaret"
+#~ msgstr "تيارت"
+
+#~ msgctxt "/question:city/response:38/text"
+#~ msgid "Tlemcen"
+#~ msgstr "تلمسان"
+
+#~ msgctxt "/question:city/response:39/text"
+#~ msgid "Touggourt"
+#~ msgstr "تقرت"
+
+#~ msgctxt "/question:city/response:40/text"
+#~ msgid "Aali"
+#~ msgstr "اعالي"
+
+#~ msgctxt "/question:city/response:41/text"
+#~ msgid "al-Budayyi"
+#~ msgstr "البدي"
+
+#~ msgctxt "/question:city/response:42/text"
+#~ msgid "al-Malikiyah"
+#~ msgstr "آل المالكية"
+
+#~ msgctxt "/question:city/response:43/text"
+#~ msgid "al-Muharraq"
+#~ msgstr "المحرق"
+
+#~ msgctxt "/question:city/response:44/text"
+#~ msgid "Ar-Rifaca"
+#~ msgstr "الرفاقة"
+
+#~ msgctxt "/question:city/response:45/text"
+#~ msgid "Isa"
+#~ msgstr "عيسى"
+
+#~ msgctxt "/question:city/response:46/text"
+#~ msgid "Jidd Hafs"
+#~ msgstr "جيد حفص"
+
+#~ msgctxt "/question:city/response:47/text"
+#~ msgid "Madinat H?amad"
+#~ msgstr "مدينة حمد"
+
+#~ msgctxt "/question:city/response:48/text"
+#~ msgid "Manama"
+#~ msgstr "المنامة"
+
+#~ msgctxt "/question:city/response:49/text"
+#~ msgid "Sitrah"
+#~ msgstr "سترة"
+
+#~ msgctxt "/question:city/response:50/text"
+#~ msgid "Al Fayyum"
+#~ msgstr "الفيوم"
+
+#~ msgctxt "/question:city/response:51/text"
+#~ msgid "Al Ghardaqah (Hurghada)"
+#~ msgstr "الغردقة"
+
+#~ msgctxt "/question:city/response:52/text"
+#~ msgid "Al Isma`iliyah (Ismailia)"
+#~ msgstr "الإسماعيلية"
+
+#~ msgctxt "/question:city/response:53/text"
+#~ msgid "Al Jizah (Giza)"
+#~ msgstr "الجيزة"
+
+#~ msgctxt "/question:city/response:54/text"
+#~ msgid "Al Mansurah"
+#~ msgstr "المنصورة"
+
+#~ msgctxt "/question:city/response:55/text"
+#~ msgid "Alexandria"
+#~ msgstr "الإسكندرية"
+
+#~ msgctxt "/question:city/response:56/text"
+#~ msgid "Aswan"
+#~ msgstr "أسوان"
+
+#~ msgctxt "/question:city/response:57/text"
+#~ msgid "Asyut"
+#~ msgstr "أسيوط"
+
+#~ msgctxt "/question:city/response:58/text"
+#~ msgid "Bur Said (Port Said)"
+#~ msgstr "بور سعيد"
+
+#~ msgctxt "/question:city/response:59/text"
+#~ msgid "Cairo"
+#~ msgstr "القاهرة"
+
+#~ msgctxt "/question:city/response:60/text"
+#~ msgid "Luxor"
+#~ msgstr "الأقصر"
+
+#~ msgctxt "/question:city/response:61/text"
+#~ msgid "Marsa Matruh"
+#~ msgstr "مرسى مطروح"
+
+#~ msgctxt "/question:city/response:62/text"
+#~ msgid "Sharm ash Shaykh"
+#~ msgstr "شرم الشيخ الرماد"
+
+#~ msgctxt "/question:city/response:63/text"
+#~ msgid "Shubra al Khaymah"
+#~ msgstr "شبرا الخيمة"
+
+#~ msgctxt "/question:city/response:64/text"
+#~ msgid "Suez"
+#~ msgstr "السويس"
+
+#~ msgctxt "/question:city/response:65/text"
+#~ msgid "Taba"
+#~ msgstr "طابا"
+
+#~ msgctxt "/question:city/response:66/text"
+#~ msgid "Tanta"
+#~ msgstr "طنطا"
+
+#~ msgctxt "/question:city/response:204/text"
+#~ msgid "Al-Basrah"
+#~ msgstr "البصرة"
+
+#~ msgctxt "/question:city/response:205/text"
+#~ msgid "Al-Muthanna"
+#~ msgstr "المثنى"
+
+#~ msgctxt "/question:city/response:206/text"
+#~ msgid "Al-Qadisiyyah"
+#~ msgstr "القادسية"
+
+#~ msgctxt "/question:city/response:207/text"
+#~ msgid "Anbar"
+#~ msgstr "الأنبار"
+
+#~ msgctxt "/question:city/response:208/text"
+#~ msgid "Arbil"
+#~ msgstr "أربيل"
+
+#~ msgctxt "/question:city/response:209/text"
+#~ msgid "Babil"
+#~ msgstr "بابل"
+
+#~ msgctxt "/question:city/response:210/text"
+#~ msgid "Baghdad"
+#~ msgstr "بغداد"
+
+#~ msgctxt "/question:city/response:211/text"
+#~ msgid "Dhi Qar"
+#~ msgstr "ذي قار"
+
+#~ msgctxt "/question:city/response:212/text"
+#~ msgid "Diyala"
+#~ msgstr "ديالى"
+
+#~ msgctxt "/question:city/response:213/text"
+#~ msgid "Duhok"
+#~ msgstr "دهوك"
+
+#~ msgctxt "/question:city/response:214/text"
+#~ msgid "Karbala'"
+#~ msgstr "كربلاء"
+
+#~ msgctxt "/question:city/response:215/text"
+#~ msgid "Kirkuk"
+#~ msgstr "كركوك"
+
+#~ msgctxt "/question:city/response:216/text"
+#~ msgid "Maysan"
+#~ msgstr "ميسان"
+
+#~ msgctxt "/question:city/response:217/text"
+#~ msgid "Najaf"
+#~ msgstr "النجف"
+
+#~ msgctxt "/question:city/response:218/text"
+#~ msgid "Ninawa"
+#~ msgstr "نينوى"
+
+#~ msgctxt "/question:city/response:219/text"
+#~ msgid "Salah ad-Din"
+#~ msgstr "صلاح الدين"
+
+#~ msgctxt "/question:city/response:220/text"
+#~ msgid "Sulaymaniyyah"
+#~ msgstr "السليمانية"
+
+#~ msgctxt "/question:city/response:221/text"
+#~ msgid "Wasit"
+#~ msgstr "واسط"
+
+#~ msgctxt "/question:city/response:67/text"
+#~ msgid "Ajloun"
+#~ msgstr "عجلون"
+
+#~ msgctxt "/question:city/response:68/text"
+#~ msgid "Al Salt"
+#~ msgstr "السلط"
+
+#~ msgctxt "/question:city/response:69/text"
+#~ msgid "Amman"
+#~ msgstr "عمان"
+
+#~ msgctxt "/question:city/response:70/text"
+#~ msgid "Aqaba"
+#~ msgstr "العقبه"
+
+#~ msgctxt "/question:city/response:71/text"
+#~ msgid "Irbid"
+#~ msgstr "إربد"
+
+#~ msgctxt "/question:city/response:72/text"
+#~ msgid "Jerash"
+#~ msgstr "جرش"
+
+#~ msgctxt "/question:city/response:73/text"
+#~ msgid "Kerak"
+#~ msgstr "الكرك"
+
+#~ msgctxt "/question:city/response:74/text"
+#~ msgid "Ma'an"
+#~ msgstr "معان"
+
+#~ msgctxt "/question:city/response:75/text"
+#~ msgid "Madaba"
+#~ msgstr "مادبا"
+
+#~ msgctxt "/question:city/response:76/text"
+#~ msgid "Tafilah"
+#~ msgstr "الطفيلة"
+
+#~ msgctxt "/question:city/response:77/text"
+#~ msgid "Zarqa"
+#~ msgstr "الزرقاء"
+
+#~ msgctxt "/question:city/response:78/text"
+#~ msgid "Kuwait City"
+#~ msgstr "الكويت"
+
+#~ msgctxt "/question:city/response:198/text"
+#~ msgid "Al Ahmadi"
+#~ msgstr "الأحمدي"
+
+#~ msgctxt "/question:city/response:199/text"
+#~ msgid "Al Farwaniyah"
+#~ msgstr "الفروانية"
+
+#~ msgctxt "/question:city/response:201/text"
+#~ msgid "Al Jahra"
+#~ msgstr "الجهراء"
+
+#~ msgctxt "/question:city/response:202/text"
+#~ msgid "Hawalli"
+#~ msgstr "حولي"
+
+#~ msgctxt "/question:city/response:203/text"
+#~ msgid "Mubarak Al-Kabeer"
+#~ msgstr "مبارك الكبير"
+
+#~ msgctxt "/question:city/response:79/text"
+#~ msgid "Baalbeck"
+#~ msgstr "بعلبك"
+
+#~ msgctxt "/question:city/response:80/text"
+#~ msgid "Batroun"
+#~ msgstr "البترون"
+
+#~ msgctxt "/question:city/response:81/text"
+#~ msgid "Beirut"
+#~ msgstr "بيروت"
+
+#~ msgctxt "/question:city/response:82/text"
+#~ msgid "El Mina"
+#~ msgstr "المينا"
+
+#~ msgctxt "/question:city/response:83/text"
+#~ msgid "El Zahrani"
+#~ msgstr "الزهراني"
+
+#~ msgctxt "/question:city/response:84/text"
+#~ msgid "Hermel"
+#~ msgstr "الهرمل"
+
+#~ msgctxt "/question:city/response:85/text"
+#~ msgid "Jezzin"
+#~ msgstr "جزين"
+
+#~ msgctxt "/question:city/response:86/text"
+#~ msgid "Jbail"
+#~ msgstr "جبيل"
+
+#~ msgctxt "/question:city/response:87/text"
+#~ msgid "Jounie"
+#~ msgstr "جونيه"
+
+#~ msgctxt "/question:city/response:88/text"
+#~ msgid "Naqoura"
+#~ msgstr "الناقورة"
+
+#~ msgctxt "/question:city/response:89/text"
+#~ msgid "Sidon"
+#~ msgstr "صيدا"
+
+#~ msgctxt "/question:city/response:101/text"
+#~ msgid "Tripoli"
+#~ msgstr "طرابلس"
+
+#~ msgctxt "/question:city/response:91/text"
+#~ msgid "Tyre"
+#~ msgstr "صور"
+
+#~ msgctxt "/question:city/response:92/text"
+#~ msgid "Zahle"
+#~ msgstr "زحلة"
+
+#~ msgctxt "/question:city/response:93/text"
+#~ msgid "Al Jawf"
+#~ msgstr "الجوف"
+
+#~ msgctxt "/question:city/response:94/text"
+#~ msgid "Al Khums"
+#~ msgstr "الخمس"
+
+#~ msgctxt "/question:city/response:95/text"
+#~ msgid "Banghazi"
+#~ msgstr "بنغازي"
+
+#~ msgctxt "/question:city/response:96/text"
+#~ msgid "Darnah"
+#~ msgstr "درنة"
+
+#~ msgctxt "/question:city/response:97/text"
+#~ msgid "Ghadamis"
+#~ msgstr "شعبية غدامس"
+
+#~ msgctxt "/question:city/response:98/text"
+#~ msgid "Sabha"
+#~ msgstr "سبها"
+
+#~ msgctxt "/question:city/response:99/text"
+#~ msgid "Surt"
+#~ msgstr "سرت"
+
+#~ msgctxt "/question:city/response:100/text"
+#~ msgid "Tobruk"
+#~ msgstr "طبرق"
+
+#~ msgctxt "/question:city/response:102/text"
+#~ msgid "Zuwarah"
+#~ msgstr "زوارة"
+
+#~ msgctxt "/question:city/response:222/text"
+#~ msgid "Adrar"
+#~ msgstr "أدرار"
+
+#~ msgctxt "/question:city/response:223/text"
+#~ msgid "Assaba"
+#~ msgstr "لعصابة"
+
+#~ msgctxt "/question:city/response:224/text"
+#~ msgid "Brakna"
+#~ msgstr "لبراكنة"
+
+#~ msgctxt "/question:city/response:225/text"
+#~ msgid "Dakhlet Nouadhibou"
+#~ msgstr "داخلة نواذيبو"
+
+#~ msgctxt "/question:city/response:226/text"
+#~ msgid "Gorgol"
+#~ msgstr "كوركول"
+
+#~ msgctxt "/question:city/response:227/text"
+#~ msgid "Guidimaka"
+#~ msgstr "غيديماغا"
+
+#~ msgctxt "/question:city/response:228/text"
+#~ msgid "Hodh Ech Chargui"
+#~ msgstr "الحوض الشرقي"
+
+#~ msgctxt "/question:city/response:229/text"
+#~ msgid "Hodh El Gharbi"
+#~ msgstr "الحوض الغربي"
+
+#~ msgctxt "/question:city/response:230/text"
+#~ msgid "Inchiri"
+#~ msgstr "إنشيري"
+
+#~ msgctxt "/question:city/response:231/text"
+#~ msgid "Nouakchott"
+#~ msgstr "نواكشوط"
+
+#~ msgctxt "/question:city/response:232/text"
+#~ msgid "Tagant"
+#~ msgstr "تكانت"
+
+#~ msgctxt "/question:city/response:233/text"
+#~ msgid "Tiris Zemmour"
+#~ msgstr "تيرس زمور"
+
+#~ msgctxt "/question:city/response:234/text"
+#~ msgid "Trarza"
+#~ msgstr "ترارزة"
+
+#~ msgctxt "/question:city/response:103/text"
+#~ msgid "Agadir"
+#~ msgstr "أغادير"
+
+#~ msgctxt "/question:city/response:104/text"
+#~ msgid "Al-Hoceima"
+#~ msgstr "الحسيمة"
+
+#~ msgctxt "/question:city/response:105/text"
+#~ msgid "Beni Mellal"
+#~ msgstr "بني ملال"
+
+#~ msgctxt "/question:city/response:106/text"
+#~ msgid "Berkane"
+#~ msgstr "بركان"
+
+#~ msgctxt "/question:city/response:107/text"
+#~ msgid "Casablanca"
+#~ msgstr "الدار البيضاء"
+
+#~ msgctxt "/question:city/response:108/text"
+#~ msgid "El Jadida"
+#~ msgstr "بالجديدة"
+
+#~ msgctxt "/question:city/response:109/text"
+#~ msgid "Essaouira"
+#~ msgstr "الصويرة"
+
+#~ msgctxt "/question:city/response:110/text"
+#~ msgid "Fès"
+#~ msgstr "فاس"
+
+#~ msgctxt "/question:city/response:111/text"
+#~ msgid "Guelmim"
+#~ msgstr "كلميم"
+
+#~ msgctxt "/question:city/response:112/text"
+#~ msgid "Kenitra"
+#~ msgstr "القنيطرة"
+
+#~ msgctxt "/question:city/response:113/text"
+#~ msgid "Khemisset"
+#~ msgstr "الخميسات"
+
+#~ msgctxt "/question:city/response:114/text"
+#~ msgid "Khenifra"
+#~ msgstr "خنيفرة"
+
+#~ msgctxt "/question:city/response:115/text"
+#~ msgid "Khouribga"
+#~ msgstr "خريبكة"
+
+#~ msgctxt "/question:city/response:116/text"
+#~ msgid "Marrakech"
+#~ msgstr "مراكش"
+
+#~ msgctxt "/question:city/response:117/text"
+#~ msgid "Meknès"
+#~ msgstr "مكناس"
+
+#~ msgctxt "/question:city/response:118/text"
+#~ msgid "Mohammedia"
+#~ msgstr "المحمدية"
+
+#~ msgctxt "/question:city/response:119/text"
+#~ msgid "Ouarzazate"
+#~ msgstr "ورزازات"
+
+#~ msgctxt "/question:city/response:120/text"
+#~ msgid "Ouezzane"
+#~ msgstr "وزان"
+
+#~ msgctxt "/question:city/response:121/text"
+#~ msgid "Oujda"
+#~ msgstr "وجدة"
+
+#~ msgctxt "/question:city/response:122/text"
+#~ msgid "Rabat"
+#~ msgstr "الرباط"
+
+#~ msgctxt "/question:city/response:123/text"
+#~ msgid "Safi"
+#~ msgstr "آسفي"
+
+#~ msgctxt "/question:city/response:124/text"
+#~ msgid "Salé"
+#~ msgstr "سلا"
+
+#~ msgctxt "/question:city/response:125/text"
+#~ msgid "Tangier"
+#~ msgstr "طنجة"
+
+#~ msgctxt "/question:city/response:126/text"
+#~ msgid "Tan-Tan"
+#~ msgstr "طانطان"
+
+#~ msgctxt "/question:city/response:127/text"
+#~ msgid "Tarfaya (Cabo Juby)"
+#~ msgstr "طرفاية"
+
+#~ msgctxt "/question:city/response:128/text"
+#~ msgid "Tétouan"
+#~ msgstr "تطوان"
+
+#~ msgctxt "/question:city/response:129/text"
+#~ msgid "Tiznit"
+#~ msgstr "تزنيت"
+
+#~ msgctxt "/question:city/response:130/text"
+#~ msgid "Barka"
+#~ msgstr "بركاء"
+
+#~ msgctxt "/question:city/response:131/text"
+#~ msgid "Buraimi"
+#~ msgstr "البريمي"
+
+#~ msgctxt "/question:city/response:132/text"
+#~ msgid "Ibra"
+#~ msgstr "ابرا"
+
+#~ msgctxt "/question:city/response:133/text"
+#~ msgid "Ibri"
+#~ msgstr "عبري"
+
+#~ msgctxt "/question:city/response:134/text"
+#~ msgid "Matrah"
+#~ msgstr "مطرح"
+
+#~ msgctxt "/question:city/response:135/text"
+#~ msgid "Muscat"
+#~ msgstr "مسقط"
+
+#~ msgctxt "/question:city/response:136/text"
+#~ msgid "Nizwa"
+#~ msgstr "نزوى"
+
+#~ msgctxt "/question:city/response:137/text"
+#~ msgid "Ruwi"
+#~ msgstr "روي"
+
+#~ msgctxt "/question:city/response:138/text"
+#~ msgid "Salalah"
+#~ msgstr "صلالة"
+
+#~ msgctxt "/question:city/response:139/text"
+#~ msgid "Seeb"
+#~ msgstr "السيب"
+
+#~ msgctxt "/question:city/response:140/text"
+#~ msgid "Sohar"
+#~ msgstr "صحار"
+
+#~ msgctxt "/question:city/response:141/text"
+#~ msgid "Sur"
+#~ msgstr "سور"
+
+#~ msgctxt "/question:city/response:142/text"
+#~ msgid "Al Wakrah"
+#~ msgstr "الوكرة"
+
+#~ msgctxt "/question:city/response:244/text"
+#~ msgid "Bethlehem"
+#~ msgstr "بيت لحم"
+
+#~ msgctxt "/question:city/response:248/text"
+#~ msgid "Deir el-Balah"
+#~ msgstr "دير البلح"
+
+#~ msgctxt "/question:city/response:247/text"
+#~ msgid "Gaza"
+#~ msgstr "غزة"
+
+#~ msgctxt "/question:city/response:245/text"
+#~ msgid "Hebron"
+#~ msgstr "الخليل"
+
+#~ msgctxt "/question:city/response:235/text"
+#~ msgid "Jenin"
+#~ msgstr "جنين"
+
+#~ msgctxt "/question:city/response:242/text"
+#~ msgid "Jericho"
+#~ msgstr "أريحا"
+
+#~ msgctxt "/question:city/response:243/text"
+#~ msgid "Jerusalem"
+#~ msgstr "القدس"
+
+#~ msgctxt "/question:city/response:249/text"
+#~ msgid "Khan Yunis"
+#~ msgstr "خان يونس"
+
+#~ msgctxt "/question:city/response:238/text"
+#~ msgid "Nablus"
+#~ msgstr "نابلس"
+
+#~ msgctxt "/question:city/response:246/text"
+#~ msgid "North Gaza"
+#~ msgstr "شمال غزة"
+
+#~ msgctxt "/question:city/response:239/text"
+#~ msgid "Qalqilya"
+#~ msgstr "قلقيلية"
+
+#~ msgctxt "/question:city/response:250/text"
+#~ msgid "Rafah"
+#~ msgstr "رفح"
+
+#~ msgctxt "/question:city/response:241/text"
+#~ msgid "Ramallah and Al-Bireh"
+#~ msgstr "رام الله والبيرة"
+
+#~ msgctxt "/question:city/response:240/text"
+#~ msgid "Salfit"
+#~ msgstr "سلفيت"
+
+#~ msgctxt "/question:city/response:236/text"
+#~ msgid "Tubas"
+#~ msgstr "طوباس"
+
+#~ msgctxt "/question:city/response:237/text"
+#~ msgid "Tulkarm"
+#~ msgstr "طولكرم"
+
+#~ msgctxt "/question:city/response:143/text"
+#~ msgid "Doha"
+#~ msgstr "الدوحة"
+
+#~ msgctxt "/question:city/response:251/text"
+#~ msgid "Ash Shamal"
+#~ msgstr "الشمال"
+
+#~ msgctxt "/question:city/response:252/text"
+#~ msgid "Jariyan al Batnah"
+#~ msgstr "جريان الباطنة"
+
+#~ msgctxt "/question:city/response:253/text"
+#~ msgid "Jumaliyah"
+#~ msgstr "الجميلية"
+
+#~ msgctxt "/question:city/response:254/text"
+#~ msgid "Umm Salal"
+#~ msgstr "أم صلال"
+
+#~ msgctxt "/question:city/response:255/text"
+#~ msgid "Mesaieed"
+#~ msgstr "مسيعيد"
+
+#~ msgctxt "/question:city/response:256/text"
+#~ msgid "Ghuwariyah"
+#~ msgstr "الغويرية"
+
+#~ msgctxt "/question:city/response:258/text"
+#~ msgid "Rayyan"
+#~ msgstr "الريان"
+
+#~ msgctxt "/question:city/response:259/text"
+#~ msgid "Khawr"
+#~ msgstr "الخور"
+
+#~ msgctxt "/question:city/response:260/text"
+#~ msgid "Wakrah"
+#~ msgstr "الوكرة"
+
+#~ msgctxt "/question:city/response:144/text"
+#~ msgid "Abha"
+#~ msgstr "أبها"
+
+#~ msgctxt "/question:city/response:145/text"
+#~ msgid "Dammam"
+#~ msgstr "الدمام"
+
+#~ msgctxt "/question:city/response:146/text"
+#~ msgid "Jeddah"
+#~ msgstr "جده"
+
+#~ msgctxt "/question:city/response:147/text"
+#~ msgid "Khobar"
+#~ msgstr "الخبر"
+
+#~ msgctxt "/question:city/response:148/text"
+#~ msgid "Madinah"
+#~ msgstr "المدينة المنورة"
+
+#~ msgctxt "/question:city/response:149/text"
+#~ msgid "Makkah"
+#~ msgstr "مكة المكرمة"
+
+#~ msgctxt "/question:city/response:150/text"
+#~ msgid "Riyadh"
+#~ msgstr "الرياض"
+
+#~ msgctxt "/question:city/response:151/text"
+#~ msgid "Tabuk"
+#~ msgstr "تبوك"
+
+#~ msgctxt "/question:city/response:152/text"
+#~ msgid "Taif"
+#~ msgstr "الطائف"
+
+#~ msgctxt "/question:city/response:1401/text"
+#~ msgid "Khamis Mushait"
+#~ msgstr "خميس مشيط"
+
+#~ msgctxt "/question:city/response:1402/text"
+#~ msgid "Najran"
+#~ msgstr "نجران"
+
+#~ msgctxt "/question:city/response:1403/text"
+#~ msgid "Jubail"
+#~ msgstr "الجُبيل"
+
+#~ msgctxt "/question:city/response:1404/text"
+#~ msgid "Qatif"
+#~ msgstr "القطيف"
+
+#~ msgctxt "/question:city/response:1405/text"
+#~ msgid "Al Ahsa/Hofuf"
+#~ msgstr "الإحساء/الهفوف"
+
+#~ msgctxt "/question:city/response:1406/text"
+#~ msgid "Hafr Al-Batin"
+#~ msgstr "حفر الباطن"
+
+#~ msgctxt "/question:city/response:1407/text"
+#~ msgid "Buraydah"
+#~ msgstr "بريدة"
+
+#~ msgctxt "/question:city/response:1408/text"
+#~ msgid "Al-Dhahran"
+#~ msgstr "الظهران"
+
+#~ msgctxt "/question:city/response:1409/text"
+#~ msgid "Al-Baha"
+#~ msgstr "الباحة"
+
+#~ msgctxt "/question:city/response:1410/text"
+#~ msgid "Hail"
+#~ msgstr "حائل"
+
+#~ msgctxt "/question:city/response:261/text"
+#~ msgid "North Sudan"
+#~ msgstr "شمال السودان"
+
+#~ msgctxt "/question:city/response:262/text"
+#~ msgid "Darfur"
+#~ msgstr "دارفور"
+
+#~ msgctxt "/question:city/response:263/text"
+#~ msgid "Eastern Front"
+#~ msgstr "الواجهة الشرقية"
+
+#~ msgctxt "/question:city/response:264/text"
+#~ msgid "South Sudan"
+#~ msgstr "جنوب السودان"
+
+#~ msgctxt "/question:city/response:265/text"
+#~ msgid "Abyei"
+#~ msgstr "أبيي‎"
+
+#~ msgctxt "/question:city/response:266/text"
+#~ msgid "Nuba Mountains and Blue Nile"
+#~ msgstr "جبال النوبة والنيل الأزرق"
+
+#~ msgctxt "/question:city/response:153/text"
+#~ msgid "Aleppo"
+#~ msgstr "حلب"
+
+#~ msgctxt "/question:city/response:154/text"
+#~ msgid "Al-Hasakah"
+#~ msgstr "الحسكة"
+
+#~ msgctxt "/question:city/response:155/text"
+#~ msgid "Ar-Raqqah"
+#~ msgstr "الرقه"
+
+#~ msgctxt "/question:city/response:156/text"
+#~ msgid "As-Suwayda"
+#~ msgstr "السويداء"
+
+#~ msgctxt "/question:city/response:157/text"
+#~ msgid "Damascus"
+#~ msgstr "دمشق"
+
+#~ msgctxt "/question:city/response:158/text"
+#~ msgid "Daraa"
+#~ msgstr "درعا"
+
+#~ msgctxt "/question:city/response:159/text"
+#~ msgid "Deir ez-Zor"
+#~ msgstr "دير الزور"
+
+#~ msgctxt "/question:city/response:160/text"
+#~ msgid "Hama"
+#~ msgstr "حماة"
+
+#~ msgctxt "/question:city/response:161/text"
+#~ msgid "Homs"
+#~ msgstr "حمص"
+
+#~ msgctxt "/question:city/response:162/text"
+#~ msgid "Idlib"
+#~ msgstr "إدلب"
+
+#~ msgctxt "/question:city/response:163/text"
+#~ msgid "Latakia"
+#~ msgstr "اللاذقية"
+
+#~ msgctxt "/question:city/response:164/text"
+#~ msgid "Quneitra"
+#~ msgstr "القنيطرة"
+
+#~ msgctxt "/question:city/response:165/text"
+#~ msgid "Tartus"
+#~ msgstr "طرطوس"
+
+#~ msgctxt "/question:city/response:166/text"
+#~ msgid "Ariana"
+#~ msgstr "أريانا"
+
+#~ msgctxt "/question:city/response:167/text"
+#~ msgid "Beja"
+#~ msgstr "باجة"
+
+#~ msgctxt "/question:city/response:168/text"
+#~ msgid "Bizerte"
+#~ msgstr "بنزرت"
+
+#~ msgctxt "/question:city/response:169/text"
+#~ msgid "El Kef"
+#~ msgstr "الكاف"
+
+#~ msgctxt "/question:city/response:170/text"
+#~ msgid "Gafsa"
+#~ msgstr "قفصة"
+
+#~ msgctxt "/question:city/response:171/text"
+#~ msgid "Kasserine"
+#~ msgstr "القصرين"
+
+#~ msgctxt "/question:city/response:172/text"
+#~ msgid "Mahdia"
+#~ msgstr "المهدية"
+
+#~ msgctxt "/question:city/response:173/text"
+#~ msgid "Medenine"
+#~ msgstr "مدنين"
+
+#~ msgctxt "/question:city/response:174/text"
+#~ msgid "Nabeul"
+#~ msgstr "نابل"
+
+#~ msgctxt "/question:city/response:175/text"
+#~ msgid "Sfax"
+#~ msgstr "صفاقس"
+
+#~ msgctxt "/question:city/response:176/text"
+#~ msgid "Shkira"
+#~ msgstr "شكيرا"
+
+#~ msgctxt "/question:city/response:177/text"
+#~ msgid "Sousse"
+#~ msgstr "سوسة"
+
+#~ msgctxt "/question:city/response:178/text"
+#~ msgid "Tataouine"
+#~ msgstr "تطاوين"
+
+#~ msgctxt "/question:city/response:179/text"
+#~ msgid "Tozeur"
+#~ msgstr "توزر"
+
+#~ msgctxt "/question:city/response:180/text"
+#~ msgid "Tunis"
+#~ msgstr "تونس"
+
+#~ msgctxt "/question:city/response:181/text"
+#~ msgid "Zarzis"
+#~ msgstr "جرجيس"
+
+#~ msgctxt "/question:city/response:182/text"
+#~ msgid "Abu Dhabi"
+#~ msgstr "أبو ظبي"
+
+#~ msgctxt "/question:city/response:183/text"
+#~ msgid "Al Ain"
+#~ msgstr "العين"
+
+#~ msgctxt "/question:city/response:184/text"
+#~ msgid "Ajman"
+#~ msgstr "عجمان"
+
+#~ msgctxt "/question:city/response:185/text"
+#~ msgid "Dubai"
+#~ msgstr "دبي"
+
+#~ msgctxt "/question:city/response:186/text"
+#~ msgid "Fujairah"
+#~ msgstr "الفجيرة"
+
+#~ msgctxt "/question:city/response:187/text"
+#~ msgid "Ras al-Khaimah"
+#~ msgstr "رأس الخيمة"
+
+#~ msgctxt "/question:city/response:188/text"
+#~ msgid "Sharjah"
+#~ msgstr "الشارقة"
+
+#~ msgctxt "/question:city/response:189/text"
+#~ msgid "Umm al-Qaiwain"
+#~ msgstr "أم القيوين"
+
+#~ msgctxt "/question:city/response:190/text"
+#~ msgid "Abyan"
+#~ msgstr "أبين"
+
+#~ msgctxt "/question:city/response:191/text"
+#~ msgid "Aden"
+#~ msgstr "عدن"
+
+#~ msgctxt "/question:city/response:192/text"
+#~ msgid "Al Ghaydah"
+#~ msgstr "الغيضة"
+
+#~ msgctxt "/question:city/response:193/text"
+#~ msgid "Al Hudaydah"
+#~ msgstr "الحديدة"
+
+#~ msgctxt "/question:city/response:194/text"
+#~ msgid "Crater"
+#~ msgstr "الحفرة"
+
+#~ msgctxt "/question:city/response:195/text"
+#~ msgid "Ibb"
+#~ msgstr "إب"
+
+#~ msgctxt "/question:city/response:196/text"
+#~ msgid "Sanaa"
+#~ msgstr "صنعاء"
+
+#~ msgctxt "/question:city/response:197/text"
+#~ msgid "Ta'izz"
+#~ msgstr "تعز"
+
+#~ msgctxt "/question:city/response:281/text"
+#~ msgid "Bagh"
+#~ msgstr "Bagh"
+
+#~ msgctxt "/question:city/response:268/text"
+#~ msgid "Bhimber"
+#~ msgstr "Bhimber"
+
+#~ msgctxt "/question:city/response:269/text"
+#~ msgid "Khuiratta"
+#~ msgstr "Khuiratta"
+
+#~ msgctxt "/question:city/response:270/text"
+#~ msgid "Kotli"
+#~ msgstr "Kotli"
+
+#~ msgctxt "/question:city/response:271/text"
+#~ msgid "Mangla"
+#~ msgstr "Mangla"
+
+#~ msgctxt "/question:city/response:272/text"
+#~ msgid "Mirpur"
+#~ msgstr "Mirpur"
+
+#~ msgctxt "/question:city/response:273/text"
+#~ msgid "Muzaffarabad"
+#~ msgstr "Muzaffarabad"
+
+#~ msgctxt "/question:city/response:274/text"
+#~ msgid "Plandri"
+#~ msgstr "Plandri"
+
+#~ msgctxt "/question:city/response:275/text"
+#~ msgid "Rawalakot"
+#~ msgstr "Rawalakot"
+
+#~ msgctxt "/question:city/response:276/text"
+#~ msgid "Punch"
+#~ msgstr "Punch"
+
+#~ msgctxt "/question:city/response:277/text"
+#~ msgid "Amir Chah"
+#~ msgstr "Amir Chah"
+
+#~ msgctxt "/question:city/response:278/text"
+#~ msgid "Bazdar"
+#~ msgstr "Bazdar"
+
+#~ msgctxt "/question:city/response:279/text"
+#~ msgid "Bela"
+#~ msgstr "Bela"
+
+#~ msgctxt "/question:city/response:280/text"
+#~ msgid "Bellpat"
+#~ msgstr "Bellpat"
+
+#~ msgctxt "/question:city/response:282/text"
+#~ msgid "Burj"
+#~ msgstr "Burj"
+
+#~ msgctxt "/question:city/response:283/text"
+#~ msgid "Chagai"
+#~ msgstr "Chagai"
+
+#~ msgctxt "/question:city/response:284/text"
+#~ msgid "Chah Sandan"
+#~ msgstr "Chah Sandan"
+
+#~ msgctxt "/question:city/response:285/text"
+#~ msgid "Chakku"
+#~ msgstr "Chakku"
+
+#~ msgctxt "/question:city/response:286/text"
+#~ msgid "Chaman"
+#~ msgstr "Chaman"
+
+#~ msgctxt "/question:city/response:287/text"
+#~ msgid "Chhatr"
+#~ msgstr "Chhatr"
+
+#~ msgctxt "/question:city/response:288/text"
+#~ msgid "Dalbandin"
+#~ msgstr "Dalbandin"
+
+#~ msgctxt "/question:city/response:289/text"
+#~ msgid "Dera Bugti"
+#~ msgstr "Dera Bugti"
+
+#~ msgctxt "/question:city/response:290/text"
+#~ msgid "Dhana Sar"
+#~ msgstr "Dhana Sar"
+
+#~ msgctxt "/question:city/response:291/text"
+#~ msgid "Diwana"
+#~ msgstr "Diwana"
+
+#~ msgctxt "/question:city/response:292/text"
+#~ msgid "Duki"
+#~ msgstr "Duki"
+
+#~ msgctxt "/question:city/response:293/text"
+#~ msgid "Dushi"
+#~ msgstr "Dushi"
+
+#~ msgctxt "/question:city/response:294/text"
+#~ msgid "Duzab"
+#~ msgstr "Duzab"
+
+#~ msgctxt "/question:city/response:295/text"
+#~ msgid "Gajar"
+#~ msgstr "Gajar"
+
+#~ msgctxt "/question:city/response:296/text"
+#~ msgid "Gandava"
+#~ msgstr "Gandava"
+
+#~ msgctxt "/question:city/response:297/text"
+#~ msgid "Garhi Khairo"
+#~ msgstr "Garhi Khairo"
+
+#~ msgctxt "/question:city/response:298/text"
+#~ msgid "Garruck"
+#~ msgstr "Garruck"
+
+#~ msgctxt "/question:city/response:299/text"
+#~ msgid "Ghazluna"
+#~ msgstr "Ghazluna"
+
+#~ msgctxt "/question:city/response:300/text"
+#~ msgid "Girdan"
+#~ msgstr "Girdan"
+
+#~ msgctxt "/question:city/response:301/text"
+#~ msgid "Gulistan"
+#~ msgstr "Gulistan"
+
+#~ msgctxt "/question:city/response:302/text"
+#~ msgid "Gwadar"
+#~ msgstr "Gwadar"
+
+#~ msgctxt "/question:city/response:303/text"
+#~ msgid "Gwash"
+#~ msgstr "Gwash"
+
+#~ msgctxt "/question:city/response:304/text"
+#~ msgid "Hab Chauki"
+#~ msgstr "Hab Chauki"
+
+#~ msgctxt "/question:city/response:305/text"
+#~ msgid "Hameedabad"
+#~ msgstr "Hameedabad"
+
+#~ msgctxt "/question:city/response:306/text"
+#~ msgid "Harnai"
+#~ msgstr "Harnai"
+
+#~ msgctxt "/question:city/response:307/text"
+#~ msgid "Hinglaj"
+#~ msgstr "Hinglaj"
+
+#~ msgctxt "/question:city/response:308/text"
+#~ msgid "Hoshab"
+#~ msgstr "Hoshab"
+
+#~ msgctxt "/question:city/response:309/text"
+#~ msgid "Ispikan"
+#~ msgstr "Ispikan"
+
+#~ msgctxt "/question:city/response:310/text"
+#~ msgid "Jhal"
+#~ msgstr "Jhal"
+
+#~ msgctxt "/question:city/response:311/text"
+#~ msgid "Jhal Jhao"
+#~ msgstr "Jhal Jhao"
+
+#~ msgctxt "/question:city/response:312/text"
+#~ msgid "Jhatpat"
+#~ msgstr "Jhatpat"
+
+#~ msgctxt "/question:city/response:313/text"
+#~ msgid "Jiwani"
+#~ msgstr "Jiwani"
+
+#~ msgctxt "/question:city/response:314/text"
+#~ msgid "Kalandi"
+#~ msgstr "Kalandi"
+
+#~ msgctxt "/question:city/response:315/text"
+#~ msgid "Kalat"
+#~ msgstr "Kalat"
+
+#~ msgctxt "/question:city/response:316/text"
+#~ msgid "Kamararod"
+#~ msgstr "Kamararod"
+
+#~ msgctxt "/question:city/response:317/text"
+#~ msgid "Kanak"
+#~ msgstr "Kanak"
+
+#~ msgctxt "/question:city/response:318/text"
+#~ msgid "Kandi"
+#~ msgstr "Kandi"
+
+#~ msgctxt "/question:geo_city_in/response:102/text"
+#~ msgid "Kanpur"
+#~ msgstr "Kanpur"
+
+#~ msgctxt "/question:city/response:320/text"
+#~ msgid "Kapip"
+#~ msgstr "Kapip"
+
+#~ msgctxt "/question:city/response:321/text"
+#~ msgid "Kappar"
+#~ msgstr "Kappar"
+
+#~ msgctxt "/question:city/response:322/text"
+#~ msgid "Karodi"
+#~ msgstr "Karodi"
+
+#~ msgctxt "/question:city/response:323/text"
+#~ msgid "Katuri"
+#~ msgstr "Katuri"
+
+#~ msgctxt "/question:city/response:324/text"
+#~ msgid "Kharan"
+#~ msgstr "Kharan"
+
+#~ msgctxt "/question:city/response:325/text"
+#~ msgid "Khuzdar"
+#~ msgstr "Khuzdar"
+
+#~ msgctxt "/question:city/response:326/text"
+#~ msgid "Kikki"
+#~ msgstr "Kikki"
+
+#~ msgctxt "/question:city/response:327/text"
+#~ msgid "Kohan"
+#~ msgstr "Kohan"
+
+#~ msgctxt "/question:city/response:328/text"
+#~ msgid "Kohlu"
+#~ msgstr "Kohlu"
+
+#~ msgctxt "/question:city/response:329/text"
+#~ msgid "Korak"
+#~ msgstr "Korak"
+
+#~ msgctxt "/question:city/response:330/text"
+#~ msgid "Lahri"
+#~ msgstr "Lahri"
+
+#~ msgctxt "/question:city/response:331/text"
+#~ msgid "Lasbela"
+#~ msgstr "Lasbela"
+
+#~ msgctxt "/question:city/response:332/text"
+#~ msgid "Liari"
+#~ msgstr "Liari"
+
+#~ msgctxt "/question:city/response:333/text"
+#~ msgid "Loralai"
+#~ msgstr "Loralai"
+
+#~ msgctxt "/question:city/response:334/text"
+#~ msgid "Mach"
+#~ msgstr "Mach"
+
+#~ msgctxt "/question:city/response:335/text"
+#~ msgid "Mand"
+#~ msgstr "Mand"
+
+#~ msgctxt "/question:city/response:336/text"
+#~ msgid "Manguchar"
+#~ msgstr "Manguchar"
+
+#~ msgctxt "/question:city/response:337/text"
+#~ msgid "Mashki Chah"
+#~ msgstr "Mashki Chah"
+
+#~ msgctxt "/question:city/response:338/text"
+#~ msgid "Maslti"
+#~ msgstr "Maslti"
+
+#~ msgctxt "/question:city/response:339/text"
+#~ msgid "Mastung"
+#~ msgstr "Mastung"
+
+#~ msgctxt "/question:city/response:340/text"
+#~ msgid "Mekhtar"
+#~ msgstr "Mekhtar"
+
+#~ msgctxt "/question:city/response:341/text"
+#~ msgid "Merui"
+#~ msgstr "Merui"
+
+#~ msgctxt "/question:city/response:342/text"
+#~ msgid "Mianez"
+#~ msgstr "Mianez"
+
+#~ msgctxt "/question:city/response:343/text"
+#~ msgid "Murgha Kibzai"
+#~ msgstr "Murgha Kibzai"
+
+#~ msgctxt "/question:city/response:344/text"
+#~ msgid "Musa Khel Bazar"
+#~ msgstr "Musa Khel Bazar"
+
+#~ msgctxt "/question:city/response:345/text"
+#~ msgid "Nagha Kalat"
+#~ msgstr "Nagha Kalat"
+
+#~ msgctxt "/question:city/response:346/text"
+#~ msgid "Nal"
+#~ msgstr "Nal"
+
+#~ msgctxt "/question:city/response:347/text"
+#~ msgid "Naseerabad"
+#~ msgstr "Naseerabad"
+
+#~ msgctxt "/question:city/response:348/text"
+#~ msgid "Nauroz Kalat"
+#~ msgstr "Nauroz Kalat"
+
+#~ msgctxt "/question:city/response:349/text"
+#~ msgid "Nur Gamma"
+#~ msgstr "Nur Gamma"
+
+#~ msgctxt "/question:city/response:350/text"
+#~ msgid "Nushki"
+#~ msgstr "Nushki"
+
+#~ msgctxt "/question:city/response:351/text"
+#~ msgid "Nuttal"
+#~ msgstr "Nuttal"
+
+#~ msgctxt "/question:city/response:352/text"
+#~ msgid "Ormara"
+#~ msgstr "Ormara"
+
+#~ msgctxt "/question:city/response:353/text"
+#~ msgid "Palantuk"
+#~ msgstr "Palantuk"
+
+#~ msgctxt "/question:city/response:533/text"
+#~ msgid "Panjgur"
+#~ msgstr "Panjgur"
+
+#~ msgctxt "/question:city/response:355/text"
+#~ msgid "Pasni"
+#~ msgstr "Pasni"
+
+#~ msgctxt "/question:city/response:356/text"
+#~ msgid "Piharak"
+#~ msgstr "Piharak"
+
+#~ msgctxt "/question:city/response:357/text"
+#~ msgid "Pishin"
+#~ msgstr "Pishin"
+
+#~ msgctxt "/question:city/response:358/text"
+#~ msgid "Qamruddin Karez"
+#~ msgstr "Qamruddin Karez"
+
+#~ msgctxt "/question:city/response:359/text"
+#~ msgid "Qila Abdullah"
+#~ msgstr "Qila Abdullah"
+
+#~ msgctxt "/question:city/response:360/text"
+#~ msgid "Qila Ladgasht"
+#~ msgstr "Qila Ladgasht"
+
+#~ msgctxt "/question:city/response:361/text"
+#~ msgid "Qila Safed"
+#~ msgstr "Qila Safed"
+
+#~ msgctxt "/question:city/response:362/text"
+#~ msgid "Qila Saifullah"
+#~ msgstr "Qila Saifullah"
+
+#~ msgctxt "/question:city/response:363/text"
+#~ msgid "Quetta"
+#~ msgstr "Quetta"
+
+#~ msgctxt "/question:city/response:364/text"
+#~ msgid "Rakhni"
+#~ msgstr "Rakhni"
+
+#~ msgctxt "/question:city/response:365/text"
+#~ msgid "Robat Thana"
+#~ msgstr "Robat Thana"
+
+#~ msgctxt "/question:city/response:366/text"
+#~ msgid "Rodkhan"
+#~ msgstr "Rodkhan"
+
+#~ msgctxt "/question:city/response:367/text"
+#~ msgid "Saindak"
+#~ msgstr "Saindak"
+
+#~ msgctxt "/question:city/response:368/text"
+#~ msgid "Sanjawi"
+#~ msgstr "Sanjawi"
+
+#~ msgctxt "/question:city/response:369/text"
+#~ msgid "Saruna"
+#~ msgstr "Saruna"
+
+#~ msgctxt "/question:city/response:370/text"
+#~ msgid "Shabaz Kalat"
+#~ msgstr "Shabaz Kalat"
+
+#~ msgctxt "/question:city/response:371/text"
+#~ msgid "Shahpur"
+#~ msgstr "Shahpur"
+
+#~ msgctxt "/question:city/response:372/text"
+#~ msgid "Sharam Jogizai"
+#~ msgstr "Sharam Jogizai"
+
+#~ msgctxt "/question:city/response:373/text"
+#~ msgid "Shingar"
+#~ msgstr "Shingar"
+
+#~ msgctxt "/question:city/response:374/text"
+#~ msgid "Shorap"
+#~ msgstr "Shorap"
+
+#~ msgctxt "/question:city/response:375/text"
+#~ msgid "Sibi"
+#~ msgstr "Sibi"
+
+#~ msgctxt "/question:city/response:376/text"
+#~ msgid "Sonmiani"
+#~ msgstr "Sonmiani"
+
+#~ msgctxt "/question:city/response:377/text"
+#~ msgid "Spezand"
+#~ msgstr "Spezand"
+
+#~ msgctxt "/question:city/response:378/text"
+#~ msgid "Spintangi"
+#~ msgstr "Spintangi"
+
+#~ msgctxt "/question:city/response:379/text"
+#~ msgid "Sui"
+#~ msgstr "Sui"
+
+#~ msgctxt "/question:city/response:380/text"
+#~ msgid "Suntsar"
+#~ msgstr "Suntsar"
+
+#~ msgctxt "/question:city/response:381/text"
+#~ msgid "Surab"
+#~ msgstr "Surab"
+
+#~ msgctxt "/question:city/response:382/text"
+#~ msgid "Thalo"
+#~ msgstr "Thalo"
+
+#~ msgctxt "/question:city/response:383/text"
+#~ msgid "Tump"
+#~ msgstr "Tump"
+
+#~ msgctxt "/question:city/response:384/text"
+#~ msgid "Turbat"
+#~ msgstr "Turbat"
+
+#~ msgctxt "/question:city/response:385/text"
+#~ msgid "Umarao"
+#~ msgstr "Umarao"
+
+#~ msgctxt "/question:city/response:386/text"
+#~ msgid "Pir Mahal"
+#~ msgstr "Pir Mahal"
+
+#~ msgctxt "/question:city/response:387/text"
+#~ msgid "Uthal"
+#~ msgstr "Uthal"
+
+#~ msgctxt "/question:city/response:388/text"
+#~ msgid "Vitakri"
+#~ msgstr "Vitakri"
+
+#~ msgctxt "/question:city/response:389/text"
+#~ msgid "Wadh"
+#~ msgstr "Wadh"
+
+#~ msgctxt "/question:city/response:390/text"
+#~ msgid "Washap"
+#~ msgstr "Washap"
+
+#~ msgctxt "/question:city/response:391/text"
+#~ msgid "Wasjuk"
+#~ msgstr "Wasjuk"
+
+#~ msgctxt "/question:city/response:392/text"
+#~ msgid "Yakmach"
+#~ msgstr "Yakmach"
+
+#~ msgctxt "/question:city/response:393/text"
+#~ msgid "Zhob"
+#~ msgstr "Zhob"
+
+#~ msgctxt "/question:city/response:394/text"
+#~ msgid "Astor"
+#~ msgstr "Astor"
+
+#~ msgctxt "/question:city/response:395/text"
+#~ msgid "Baramula"
+#~ msgstr "Baramula"
+
+#~ msgctxt "/question:city/response:396/text"
+#~ msgid "Hunza"
+#~ msgstr "Hunza"
+
+#~ msgctxt "/question:city/response:397/text"
+#~ msgid "Gilgit"
+#~ msgstr "Gilgit"
+
+#~ msgctxt "/question:city/response:398/text"
+#~ msgid "Nagar"
+#~ msgstr "Nagar"
+
+#~ msgctxt "/question:city/response:399/text"
+#~ msgid "Skardu"
+#~ msgstr "Skardu"
+
+#~ msgctxt "/question:city/response:400/text"
+#~ msgid "Shangrila"
+#~ msgstr "Shangrila"
+
+#~ msgctxt "/question:city/response:401/text"
+#~ msgid "Shandur"
+#~ msgstr "Shandur"
+
+#~ msgctxt "/question:city/response:402/text"
+#~ msgid "Bajaur"
+#~ msgstr "Bajaur"
+
+#~ msgctxt "/question:city/response:428/text"
+#~ msgid "Hangu"
+#~ msgstr "Hangu"
+
+#~ msgctxt "/question:city/response:439/text"
+#~ msgid "Malakand"
+#~ msgstr "Malakand"
+
+#~ msgctxt "/question:city/response:405/text"
+#~ msgid "Miram Shah"
+#~ msgstr "Miram Shah"
+
+#~ msgctxt "/question:city/response:406/text"
+#~ msgid "Mohmand"
+#~ msgstr "Mohmand"
+
+#~ msgctxt "/question:city/response:407/text"
+#~ msgid "Khyber"
+#~ msgstr "Khyber"
+
+#~ msgctxt "/question:city/response:408/text"
+#~ msgid "Kurram"
+#~ msgstr "Kurram"
+
+#~ msgctxt "/question:city/response:409/text"
+#~ msgid "North Waziristan"
+#~ msgstr "North Waziristan"
+
+#~ msgctxt "/question:city/response:410/text"
+#~ msgid "South Waziristan"
+#~ msgstr "South Waziristan"
+
+#~ msgctxt "/question:city/response:411/text"
+#~ msgid "Wana"
+#~ msgstr "Wana"
+
+#~ msgctxt "/question:city/response:412/text"
+#~ msgid "Abbottabad"
+#~ msgstr "Abbottabad"
+
+#~ msgctxt "/question:city/response:413/text"
+#~ msgid "Ayubia"
+#~ msgstr "Ayubia"
+
+#~ msgctxt "/question:city/response:414/text"
+#~ msgid "Adezai"
+#~ msgstr "Adezai"
+
+#~ msgctxt "/question:city/response:415/text"
+#~ msgid "Banda Daud Shah"
+#~ msgstr "Banda Daud Shah"
+
+#~ msgctxt "/question:city/response:416/text"
+#~ msgid "Bannu"
+#~ msgstr "Bannu"
+
+#~ msgctxt "/question:city/response:417/text"
+#~ msgid "Batagram"
+#~ msgstr "Batagram"
+
+#~ msgctxt "/question:city/response:418/text"
+#~ msgid "Birote"
+#~ msgstr "Birote"
+
+#~ msgctxt "/question:city/response:419/text"
+#~ msgid "Buner"
+#~ msgstr "Buner"
+
+#~ msgctxt "/question:city/response:420/text"
+#~ msgid "Chakdara"
+#~ msgstr "Chakdara"
+
+#~ msgctxt "/question:city/response:421/text"
+#~ msgid "Charsadda"
+#~ msgstr "Charsadda"
+
+#~ msgctxt "/question:city/response:422/text"
+#~ msgid "Chitral"
+#~ msgstr "Chitral"
+
+#~ msgctxt "/question:city/response:423/text"
+#~ msgid "Dargai"
+#~ msgstr "Dargai"
+
+#~ msgctxt "/question:city/response:477/text"
+#~ msgid "Darya Khan"
+#~ msgstr "Darya Khan"
+
+#~ msgctxt "/question:city/response:425/text"
+#~ msgid "Dera Ismail Khan"
+#~ msgstr "Dera Ismail Khan"
+
+#~ msgctxt "/question:city/response:426/text"
+#~ msgid "Drasan"
+#~ msgstr "Drasan"
+
+#~ msgctxt "/question:city/response:427/text"
+#~ msgid "Drosh"
+#~ msgstr "Drosh"
+
+#~ msgctxt "/question:city/response:429/text"
+#~ msgid "Haripur"
+#~ msgstr "Haripur"
+
+#~ msgctxt "/question:city/response:430/text"
+#~ msgid "Kalam"
+#~ msgstr "Kalam"
+
+#~ msgctxt "/question:city/response:431/text"
+#~ msgid "Karak"
+#~ msgstr "Karak"
+
+#~ msgctxt "/question:city/response:432/text"
+#~ msgid "Khanaspur"
+#~ msgstr "Khanaspur"
+
+#~ msgctxt "/question:city/response:433/text"
+#~ msgid "Kohat"
+#~ msgstr "Kohat"
+
+#~ msgctxt "/question:city/response:434/text"
+#~ msgid "Kohistan"
+#~ msgstr "Kohistan"
+
+#~ msgctxt "/question:city/response:435/text"
+#~ msgid "Lakki Marwat"
+#~ msgstr "Lakki Marwat"
+
+#~ msgctxt "/question:city/response:436/text"
+#~ msgid "Latamber"
+#~ msgstr "Latamber"
+
+#~ msgctxt "/question:city/response:437/text"
+#~ msgid "Lower Dir"
+#~ msgstr "Lower Dir"
+
+#~ msgctxt "/question:city/response:438/text"
+#~ msgid "Madyan"
+#~ msgstr "Madyan"
+
+#~ msgctxt "/question:city/response:440/text"
+#~ msgid "Mansehra"
+#~ msgstr "Mansehra"
+
+#~ msgctxt "/question:city/response:441/text"
+#~ msgid "Mardan"
+#~ msgstr "Mardan"
+
+#~ msgctxt "/question:city/response:442/text"
+#~ msgid "Mastuj"
+#~ msgstr "Mastuj"
+
+#~ msgctxt "/question:city/response:443/text"
+#~ msgid "Mongora"
+#~ msgstr "Mongora"
+
+#~ msgctxt "/question:city/response:444/text"
+#~ msgid "Nowshera"
+#~ msgstr "Nowshera"
+
+#~ msgctxt "/question:city/response:445/text"
+#~ msgid "Paharpur"
+#~ msgstr "Paharpur"
+
+#~ msgctxt "/question:city/response:446/text"
+#~ msgid "Peshawar"
+#~ msgstr "Peshawar"
+
+#~ msgctxt "/question:city/response:622/text"
+#~ msgid "Saidu Sharif"
+#~ msgstr "Saidu Sharif"
+
+#~ msgctxt "/question:city/response:448/text"
+#~ msgid "Shangla"
+#~ msgstr "Shangla"
+
+#~ msgctxt "/question:city/response:449/text"
+#~ msgid "Sakesar"
+#~ msgstr "Sakesar"
+
+#~ msgctxt "/question:city/response:450/text"
+#~ msgid "Swabi"
+#~ msgstr "Swabi"
+
+#~ msgctxt "/question:city/response:451/text"
+#~ msgid "Swat"
+#~ msgstr "Swat"
+
+#~ msgctxt "/question:city/response:452/text"
+#~ msgid "Tangi"
+#~ msgstr "Tangi"
+
+#~ msgctxt "/question:city/response:453/text"
+#~ msgid "Tank"
+#~ msgstr "Tank"
+
+#~ msgctxt "/question:city/response:454/text"
+#~ msgid "Thall"
+#~ msgstr "Thall"
+
+#~ msgctxt "/question:city/response:455/text"
+#~ msgid "Tordher"
+#~ msgstr "Tordher"
+
+#~ msgctxt "/question:city/response:456/text"
+#~ msgid "Upper Dir"
+#~ msgstr "Upper Dir"
+
+#~ msgctxt "/question:city/response:457/text"
+#~ msgid "Ahmedpur East"
+#~ msgstr "Ahmedpur East"
+
+#~ msgctxt "/question:city/response:458/text"
+#~ msgid "Ahmed Nager Chatha"
+#~ msgstr "Ahmed Nager Chatha"
+
+#~ msgctxt "/question:city/response:459/text"
+#~ msgid "Ali Pur"
+#~ msgstr "Ali Pur"
+
+#~ msgctxt "/question:city/response:460/text"
+#~ msgid "Arifwala"
+#~ msgstr "Arifwala"
+
+#~ msgctxt "/question:city/response:461/text"
+#~ msgid "Attock"
+#~ msgstr "Attock"
+
+#~ msgctxt "/question:city/response:462/text"
+#~ msgid "Basti Malook"
+#~ msgstr "Basti Malook"
+
+#~ msgctxt "/question:city/response:463/text"
+#~ msgid "Bhagalchur"
+#~ msgstr "Bhagalchur"
+
+#~ msgctxt "/question:city/response:464/text"
+#~ msgid "Bhalwal"
+#~ msgstr "Bhalwal"
+
+#~ msgctxt "/question:city/response:465/text"
+#~ msgid "Bahawalnagar"
+#~ msgstr "Bahawalnagar"
+
+#~ msgctxt "/question:city/response:466/text"
+#~ msgid "Bahawalpur"
+#~ msgstr "Bahawalpur"
+
+#~ msgctxt "/question:city/response:467/text"
+#~ msgid "Bhaipheru"
+#~ msgstr "Bhaipheru"
+
+#~ msgctxt "/question:city/response:468/text"
+#~ msgid "Bhakkar"
+#~ msgstr "Bhakkar"
+
+#~ msgctxt "/question:city/response:469/text"
+#~ msgid "Burewala"
+#~ msgstr "Burewala"
+
+#~ msgctxt "/question:city/response:470/text"
+#~ msgid "Chailianwala"
+#~ msgstr "Chailianwala"
+
+#~ msgctxt "/question:city/response:471/text"
+#~ msgid "Chakwal"
+#~ msgstr "Chakwal"
+
+#~ msgctxt "/question:city/response:472/text"
+#~ msgid "Chichawatni"
+#~ msgstr "Chichawatni"
+
+#~ msgctxt "/question:city/response:473/text"
+#~ msgid "Chiniot"
+#~ msgstr "Chiniot"
+
+#~ msgctxt "/question:city/response:474/text"
+#~ msgid "Chowk Azam"
+#~ msgstr "Chowk Azam"
+
+#~ msgctxt "/question:city/response:475/text"
+#~ msgid "Chowk Sarwar Shaheed"
+#~ msgstr "Chowk Sarwar Shaheed"
+
+#~ msgctxt "/question:city/response:476/text"
+#~ msgid "Daska"
+#~ msgstr "Daska"
+
+#~ msgctxt "/question:city/response:478/text"
+#~ msgid "Dera Ghazi Khan"
+#~ msgstr "Dera Ghazi Khan"
+
+#~ msgctxt "/question:city/response:479/text"
+#~ msgid "Derawar Fort"
+#~ msgstr "Derawar Fort"
+
+#~ msgctxt "/question:city/response:480/text"
+#~ msgid "Dhaular"
+#~ msgstr "Dhaular"
+
+#~ msgctxt "/question:city/response:481/text"
+#~ msgid "Dina City"
+#~ msgstr "Dina City"
+
+#~ msgctxt "/question:city/response:482/text"
+#~ msgid "Dinga"
+#~ msgstr "Dinga"
+
+#~ msgctxt "/question:city/response:483/text"
+#~ msgid "Dipalpur"
+#~ msgstr "Dipalpur"
+
+#~ msgctxt "/question:city/response:484/text"
+#~ msgid "Faisalabad"
+#~ msgstr "Faisalabad"
+
+#~ msgctxt "/question:city/response:485/text"
+#~ msgid "Fateh Jang"
+#~ msgstr "Fateh Jang"
+
+#~ msgctxt "/question:city/response:486/text"
+#~ msgid "Gadar"
+#~ msgstr "Gadar"
+
+#~ msgctxt "/question:city/response:487/text"
+#~ msgid "Ghakhar Mandi"
+#~ msgstr "Ghakhar Mandi"
+
+#~ msgctxt "/question:city/response:488/text"
+#~ msgid "Gujranwala"
+#~ msgstr "Gujranwala"
+
+#~ msgctxt "/question:city/response:489/text"
+#~ msgid "Gujrat"
+#~ msgstr "Gujrat"
+
+#~ msgctxt "/question:city/response:490/text"
+#~ msgid "Gujar Khan"
+#~ msgstr "Gujar Khan"
+
+#~ msgctxt "/question:city/response:491/text"
+#~ msgid "Hafizabad"
+#~ msgstr "Hafizabad"
+
+#~ msgctxt "/question:city/response:492/text"
+#~ msgid "Haroonabad"
+#~ msgstr "Haroonabad"
+
+#~ msgctxt "/question:city/response:493/text"
+#~ msgid "Hasilpur"
+#~ msgstr "Hasilpur"
+
+#~ msgctxt "/question:city/response:494/text"
+#~ msgid "Haveli Lakha"
+#~ msgstr "Haveli Lakha"
+
+#~ msgctxt "/question:city/response:495/text"
+#~ msgid "Jampur"
+#~ msgstr "Jampur"
+
+#~ msgctxt "/question:city/response:496/text"
+#~ msgid "Jhang"
+#~ msgstr "Jhang"
+
+#~ msgctxt "/question:city/response:497/text"
+#~ msgid "Jhelum"
+#~ msgstr "Jhelum"
+
+#~ msgctxt "/question:city/response:498/text"
+#~ msgid "Kalabagh"
+#~ msgstr "Kalabagh"
+
+#~ msgctxt "/question:city/response:499/text"
+#~ msgid "Karor Lal Esan"
+#~ msgstr "Karor Lal Esan"
+
+#~ msgctxt "/question:city/response:500/text"
+#~ msgid "Kasur"
+#~ msgstr "Kasur"
+
+#~ msgctxt "/question:city/response:501/text"
+#~ msgid "Kamalia"
+#~ msgstr "Kamalia"
+
+#~ msgctxt "/question:city/response:502/text"
+#~ msgid "Kamokey"
+#~ msgstr "Kamokey"
+
+#~ msgctxt "/question:city/response:503/text"
+#~ msgid "Khanewal"
+#~ msgstr "Khanewal"
+
+#~ msgctxt "/question:city/response:504/text"
+#~ msgid "Khanpur"
+#~ msgstr "Khanpur"
+
+#~ msgctxt "/question:city/response:505/text"
+#~ msgid "Kharian"
+#~ msgstr "Kharian"
+
+#~ msgctxt "/question:city/response:506/text"
+#~ msgid "Khushab"
+#~ msgstr "Khushab"
+
+#~ msgctxt "/question:city/response:507/text"
+#~ msgid "Kot Addu"
+#~ msgstr "Kot Addu"
+
+#~ msgctxt "/question:city/response:508/text"
+#~ msgid "Jahania"
+#~ msgstr "Jahania"
+
+#~ msgctxt "/question:city/response:509/text"
+#~ msgid "Jalla Araain"
+#~ msgstr "Jalla Araain"
+
+#~ msgctxt "/question:city/response:510/text"
+#~ msgid "Jauharabad"
+#~ msgstr "Jauharabad"
+
+#~ msgctxt "/question:city/response:511/text"
+#~ msgid "Laar"
+#~ msgstr "Laar"
+
+#~ msgctxt "/question:city/response:512/text"
+#~ msgid "Lahore"
+#~ msgstr "Lahore"
+
+#~ msgctxt "/question:city/response:513/text"
+#~ msgid "Lalamusa"
+#~ msgstr "Lalamusa"
+
+#~ msgctxt "/question:city/response:514/text"
+#~ msgid "Layyah"
+#~ msgstr "Layyah"
+
+#~ msgctxt "/question:city/response:515/text"
+#~ msgid "Lodhran"
+#~ msgstr "Lodhran"
+
+#~ msgctxt "/question:city/response:516/text"
+#~ msgid "Mamoori"
+#~ msgstr "Mamoori"
+
+#~ msgctxt "/question:city/response:517/text"
+#~ msgid "Mandi Bahauddin"
+#~ msgstr "Mandi Bahauddin"
+
+#~ msgctxt "/question:city/response:518/text"
+#~ msgid "Makhdoom Aali"
+#~ msgstr "Makhdoom Aali"
+
+#~ msgctxt "/question:city/response:519/text"
+#~ msgid "Mandi Warburton"
+#~ msgstr "Mandi Warburton"
+
+#~ msgctxt "/question:city/response:520/text"
+#~ msgid "Mailsi"
+#~ msgstr "Mailsi"
+
+#~ msgctxt "/question:city/response:521/text"
+#~ msgid "Mian Channu"
+#~ msgstr "Mian Channu"
+
+#~ msgctxt "/question:city/response:522/text"
+#~ msgid "Minawala"
+#~ msgstr "Minawala"
+
+#~ msgctxt "/question:city/response:523/text"
+#~ msgid "Mianwali"
+#~ msgstr "Mianwali"
+
+#~ msgctxt "/question:city/response:524/text"
+#~ msgid "Multan"
+#~ msgstr "Multan"
+
+#~ msgctxt "/question:city/response:525/text"
+#~ msgid "Murree"
+#~ msgstr "Murree"
+
+#~ msgctxt "/question:city/response:526/text"
+#~ msgid "Muridke"
+#~ msgstr "Muridke"
+
+#~ msgctxt "/question:city/response:527/text"
+#~ msgid "Muzaffargarh"
+#~ msgstr "Muzaffargarh"
+
+#~ msgctxt "/question:city/response:528/text"
+#~ msgid "Narowal"
+#~ msgstr "Narowal"
+
+#~ msgctxt "/question:city/response:529/text"
+#~ msgid "Okara"
+#~ msgstr "Okara"
+
+#~ msgctxt "/question:city/response:530/text"
+#~ msgid "Renala Khurd"
+#~ msgstr "Renala Khurd"
+
+#~ msgctxt "/question:city/response:539/text"
+#~ msgid "Rajan Pur"
+#~ msgstr "Rajan Pur"
+
+#~ msgctxt "/question:city/response:532/text"
+#~ msgid "Pak Pattan"
+#~ msgstr "Pak Pattan"
+
+#~ msgctxt "/question:city/response:534/text"
+#~ msgid "Pattoki"
+#~ msgstr "Pattoki"
+
+#~ msgctxt "/question:city/response:535/text"
+#~ msgid "Pirmahal"
+#~ msgstr "Pirmahal"
+
+#~ msgctxt "/question:city/response:536/text"
+#~ msgid "Qila Didar Singh"
+#~ msgstr "Qila Didar Singh"
+
+#~ msgctxt "/question:city/response:537/text"
+#~ msgid "Rabwah"
+#~ msgstr "Rabwah"
+
+#~ msgctxt "/question:city/response:538/text"
+#~ msgid "Raiwind"
+#~ msgstr "Raiwind"
+
+#~ msgctxt "/question:city/response:540/text"
+#~ msgid "Rahim Yar Khan"
+#~ msgstr "Rahim Yar Khan"
+
+#~ msgctxt "/question:city/response:541/text"
+#~ msgid "Rawalpindi"
+#~ msgstr "Rawalpindi"
+
+#~ msgctxt "/question:city/response:621/text"
+#~ msgid "Rohri"
+#~ msgstr "Rohri"
+
+#~ msgctxt "/question:city/response:543/text"
+#~ msgid "Sadiqabad"
+#~ msgstr "Sadiqabad"
+
+#~ msgctxt "/question:city/response:544/text"
+#~ msgid "Safdar Abad (Dhaban Singh)"
+#~ msgstr "Safdar Abad (Dhaban Singh)"
+
+#~ msgctxt "/question:city/response:545/text"
+#~ msgid "Sahiwal"
+#~ msgstr "Sahiwal"
+
+#~ msgctxt "/question:city/response:546/text"
+#~ msgid "Sangla Hill"
+#~ msgstr "Sangla Hill"
+
+#~ msgctxt "/question:city/response:547/text"
+#~ msgid "Samberial"
+#~ msgstr "Samberial"
+
+#~ msgctxt "/question:city/response:548/text"
+#~ msgid "Sarai Alamgir"
+#~ msgstr "Sarai Alamgir"
+
+#~ msgctxt "/question:city/response:549/text"
+#~ msgid "Sargodha"
+#~ msgstr "Sargodha"
+
+#~ msgctxt "/question:city/response:550/text"
+#~ msgid "Shakargarh"
+#~ msgstr "Shakargarh"
+
+#~ msgctxt "/question:city/response:551/text"
+#~ msgid "Shafqat Shaheed Chowk"
+#~ msgstr "Shafqat Shaheed Chowk"
+
+#~ msgctxt "/question:city/response:552/text"
+#~ msgid "Sheikhupura"
+#~ msgstr "Sheikhupura"
+
+#~ msgctxt "/question:city/response:553/text"
+#~ msgid "Sialkot"
+#~ msgstr "Sialkot"
+
+#~ msgctxt "/question:city/response:554/text"
+#~ msgid "Sohawa"
+#~ msgstr "Sohawa"
+
+#~ msgctxt "/question:city/response:555/text"
+#~ msgid "Sooianwala"
+#~ msgstr "Sooianwala"
+
+#~ msgctxt "/question:city/response:556/text"
+#~ msgid "Sundar (city)"
+#~ msgstr "Sundar (city)"
+
+#~ msgctxt "/question:city/response:557/text"
+#~ msgid "Talagang"
+#~ msgstr "Talagang"
+
+#~ msgctxt "/question:city/response:558/text"
+#~ msgid "Tarbela"
+#~ msgstr "Tarbela"
+
+#~ msgctxt "/question:city/response:559/text"
+#~ msgid "Takhtbai"
+#~ msgstr "Takhtbai"
+
+#~ msgctxt "/question:city/response:560/text"
+#~ msgid "Taxila"
+#~ msgstr "Taxila"
+
+#~ msgctxt "/question:city/response:561/text"
+#~ msgid "Toba Tek Singh"
+#~ msgstr "Toba Tek Singh"
+
+#~ msgctxt "/question:city/response:562/text"
+#~ msgid "Vehari"
+#~ msgstr "Vehari"
+
+#~ msgctxt "/question:city/response:563/text"
+#~ msgid "Wah Cantonment"
+#~ msgstr "Wah Cantonment"
+
+#~ msgctxt "/question:city/response:564/text"
+#~ msgid "Wazirabad"
+#~ msgstr "Wazirabad"
+
+#~ msgctxt "/question:city/response:565/text"
+#~ msgid "Ali Bandar"
+#~ msgstr "Ali Bandar"
+
+#~ msgctxt "/question:city/response:566/text"
+#~ msgid "Baden"
+#~ msgstr "Baden"
+
+#~ msgctxt "/question:city/response:567/text"
+#~ msgid "Chachro"
+#~ msgstr "Chachro"
+
+#~ msgctxt "/question:city/response:568/text"
+#~ msgid "Dadu"
+#~ msgstr "Dadu"
+
+#~ msgctxt "/question:city/response:569/text"
+#~ msgid "Digri"
+#~ msgstr "Digri"
+
+#~ msgctxt "/question:city/response:570/text"
+#~ msgid "Diplo"
+#~ msgstr "Diplo"
+
+#~ msgctxt "/question:city/response:571/text"
+#~ msgid "Dokri"
+#~ msgstr "Dokri"
+
+#~ msgctxt "/question:city/response:572/text"
+#~ msgid "Gadra"
+#~ msgstr "Gadra"
+
+#~ msgctxt "/question:city/response:573/text"
+#~ msgid "Ghanian"
+#~ msgstr "Ghanian"
+
+#~ msgctxt "/question:city/response:574/text"
+#~ msgid "Ghauspur"
+#~ msgstr "Ghauspur"
+
+#~ msgctxt "/question:city/response:575/text"
+#~ msgid "Ghotki"
+#~ msgstr "Ghotki"
+
+#~ msgctxt "/question:city/response:576/text"
+#~ msgid "Hala"
+#~ msgstr "Hala"
+
+#~ msgctxt "/question:geo_city_in/response:82/text"
+#~ msgid "Hyderabad"
+#~ msgstr "Hyderabad"
+
+#~ msgctxt "/question:city/response:578/text"
+#~ msgid "Islamkot"
+#~ msgstr "Islamkot"
+
+#~ msgctxt "/question:city/response:815/text"
+#~ msgid "Islamabad"
+#~ msgstr "Islamabad"
+
+#~ msgctxt "/question:city/response:579/text"
+#~ msgid "Jacobabad"
+#~ msgstr "Jacobabad"
+
+#~ msgctxt "/question:city/response:580/text"
+#~ msgid "Jamesabad"
+#~ msgstr "Jamesabad"
+
+#~ msgctxt "/question:city/response:581/text"
+#~ msgid "Jamshoro"
+#~ msgstr "Jamshoro"
+
+#~ msgctxt "/question:city/response:582/text"
+#~ msgid "Janghar"
+#~ msgstr "Janghar"
+
+#~ msgctxt "/question:city/response:583/text"
+#~ msgid "Jati (Mughalbhin)"
+#~ msgstr "Jati (Mughalbhin)"
+
+#~ msgctxt "/question:city/response:584/text"
+#~ msgid "Jhudo"
+#~ msgstr "Jhudo"
+
+#~ msgctxt "/question:city/response:585/text"
+#~ msgid "Jungshahi"
+#~ msgstr "Jungshahi"
+
+#~ msgctxt "/question:city/response:586/text"
+#~ msgid "Kandiaro"
+#~ msgstr "Kandiaro"
+
+#~ msgctxt "/question:city/response:587/text"
+#~ msgid "Karachi"
+#~ msgstr "Karachi"
+
+#~ msgctxt "/question:city/response:588/text"
+#~ msgid "Kashmor"
+#~ msgstr "Kashmor"
+
+#~ msgctxt "/question:city/response:589/text"
+#~ msgid "Keti Bandar"
+#~ msgstr "Keti Bandar"
+
+#~ msgctxt "/question:city/response:590/text"
+#~ msgid "Khairpur"
+#~ msgstr "Khairpur"
+
+#~ msgctxt "/question:city/response:591/text"
+#~ msgid "Khora"
+#~ msgstr "Khora"
+
+#~ msgctxt "/question:city/response:592/text"
+#~ msgid "Klupro"
+#~ msgstr "Klupro"
+
+#~ msgctxt "/question:city/response:593/text"
+#~ msgid "Khokhropur"
+#~ msgstr "Khokhropur"
+
+#~ msgctxt "/question:city/response:594/text"
+#~ msgid "Korangi"
+#~ msgstr "Korangi"
+
+#~ msgctxt "/question:city/response:595/text"
+#~ msgid "Kotri"
+#~ msgstr "Kotri"
+
+#~ msgctxt "/question:city/response:596/text"
+#~ msgid "Kot Sarae"
+#~ msgstr "Kot Sarae"
+
+#~ msgctxt "/question:city/response:597/text"
+#~ msgid "Larkana"
+#~ msgstr "Larkana"
+
+#~ msgctxt "/question:city/response:598/text"
+#~ msgid "Lund"
+#~ msgstr "Lund"
+
+#~ msgctxt "/question:city/response:599/text"
+#~ msgid "Mathi"
+#~ msgstr "Mathi"
+
+#~ msgctxt "/question:city/response:600/text"
+#~ msgid "Matiari"
+#~ msgstr "Matiari"
+
+#~ msgctxt "/question:city/response:601/text"
+#~ msgid "Mehar"
+#~ msgstr "Mehar"
+
+#~ msgctxt "/question:city/response:602/text"
+#~ msgid "Mirpur Batoro"
+#~ msgstr "Mirpur Batoro"
+
+#~ msgctxt "/question:city/response:603/text"
+#~ msgid "Mirpur Khas"
+#~ msgstr "Mirpur Khas"
+
+#~ msgctxt "/question:city/response:604/text"
+#~ msgid "Mirpur Sakro"
+#~ msgstr "Mirpur Sakro"
+
+#~ msgctxt "/question:city/response:605/text"
+#~ msgid "Mithi"
+#~ msgstr "Mithi"
+
+#~ msgctxt "/question:city/response:606/text"
+#~ msgid "Mithani"
+#~ msgstr "Mithani"
+
+#~ msgctxt "/question:city/response:607/text"
+#~ msgid "Moro"
+#~ msgstr "Moro"
+
+#~ msgctxt "/question:city/response:608/text"
+#~ msgid "Nagar Parkar"
+#~ msgstr "Nagar Parkar"
+
+#~ msgctxt "/question:city/response:609/text"
+#~ msgid "Naushara"
+#~ msgstr "Naushara"
+
+#~ msgctxt "/question:city/response:610/text"
+#~ msgid "Naudero"
+#~ msgstr "Naudero"
+
+#~ msgctxt "/question:city/response:611/text"
+#~ msgid "Noushero Feroz"
+#~ msgstr "Noushero Feroz"
+
+#~ msgctxt "/question:city/response:612/text"
+#~ msgid "Nawabshah"
+#~ msgstr "Nawabshah"
+
+#~ msgctxt "/question:city/response:613/text"
+#~ msgid "Nazimabad"
+#~ msgstr "Nazimabad"
+
+#~ msgctxt "/question:city/response:614/text"
+#~ msgid "Naokot"
+#~ msgstr "Naokot"
+
+#~ msgctxt "/question:city/response:615/text"
+#~ msgid "Pendoo"
+#~ msgstr "Pendoo"
+
+#~ msgctxt "/question:city/response:616/text"
+#~ msgid "Pokran"
+#~ msgstr "Pokran"
+
+#~ msgctxt "/question:city/response:617/text"
+#~ msgid "Qambar"
+#~ msgstr "Qambar"
+
+#~ msgctxt "/question:city/response:618/text"
+#~ msgid "Qazi Ahmad"
+#~ msgstr "Qazi Ahmad"
+
+#~ msgctxt "/question:city/response:619/text"
+#~ msgid "Ranipur"
+#~ msgstr "Ranipur"
+
+#~ msgctxt "/question:city/response:620/text"
+#~ msgid "Ratodero"
+#~ msgstr "Ratodero"
+
+#~ msgctxt "/question:city/response:623/text"
+#~ msgid "Sakrand"
+#~ msgstr "Sakrand"
+
+#~ msgctxt "/question:city/response:624/text"
+#~ msgid "Sanghar"
+#~ msgstr "Sanghar"
+
+#~ msgctxt "/question:city/response:625/text"
+#~ msgid "Shadadkhot"
+#~ msgstr "Shadadkhot"
+
+#~ msgctxt "/question:city/response:626/text"
+#~ msgid "Shahbandar"
+#~ msgstr "Shahbandar"
+
+#~ msgctxt "/question:city/response:627/text"
+#~ msgid "Shahdadpur"
+#~ msgstr "Shahdadpur"
+
+#~ msgctxt "/question:city/response:628/text"
+#~ msgid "Shahpur Chakar"
+#~ msgstr "Shahpur Chakar"
+
+#~ msgctxt "/question:city/response:629/text"
+#~ msgid "Shikarpur"
+#~ msgstr "Shikarpur"
+
+#~ msgctxt "/question:city/response:630/text"
+#~ msgid "Sujawal"
+#~ msgstr "Sujawal"
+
+#~ msgctxt "/question:city/response:631/text"
+#~ msgid "Sukkur"
+#~ msgstr "Sukkur"
+
+#~ msgctxt "/question:city/response:632/text"
+#~ msgid "Tando Adam"
+#~ msgstr "Tando Adam"
+
+#~ msgctxt "/question:city/response:633/text"
+#~ msgid "Tando Allahyar"
+#~ msgstr "Tando Allahyar"
+
+#~ msgctxt "/question:city/response:634/text"
+#~ msgid "Tando Bago"
+#~ msgstr "Tando Bago"
+
+#~ msgctxt "/question:city/response:635/text"
+#~ msgid "Tar Ahamd Rind"
+#~ msgstr "Tar Ahamd Rind"
+
+#~ msgctxt "/question:city/response:636/text"
+#~ msgid "Thatta"
+#~ msgstr "Thatta"
+
+#~ msgctxt "/question:city/response:637/text"
+#~ msgid "Tujal"
+#~ msgstr "Tujal"
+
+#~ msgctxt "/question:city/response:638/text"
+#~ msgid "Umarkot"
+#~ msgstr "Umarkot"
+
+#~ msgctxt "/question:city/response:639/text"
+#~ msgid "Veirwaro"
+#~ msgstr "Veirwaro"
+
+#~ msgctxt "/question:city/response:640/text"
+#~ msgid "Warah"
+#~ msgstr "Warah"
+
+#~ msgctxt "/question:city/response:641/text"
+#~ msgid "Āgra"
+#~ msgstr "Āgra"
+
+#~ msgctxt "/question:city/response:642/text"
+#~ msgid "Ahmadābād"
+#~ msgstr "Ahmadābād"
+
+#~ msgctxt "/question:city/response:643/text"
+#~ msgid "Ahmadnagar"
+#~ msgstr "Ahmadnagar"
+
+#~ msgctxt "/question:city/response:644/text"
+#~ msgid "Āīzawl"
+#~ msgstr "Āīzawl"
+
+#~ msgctxt "/question:geo_city_in/response:6/text"
+#~ msgid "Ajmer"
+#~ msgstr "Ajmer"
+
+#~ msgctxt "/question:geo_city_in/response:7/text"
+#~ msgid "Akola"
+#~ msgstr "Akola"
+
+#~ msgctxt "/question:city/response:647/text"
+#~ msgid "Alappuzha"
+#~ msgstr "Alappuzha"
+
+#~ msgctxt "/question:city/response:648/text"
+#~ msgid "Alīgarh"
+#~ msgstr "Alīgarh"
+
+#~ msgctxt "/question:city/response:649/text"
+#~ msgid "Allahābād"
+#~ msgstr "Allahābād"
+
+#~ msgctxt "/question:geo_city_in/response:10/text"
+#~ msgid "Alwar"
+#~ msgstr "Alwar"
+
+#~ msgctxt "/question:city/response:651/text"
+#~ msgid "Ambāla"
+#~ msgstr "Ambāla"
+
+#~ msgctxt "/question:city/response:652/text"
+#~ msgid "Amrāvati"
+#~ msgstr "Amrāvati"
+
+#~ msgctxt "/question:geo_city_in/response:14/text"
+#~ msgid "Amritsar"
+#~ msgstr "Amritsar"
+
+#~ msgctxt "/question:city/response:654/text"
+#~ msgid "Ānand"
+#~ msgstr "Ānand"
+
+#~ msgctxt "/question:geo_city_in/response:15/text"
+#~ msgid "Anantapur"
+#~ msgstr "Anantapur"
+
+#~ msgctxt "/question:geo_city_in/response:16/text"
+#~ msgid "Arrah"
+#~ msgstr "Arrah"
+
+#~ msgctxt "/question:geo_city_in/response:17/text"
+#~ msgid "Asansol"
+#~ msgstr "Asansol"
+
+#~ msgctxt "/question:city/response:658/text"
+#~ msgid "Aurangābād"
+#~ msgstr "Aurangābād"
+
+#~ msgctxt "/question:city/response:659/text"
+#~ msgid "Barddhamān"
+#~ msgstr "Barddhamān"
+
+#~ msgctxt "/question:city/response:660/text"
+#~ msgid "Bareli"
+#~ msgstr "Bareli"
+
+#~ msgctxt "/question:geo_city_in/response:26/text"
+#~ msgid "Bathinda"
+#~ msgstr "Bathinda"
+
+#~ msgctxt "/question:geo_city_in/response:28/text"
+#~ msgid "Belgaum"
+#~ msgstr "Belgaum"
+
+#~ msgctxt "/question:geo_city_in/response:29/text"
+#~ msgid "Bellary"
+#~ msgstr "Bellary"
+
+#~ msgctxt "/question:city/response:664/text"
+#~ msgid "Bengalūru"
+#~ msgstr "Bengalūru"
+
+#~ msgctxt "/question:city/response:665/text"
+#~ msgid "Bhāgalpur"
+#~ msgstr "Bhāgalpur"
+
+#~ msgctxt "/question:geo_city_in/response:31/text"
+#~ msgid "Bharatpur"
+#~ msgstr "Bharatpur"
+
+#~ msgctxt "/question:city/response:667/text"
+#~ msgid "Bhāvnagar"
+#~ msgstr "Bhāvnagar"
+
+#~ msgctxt "/question:geo_city_in/response:34/text"
+#~ msgid "Bhilai"
+#~ msgstr "Bhilai"
+
+#~ msgctxt "/question:city/response:669/text"
+#~ msgid "Bhīlwāra"
+#~ msgstr "Bhīlwāra"
+
+#~ msgctxt "/question:city/response:670/text"
+#~ msgid "Bhopāl"
+#~ msgstr "Bhopāl"
+
+#~ msgctxt "/question:geo_city_in/response:38/text"
+#~ msgid "Bhubaneswar"
+#~ msgstr "Bhubaneswar"
+
+#~ msgctxt "/question:city/response:672/text"
+#~ msgid "Bīdar"
+#~ msgstr "Bīdar"
+
+#~ msgctxt "/question:city/response:673/text"
+#~ msgid "Bihār"
+#~ msgstr "Bihār"
+
+#~ msgctxt "/question:city/response:674/text"
+#~ msgid "Bijāpur"
+#~ msgstr "Bijāpur"
+
+#~ msgctxt "/question:city/response:675/text"
+#~ msgid "Bīkāner"
+#~ msgstr "Bīkāner"
+
+#~ msgctxt "/question:city/response:676/text"
+#~ msgid "Bilāspur"
+#~ msgstr "Bilāspur"
+
+#~ msgctxt "/question:city/response:677/text"
+#~ msgid "Bokāro"
+#~ msgstr "Bokāro"
+
+#~ msgctxt "/question:geo_city_in/response:44/text"
+#~ msgid "Brahmapur"
+#~ msgstr "Brahmapur"
+
+#~ msgctxt "/question:city/response:679/text"
+#~ msgid "Byatarayanapura"
+#~ msgstr "Byatarayanapura"
+
+#~ msgctxt "/question:city/response:680/text"
+#~ msgid "Chandīgarh"
+#~ msgstr "Chandīgarh"
+
+#~ msgctxt "/question:geo_city_in/response:47/text"
+#~ msgid "Chandrapur"
+#~ msgstr "Chandrapur"
+
+#~ msgctxt "/question:geo_city_in/response:48/text"
+#~ msgid "Chennai"
+#~ msgstr "Chennai"
+
+#~ msgctxt "/question:city/response:683/text"
+#~ msgid "Cuddapah"
+#~ msgstr "Cuddapah"
+
+#~ msgctxt "/question:geo_city_in/response:52/text"
+#~ msgid "Darbhanga"
+#~ msgstr "Darbhanga"
+
+#~ msgctxt "/question:geo_city_in/response:53/text"
+#~ msgid "Davanagere"
+#~ msgstr "Davanagere"
+
+#~ msgctxt "/question:city/response:686/text"
+#~ msgid "Dehra Dūn"
+#~ msgstr "Dehra Dūn"
+
+#~ msgctxt "/question:city/response:687/text"
+#~ msgid "Dewās"
+#~ msgstr "Dewās"
+
+#~ msgctxt "/question:geo_city_in/response:57/text"
+#~ msgid "Dhanbad"
+#~ msgstr "Dhanbad"
+
+#~ msgctxt "/question:geo_city_in/response:58/text"
+#~ msgid "Dhule"
+#~ msgstr "Dhule"
+
+#~ msgctxt "/question:geo_city_in/response:55/text"
+#~ msgid "Delhi"
+#~ msgstr "Delhi"
+
+#~ msgctxt "/question:city/response:691/text"
+#~ msgid "Durgāpur"
+#~ msgstr "Durgāpur"
+
+#~ msgctxt "/question:city/response:692/text"
+#~ msgid "Elūru"
+#~ msgstr "Elūru"
+
+#~ msgctxt "/question:city/response:693/text"
+#~ msgid "Erode"
+#~ msgstr "Erode"
+
+#~ msgctxt "/question:city/response:694/text"
+#~ msgid "Etāwah"
+#~ msgstr "Etāwah"
+
+#~ msgctxt "/question:city/response:695/text"
+#~ msgid "Faizābād"
+#~ msgstr "Faizābād"
+
+#~ msgctxt "/question:city/response:696/text"
+#~ msgid "Farrukhābād"
+#~ msgstr "Farrukhābād"
+
+#~ msgctxt "/question:city/response:697/text"
+#~ msgid "Fīrozābād"
+#~ msgstr "Fīrozābād"
+
+#~ msgctxt "/question:city/response:698/text"
+#~ msgid "Gajuvaka"
+#~ msgstr "Gajuvaka"
+
+#~ msgctxt "/question:city/response:699/text"
+#~ msgid "Gangānagar"
+#~ msgstr "Gangānagar"
+
+#~ msgctxt "/question:geo_city_in/response:68/text"
+#~ msgid "Gaya"
+#~ msgstr "Gaya"
+
+#~ msgctxt "/question:geo_city_in/response:71/text"
+#~ msgid "Gorakhpur"
+#~ msgstr "Gorakhpur"
+
+#~ msgctxt "/question:geo_city_in/response:72/text"
+#~ msgid "Gulbarga"
+#~ msgstr "Gulbarga"
+
+#~ msgctxt "/question:city/response:703/text"
+#~ msgid "Guntūr"
+#~ msgstr "Guntūr"
+
+#~ msgctxt "/question:city/response:704/text"
+#~ msgid "Guwāhāti"
+#~ msgstr "Guwāhāti"
+
+#~ msgctxt "/question:geo_city_in/response:76/text"
+#~ msgid "Gwalior"
+#~ msgstr "Gwalior"
+
+#~ msgctxt "/question:city/response:706/text"
+#~ msgid "Haidarābād"
+#~ msgstr "Haidarābād"
+
+#~ msgctxt "/question:city/response:707/text"
+#~ msgid "Hāpur"
+#~ msgstr "Hāpur"
+
+#~ msgctxt "/question:city/response:708/text"
+#~ msgid "Haridwār"
+#~ msgstr "Haridwār"
+
+#~ msgctxt "/question:city/response:709/text"
+#~ msgid "Hisār"
+#~ msgstr "Hisār"
+
+#~ msgctxt "/question:city/response:710/text"
+#~ msgid "Hospet"
+#~ msgstr "Hospet"
+
+#~ msgctxt "/question:city/response:711/text"
+#~ msgid "Hubli"
+#~ msgstr "Hubli"
+
+#~ msgctxt "/question:geo_city_in/response:83/text"
+#~ msgid "Ichalkaranji"
+#~ msgstr "Ichalkaranji"
+
+#~ msgctxt "/question:city/response:713/text"
+#~ msgid "Imphāl"
+#~ msgstr "Imphāl"
+
+#~ msgctxt "/question:geo_city_in/response:85/text"
+#~ msgid "Indore"
+#~ msgstr "Indore"
+
+#~ msgctxt "/question:city/response:715/text"
+#~ msgid "Ingrāj Bāzār"
+#~ msgstr "Ingrāj Bāzār"
+
+#~ msgctxt "/question:geo_city_in/response:87/text"
+#~ msgid "Jabalpur"
+#~ msgstr "Jabalpur"
+
+#~ msgctxt "/question:geo_city_in/response:88/text"
+#~ msgid "Jaipur"
+#~ msgstr "Jaipur"
+
+#~ msgctxt "/question:geo_city_in/response:89/text"
+#~ msgid "Jalandhar"
+#~ msgstr "Jalandhar"
+
+#~ msgctxt "/question:city/response:719/text"
+#~ msgid "Jālgaon"
+#~ msgstr "Jālgaon"
+
+#~ msgctxt "/question:city/response:720/text"
+#~ msgid "Jālna"
+#~ msgstr "Jālna"
+
+#~ msgctxt "/question:geo_city_in/response:92/text"
+#~ msgid "Jammu"
+#~ msgstr "Jammu"
+
+#~ msgctxt "/question:city/response:722/text"
+#~ msgid "Jāmnagar"
+#~ msgstr "Jāmnagar"
+
+#~ msgctxt "/question:geo_city_in/response:94/text"
+#~ msgid "Jamshedpur"
+#~ msgstr "Jamshedpur"
+
+#~ msgctxt "/question:city/response:724/text"
+#~ msgid "Jhānsi"
+#~ msgstr "Jhānsi"
+
+#~ msgctxt "/question:geo_city_in/response:96/text"
+#~ msgid "Jodhpur"
+#~ msgstr "Jodhpur"
+
+#~ msgctxt "/question:city/response:726/text"
+#~ msgid "Jūnāgadh"
+#~ msgstr "Jūnāgadh"
+
+#~ msgctxt "/question:city/response:727/text"
+#~ msgid "Kākināda"
+#~ msgstr "Kākināda"
+
+#~ msgctxt "/question:city/response:728/text"
+#~ msgid "Kannur"
+#~ msgstr "Kannur"
+
+#~ msgctxt "/question:city/response:729/text"
+#~ msgid "Kānpur"
+#~ msgstr "Kānpur"
+
+#~ msgctxt "/question:city/response:730/text"
+#~ msgid "Karīmnagar"
+#~ msgstr "Karīmnagar"
+
+#~ msgctxt "/question:city/response:731/text"
+#~ msgid "Karnāl"
+#~ msgstr "Karnāl"
+
+#~ msgctxt "/question:city/response:732/text"
+#~ msgid "Karnūl"
+#~ msgstr "Karnūl"
+
+#~ msgctxt "/question:city/response:733/text"
+#~ msgid "Kharagpur"
+#~ msgstr "Kharagpur"
+
+#~ msgctxt "/question:geo_city_in/response:110/text"
+#~ msgid "Kochi"
+#~ msgstr "Kochi"
+
+#~ msgctxt "/question:city/response:735/text"
+#~ msgid "Kolhāpur"
+#~ msgstr "Kolhāpur"
+
+#~ msgctxt "/question:geo_city_in/response:112/text"
+#~ msgid "Kolkata"
+#~ msgstr "Kolkata"
+
+#~ msgctxt "/question:geo_city_in/response:113/text"
+#~ msgid "Kollam"
+#~ msgstr "Kollam"
+
+#~ msgctxt "/question:geo_city_in/response:114/text"
+#~ msgid "Korba"
+#~ msgstr "Korba"
+
+#~ msgctxt "/question:geo_city_in/response:115/text"
+#~ msgid "Kota"
+#~ msgstr "Kota"
+
+#~ msgctxt "/question:city/response:740/text"
+#~ msgid "Koyampattur"
+#~ msgstr "Koyampattur"
+
+#~ msgctxt "/question:city/response:741/text"
+#~ msgid "Kozhikkod"
+#~ msgstr "Kozhikkod"
+
+#~ msgctxt "/question:city/response:742/text"
+#~ msgid "Lakhnau"
+#~ msgstr "Lakhnau"
+
+#~ msgctxt "/question:city/response:743/text"
+#~ msgid "Lātūr"
+#~ msgstr "Lātūr"
+
+#~ msgctxt "/question:city/response:744/text"
+#~ msgid "Ludhiāna"
+#~ msgstr "Ludhiāna"
+
+#~ msgctxt "/question:geo_city_in/response:123/text"
+#~ msgid "Madurai"
+#~ msgstr "Madurai"
+
+#~ msgctxt "/question:city/response:746/text"
+#~ msgid "Maisuru"
+#~ msgstr "Maisuru"
+
+#~ msgctxt "/question:city/response:747/text"
+#~ msgid "Mālegaon"
+#~ msgstr "Mālegaon"
+
+#~ msgctxt "/question:city/response:748/text"
+#~ msgid "Mangaluru"
+#~ msgstr "Mangaluru"
+
+#~ msgctxt "/question:geo_city_in/response:128/text"
+#~ msgid "Mathura"
+#~ msgstr "Mathura"
+
+#~ msgctxt "/question:geo_city_in/response:129/text"
+#~ msgid "Mau"
+#~ msgstr "Mau"
+
+#~ msgctxt "/question:city/response:751/text"
+#~ msgid "Mīrat"
+#~ msgstr "Mīrat"
+
+#~ msgctxt "/question:city/response:752/text"
+#~ msgid "Mirzāpur"
+#~ msgstr "Mirzāpur"
+
+#~ msgctxt "/question:city/response:753/text"
+#~ msgid "Morādābād"
+#~ msgstr "Morādābād"
+
+#~ msgctxt "/question:geo_city_in/response:134/text"
+#~ msgid "Mumbai"
+#~ msgstr "Mumbai"
+
+#~ msgctxt "/question:city/response:755/text"
+#~ msgid "Munger"
+#~ msgstr "Munger"
+
+#~ msgctxt "/question:geo_city_in/response:135/text"
+#~ msgid "Muzaffarnagar"
+#~ msgstr "Muzaffarnagar"
+
+#~ msgctxt "/question:geo_city_in/response:136/text"
+#~ msgid "Muzaffarpur"
+#~ msgstr "Muzaffarpur"
+
+#~ msgctxt "/question:city/response:758/text"
+#~ msgid "Nāgpur"
+#~ msgstr "Nāgpur"
+
+#~ msgctxt "/question:city/response:759/text"
+#~ msgid "Nānded"
+#~ msgstr "Nānded"
+
+#~ msgctxt "/question:city/response:761/text"
+#~ msgid "Nāshik"
+#~ msgstr "Nāshik"
+
+#~ msgctxt "/question:city/response:762/text"
+#~ msgid "Navsāri"
+#~ msgstr "Navsāri"
+
+#~ msgctxt "/question:city/response:763/text"
+#~ msgid "Nellur"
+#~ msgstr "Nellur"
+
+#~ msgctxt "/question:city/response:764/text"
+#~ msgid "Nizāmābād"
+#~ msgstr "Nizāmābād"
+
+#~ msgctxt "/question:city/response:765/text"
+#~ msgid "Pāli"
+#~ msgstr "Pāli"
+
+#~ msgctxt "/question:city/response:766/text"
+#~ msgid "Pānīpat"
+#~ msgstr "Pānīpat"
+
+#~ msgctxt "/question:geo_city_in/response:153/text"
+#~ msgid "Parbhani"
+#~ msgstr "Parbhani"
+
+#~ msgctxt "/question:city/response:768/text"
+#~ msgid "Patiāla"
+#~ msgstr "Patiāla"
+
+#~ msgctxt "/question:geo_city_in/response:155/text"
+#~ msgid "Patna"
+#~ msgstr "Patna"
+
+#~ msgctxt "/question:city/response:770/text"
+#~ msgid "Pondicherry"
+#~ msgstr "Pondicherry"
+
+#~ msgctxt "/question:geo_city_in/response:159/text"
+#~ msgid "Pune"
+#~ msgstr "Pune"
+
+#~ msgctxt "/question:city/response:772/text"
+#~ msgid "Pūrnia"
+#~ msgstr "Pūrnia"
+
+#~ msgctxt "/question:city/response:773/text"
+#~ msgid "Rāichūr"
+#~ msgstr "Rāichūr"
+
+#~ msgctxt "/question:geo_city_in/response:162/text"
+#~ msgid "Raipur"
+#~ msgstr "Raipur"
+
+#~ msgctxt "/question:city/response:775/text"
+#~ msgid "Rājamahendri"
+#~ msgstr "Rājamahendri"
+
+#~ msgctxt "/question:city/response:776/text"
+#~ msgid "Rājkot"
+#~ msgstr "Rājkot"
+
+#~ msgctxt "/question:city/response:777/text"
+#~ msgid "Rāmagundam"
+#~ msgstr "Rāmagundam"
+
+#~ msgctxt "/question:city/response:778/text"
+#~ msgid "Rāmpur"
+#~ msgstr "Rāmpur"
+
+#~ msgctxt "/question:city/response:779/text"
+#~ msgid "Rānchi"
+#~ msgstr "Rānchi"
+
+#~ msgctxt "/question:city/response:780/text"
+#~ msgid "Ratlām"
+#~ msgstr "Ratlām"
+
+#~ msgctxt "/question:city/response:781/text"
+#~ msgid "Raurkela"
+#~ msgstr "Raurkela"
+
+#~ msgctxt "/question:geo_city_in/response:169/text"
+#~ msgid "Rewa"
+#~ msgstr "Rewa"
+
+#~ msgctxt "/question:geo_city_in/response:170/text"
+#~ msgid "Rohtak"
+#~ msgstr "Rohtak"
+
+#~ msgctxt "/question:city/response:784/text"
+#~ msgid "Sāgar"
+#~ msgstr "Sāgar"
+
+#~ msgctxt "/question:city/response:785/text"
+#~ msgid "Sahāranpur"
+#~ msgstr "Sahāranpur"
+
+#~ msgctxt "/question:city/response:786/text"
+#~ msgid "Sambalpur"
+#~ msgstr "Sambalpur"
+
+#~ msgctxt "/question:city/response:787/text"
+#~ msgid "Sangli-Miraj"
+#~ msgstr "Sangli-Miraj"
+
+#~ msgctxt "/question:geo_city_in/response:176/text"
+#~ msgid "Satna"
+#~ msgstr "Satna"
+
+#~ msgctxt "/question:city/response:789/text"
+#~ msgid "Shāhjahānpur"
+#~ msgstr "Shāhjahānpur"
+
+#~ msgctxt "/question:city/response:790/text"
+#~ msgid "Shilīguri"
+#~ msgstr "Shilīguri"
+
+#~ msgctxt "/question:geo_city_in/response:178/text"
+#~ msgid "Shillong"
+#~ msgstr "Shillong"
+
+#~ msgctxt "/question:city/response:792/text"
+#~ msgid "Shimoga"
+#~ msgstr "Shimoga"
+
+#~ msgctxt "/question:city/response:793/text"
+#~ msgid "Sholāpur"
+#~ msgstr "Sholāpur"
+
+#~ msgctxt "/question:city/response:794/text"
+#~ msgid "Singrauli"
+#~ msgstr "Singrauli"
+
+#~ msgctxt "/question:city/response:795/text"
+#~ msgid "Srīnagar"
+#~ msgstr "Srīnagar"
+
+#~ msgctxt "/question:city/response:796/text"
+#~ msgid "Sūrat"
+#~ msgstr "Sūrat"
+
+#~ msgctxt "/question:city/response:797/text"
+#~ msgid "Surendranagar"
+#~ msgstr "Surendranagar"
+
+#~ msgctxt "/question:geo_city_in/response:192/text"
+#~ msgid "Thiruvananthapuram"
+#~ msgstr "Thiruvananthapuram"
+
+#~ msgctxt "/question:city/response:799/text"
+#~ msgid "Thrissūr"
+#~ msgstr "Thrissūr"
+
+#~ msgctxt "/question:city/response:800/text"
+#~ msgid "Thūthukkudi"
+#~ msgstr "Thūthukkudi"
+
+#~ msgctxt "/question:city/response:801/text"
+#~ msgid "Tiruchchirāppalli"
+#~ msgstr "Tiruchchirāppalli"
+
+#~ msgctxt "/question:geo_city_in/response:196/text"
+#~ msgid "Tirunelveli"
+#~ msgstr "Tirunelveli"
+
+#~ msgctxt "/question:geo_city_in/response:197/text"
+#~ msgid "Tirupati"
+#~ msgstr "Tirupati"
+
+#~ msgctxt "/question:city/response:804/text"
+#~ msgid "Tiruppur"
+#~ msgstr "Tiruppur"
+
+#~ msgctxt "/question:city/response:805/text"
+#~ msgid "Tumkūr"
+#~ msgstr "Tumkūr"
+
+#~ msgctxt "/question:geo_city_in/response:201/text"
+#~ msgid "Udaipur"
+#~ msgstr "Udaipur"
+
+#~ msgctxt "/question:geo_city_in/response:202/text"
+#~ msgid "Ujjain"
+#~ msgstr "Ujjain"
+
+#~ msgctxt "/question:geo_city_in/response:204/text"
+#~ msgid "Vadodara"
+#~ msgstr "Vadodara"
+
+#~ msgctxt "/question:city/response:809/text"
+#~ msgid "Vārānasī"
+#~ msgstr "Vārānasī"
+
+#~ msgctxt "/question:city/response:810/text"
+#~ msgid "Velluru"
+#~ msgstr "Velluru"
+
+#~ msgctxt "/question:city/response:811/text"
+#~ msgid "Vijayawāda"
+#~ msgstr "Vijayawāda"
+
+#~ msgctxt "/question:geo_city_in/response:208/text"
+#~ msgid "Visakhapatnam"
+#~ msgstr "Visakhapatnam"
+
+#~ msgctxt "/question:geo_city_in/response:210/text"
+#~ msgid "Warangal"
+#~ msgstr "Warangal"
+
+#~ msgctxt "/question:city/response:814/text"
+#~ msgid "Yamunānagar"
+#~ msgstr "Yamunānagar"
+
+#~ msgctxt "/question:B7anew/response:11/text"
+#~ msgid "Other"
+#~ msgstr "أُخرى"
+
+#~ msgctxt "/question:city/response:990/text"
+#~ msgid "TEST City 1 - do not use"
+#~ msgstr "TEST City 1 - do not use"
+
+#~ msgctxt "/question:city/response:1000/text"
+#~ msgid "TEST City 2 - do not use"
+#~ msgstr "TEST City 2 - do not use"
+
+#~ msgctxt "/question:city/response:257/text"
+#~ msgid "............"
+#~ msgstr "............"
+
+#~ msgctxt "/question:city/response:200/text"
+#~ msgid "Al Asimah"
+#~ msgstr "Al Asimah"
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<span  class=\"alert alert-warning\"><b>Please "
+#~ "enter a valid day (1 to "
+#~ "30)</b></span>\n"
+#~ msgstr ""
+#~ "<span  class=\"alert alert-warning\"><b>الرجاء "
+#~ "إدخال عدد صحيح لليوم (في نطاق 1"
+#~ " إلى 30)</b></span>"
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<span  class=\"alert alert-warning\"><b>Please "
+#~ "enter a valid day (1 to "
+#~ "29)</b></span>\n"
+#~ msgstr ""
+#~ "<span  class=\"alert alert-warning\"><b>الرجاء "
+#~ "إدخال عدد صحيح لليوم (في نطاق 1"
+#~ " إلى 29)</b></span>"
+
+#~ msgctxt "/free_text/text"
+#~ msgid "When were you born?\n"
+#~ msgstr "متى وُلِدت؟"
+
+#~ msgctxt "/question:birthday/text"
+#~ msgid "Day"
+#~ msgstr "اليوم"
+
+#~ msgctxt "/question:birthday/default_text"
+#~ msgid "Please select the day of birth"
+#~ msgstr "من فضلك اختر يوم ميلادك"
+
+#~ msgctxt "/question:birthday/response:1/text"
+#~ msgid "1"
+#~ msgstr ""
+
+#~ msgctxt "/question:QC8/response:4/text"
+#~ msgid "2"
+#~ msgstr "2"
+
+#~ msgctxt "/question:QC8/response:3/text"
+#~ msgid "3"
+#~ msgstr "3"
+
+#~ msgctxt "/question:QC8/response:2/text"
+#~ msgid "4"
+#~ msgstr "4"
+
+#~ msgctxt "/question:B2a/response:3/text"
+#~ msgid "5"
+#~ msgstr "5"
+
+#~ msgctxt "/question:B2a/response:5/text"
+#~ msgid "6"
+#~ msgstr "6"
+
+#~ msgctxt "/question:B2a/response:7/text"
+#~ msgid "7"
+#~ msgstr "7"
+
+#~ msgctxt "/question:birthday/response:8/text"
+#~ msgid "8"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:9/text"
+#~ msgid "9"
+#~ msgstr ""
+
+#~ msgctxt "/logic/text"
+#~ msgid "10"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:11/text"
+#~ msgid "11"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:12/text"
+#~ msgid "12"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:13/text"
+#~ msgid "13"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:14/text"
+#~ msgid "14"
+#~ msgstr ""
+
+#~ msgctxt "/logic/text"
+#~ msgid "15"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:16/text"
+#~ msgid "16"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:17/text"
+#~ msgid "17"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:18/text"
+#~ msgid "18"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:19/text"
+#~ msgid "19"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:20/text"
+#~ msgid "20"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:21/text"
+#~ msgid "21"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:22/text"
+#~ msgid "22"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:23/text"
+#~ msgid "23"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:24/text"
+#~ msgid "24"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:25/text"
+#~ msgid "25"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:26/text"
+#~ msgid "26"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:27/text"
+#~ msgid "27"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:28/text"
+#~ msgid "28"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:29/text"
+#~ msgid "29"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:30/text"
+#~ msgid "30"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthday/response:31/text"
+#~ msgid "31"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthmonth/text"
+#~ msgid "Month"
+#~ msgstr "الشهر"
+
+#~ msgctxt "/question:birthmonth/default_text"
+#~ msgid "Please select the month of birth"
+#~ msgstr "من فضلك اختر شهر ميلادك"
+
+#~ msgctxt "/logic/text"
+#~ msgid "January"
+#~ msgstr "يناير"
+
+#~ msgctxt "/logic/text"
+#~ msgid "February"
+#~ msgstr "فبراير"
+
+#~ msgctxt "/logic/text"
+#~ msgid "March"
+#~ msgstr "مارس"
+
+#~ msgctxt "/logic/text"
+#~ msgid "April"
+#~ msgstr "أبريل"
+
+#~ msgctxt "/logic/text"
+#~ msgid "May"
+#~ msgstr "مايو"
+
+#~ msgctxt "/logic/text"
+#~ msgid "June"
+#~ msgstr "يونيو"
+
+#~ msgctxt "/logic/text"
+#~ msgid "July"
+#~ msgstr "يوليو"
+
+#~ msgctxt "/logic/text"
+#~ msgid "August"
+#~ msgstr "أغسطس"
+
+#~ msgctxt "/logic/text"
+#~ msgid "September"
+#~ msgstr "سبتمبر"
+
+#~ msgctxt "/logic/text"
+#~ msgid "October"
+#~ msgstr "أكتوبر"
+
+#~ msgctxt "/logic/text"
+#~ msgid "November"
+#~ msgstr "نوفمبر"
+
+#~ msgctxt "/logic/text"
+#~ msgid "December"
+#~ msgstr "ديسمبر"
+
+#~ msgctxt "/question:birthyear/text"
+#~ msgid "Year"
+#~ msgstr "العام/السنة"
+
+#~ msgctxt "/question:birthyear/default_text"
+#~ msgid "Please select the year of birth"
+#~ msgstr "من فضلك اختر عام ميلادك"
+
+#~ msgctxt "/question:birthyear/response:2008/text"
+#~ msgid "2008"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2007/text"
+#~ msgid "2007"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2006/text"
+#~ msgid "2006"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2005/text"
+#~ msgid "2005"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2004/text"
+#~ msgid "2004"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2003/text"
+#~ msgid "2003"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2002/text"
+#~ msgid "2002"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2001/text"
+#~ msgid "2001"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:2000/text"
+#~ msgid "2000"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1999/text"
+#~ msgid "1999"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1998/text"
+#~ msgid "1998"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1997/text"
+#~ msgid "1997"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1996/text"
+#~ msgid "1996"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1995/text"
+#~ msgid "1995"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1994/text"
+#~ msgid "1994"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1993/text"
+#~ msgid "1993"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1992/text"
+#~ msgid "1992"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1991/text"
+#~ msgid "1991"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1990/text"
+#~ msgid "1990"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1989/text"
+#~ msgid "1989"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1988/text"
+#~ msgid "1988"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1987/text"
+#~ msgid "1987"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1986/text"
+#~ msgid "1986"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1985/text"
+#~ msgid "1985"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1984/text"
+#~ msgid "1984"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1983/text"
+#~ msgid "1983"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1982/text"
+#~ msgid "1982"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1981/text"
+#~ msgid "1981"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1980/text"
+#~ msgid "1980"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1979/text"
+#~ msgid "1979"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1978/text"
+#~ msgid "1978"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1977/text"
+#~ msgid "1977"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1976/text"
+#~ msgid "1976"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1975/text"
+#~ msgid "1975"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1974/text"
+#~ msgid "1974"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1973/text"
+#~ msgid "1973"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1972/text"
+#~ msgid "1972"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1971/text"
+#~ msgid "1971"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1970/text"
+#~ msgid "1970"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1969/text"
+#~ msgid "1969"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1968/text"
+#~ msgid "1968"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1967/text"
+#~ msgid "1967"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1966/text"
+#~ msgid "1966"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1965/text"
+#~ msgid "1965"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1964/text"
+#~ msgid "1964"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1963/text"
+#~ msgid "1963"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1962/text"
+#~ msgid "1962"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1961/text"
+#~ msgid "1961"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1960/text"
+#~ msgid "1960"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1959/text"
+#~ msgid "1959"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1958/text"
+#~ msgid "1958"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1957/text"
+#~ msgid "1957"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1956/text"
+#~ msgid "1956"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1955/text"
+#~ msgid "1955"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1954/text"
+#~ msgid "1954"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1953/text"
+#~ msgid "1953"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1952/text"
+#~ msgid "1952"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1951/text"
+#~ msgid "1951"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1950/text"
+#~ msgid "1950"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1949/text"
+#~ msgid "1949"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1948/text"
+#~ msgid "1948"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1947/text"
+#~ msgid "1947"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1946/text"
+#~ msgid "1946"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1945/text"
+#~ msgid "1945"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1944/text"
+#~ msgid "1944"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1943/text"
+#~ msgid "1943"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1942/text"
+#~ msgid "1942"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1941/text"
+#~ msgid "1941"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1940/text"
+#~ msgid "1940"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1939/text"
+#~ msgid "1939"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1938/text"
+#~ msgid "1938"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1937/text"
+#~ msgid "1937"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1936/text"
+#~ msgid "1936"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1935/text"
+#~ msgid "1935"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1934/text"
+#~ msgid "1934"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1933/text"
+#~ msgid "1933"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1932/text"
+#~ msgid "1932"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1931/text"
+#~ msgid "1931"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1930/text"
+#~ msgid "1930"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1929/text"
+#~ msgid "1929"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1928/text"
+#~ msgid "1928"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1927/text"
+#~ msgid "1927"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1926/text"
+#~ msgid "1926"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1925/text"
+#~ msgid "1925"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1924/text"
+#~ msgid "1924"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1923/text"
+#~ msgid "1923"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1922/text"
+#~ msgid "1922"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1921/text"
+#~ msgid "1921"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1920/text"
+#~ msgid "1920"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1919/text"
+#~ msgid "1919"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1918/text"
+#~ msgid "1918"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1917/text"
+#~ msgid "1917"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1916/text"
+#~ msgid "1916"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1915/text"
+#~ msgid "1915"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1914/text"
+#~ msgid "1914"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1913/text"
+#~ msgid "1913"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1912/text"
+#~ msgid "1912"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1911/text"
+#~ msgid "1911"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1910/text"
+#~ msgid "1910"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1909/text"
+#~ msgid "1909"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1908/text"
+#~ msgid "1908"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1907/text"
+#~ msgid "1907"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1906/text"
+#~ msgid "1906"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1905/text"
+#~ msgid "1905"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1904/text"
+#~ msgid "1904"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1903/text"
+#~ msgid "1903"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1902/text"
+#~ msgid "1902"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1901/text"
+#~ msgid "1901"
+#~ msgstr ""
+
+#~ msgctxt "/question:birthyear/response:1900/text"
+#~ msgid "1900"
+#~ msgstr ""
+
+#~ msgctxt "/question:age/text"
+#~ msgid "**visible only in test mode**<br /><br />so, the age is:"
+#~ msgstr ""
+
+#~ msgctxt "/question:personal_income_KSA/text"
+#~ msgid ""
+#~ "What is your monthly personal income?"
+#~ " By personal income we mean the "
+#~ "income earned from your job only."
+#~ msgstr ""
+#~ "ما هو الدخل الشهري الخاص بك؟ نعني"
+#~ " بالدخل الشهر المبلغ الذي تحصل عليه"
+#~ " مقابل وظيفتك فقط. "
+
+#~ msgctxt "/question:income_KSA/default_text"
+#~ msgid "Please select"
+#~ msgstr "يرجى التحديد "
+
+#~ msgctxt "/question:personal_income_KSA/response:1/text"
+#~ msgid "No personal income"
+#~ msgstr "لا يوجد دخل "
+
+#~ msgctxt "/question:income_KSA/response:2/text"
+#~ msgid "Up to SAR 500"
+#~ msgstr "حتى 500 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:3/text"
+#~ msgid "SAR 501 – SAR 1,000"
+#~ msgstr "501  إلى 1,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:4/text"
+#~ msgid "SAR 1,001 – SAR 2,000"
+#~ msgstr "1,001 إلى 2,000 ريال سعودي"
+
+#~ msgctxt "/question:income_KSA/response:5/text"
+#~ msgid "SAR 2,001 – SAR 5000"
+#~ msgstr "2,001 إلى 5000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:6/text"
+#~ msgid "SAR 5,001 – SAR 8,000"
+#~ msgstr "5,001 إلى 8000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:7/text"
+#~ msgid "SAR 8,001 – SAR 10,000"
+#~ msgstr "8,001 إلى 10,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:8/text"
+#~ msgid "SAR 10,001 – SAR 15,000"
+#~ msgstr "10,001 إلى 15,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:9/text"
+#~ msgid "SAR 15,001 – SAR 20,000"
+#~ msgstr "15,001 إلى 20,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:10/text"
+#~ msgid "SAR 20,001 – SAR 25,000"
+#~ msgstr "20,001 إلى 25,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:11/text"
+#~ msgid "SAR 25,001 – SAR 30,000"
+#~ msgstr "25,001 إلى 30,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:12/text"
+#~ msgid "SAR 30,001 – SAR 35,000"
+#~ msgstr "30,001 إلى 35,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:13/text"
+#~ msgid "SAR 35,001 – SAR 40,000"
+#~ msgstr "35,001 إلى 40,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:14/text"
+#~ msgid "SAR 40,001 – SAR 45,000"
+#~ msgstr "40,001 إلى 45,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:15/text"
+#~ msgid "SAR 45,001 – SAR 50,000"
+#~ msgstr "45,001 إلى 50,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:16/text"
+#~ msgid "SAR 50,001 – SAR 55,000"
+#~ msgstr "50,001 إلى 55,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:17/text"
+#~ msgid "SAR 55,001 – SAR 60,000"
+#~ msgstr "55,001 إلى 60,000 ريال سعودي "
+
+#~ msgctxt "/question:income_KSA/response:18/text"
+#~ msgid "SAR 60,000 +"
+#~ msgstr "أكثر من 60,000 ريال سعودي "
+
+#~ msgctxt "/question:income/response:15/text"
+#~ msgid "Prefer not to say"
+#~ msgstr "أفضل عدم الإجابة "
+
+#~ msgctxt "/question:income_KSA/response:999/text"
+#~ msgid "Do not know"
+#~ msgstr "لا أعرف "
+
+#~ msgctxt "/question:income_KSA/text"
+#~ msgid ""
+#~ "If you add up the income from "
+#~ "all sources, what is your average "
+#~ "NET household income per month? (Net "
+#~ "income means amounts as you receive "
+#~ "it, which is normally after tax or"
+#~ " Zakat and contributions to social "
+#~ "insurance and pension):"
+#~ msgstr ""
+#~ "لو حسبت الدخل الشهري الخاص بك من"
+#~ " جميع مصادره، ما متوسط صافي الدخل؟"
+#~ " (نعني بصافي الدخل المبلغ الذي تحصل"
+#~ " عليه بعد الضرائب والزكاة واشتراك "
+#~ "التأمينات الاجتماعية والمعاش): "
+
+#~ msgctxt "/question:income_KSA/response:1/text"
+#~ msgid "No income"
+#~ msgstr "لا يوجد دخل "
+
+#~ msgctxt "/question:geo_state_in/text"
+#~ msgid "In which state do you currently reside?"
+#~ msgstr "In which state do you currently reside?"
+
+#~ msgctxt "/question:geo_state_in/default_text"
+#~ msgid "Please select a state"
+#~ msgstr "Please select a state"
+
+#~ msgctxt "/question:geo_state_in/response:1/text"
+#~ msgid "Andaman & Nicobar Islands"
+#~ msgstr "Andaman & Nicobar Islands"
+
+#~ msgctxt "/question:geo_state_in/response:2/text"
+#~ msgid "Andhra Pradesh"
+#~ msgstr "Andhra Pradesh"
+
+#~ msgctxt "/question:geo_state_in/response:3/text"
+#~ msgid "Arunachal Pradesh"
+#~ msgstr "Arunachal Pradesh"
+
+#~ msgctxt "/question:geo_state_in/response:4/text"
+#~ msgid "Assam"
+#~ msgstr "Assam"
+
+#~ msgctxt "/question:geo_state_in/response:5/text"
+#~ msgid "Bihar"
+#~ msgstr "Bihar"
+
+#~ msgctxt "/question:geo_city_in/response:46/text"
+#~ msgid "Chandigarh"
+#~ msgstr "Chandigarh"
+
+#~ msgctxt "/question:geo_state_in/response:7/text"
+#~ msgid "Chhattisgarh"
+#~ msgstr "Chhattisgarh"
+
+#~ msgctxt "/question:geo_state_in/response:8/text"
+#~ msgid "Dadra & Nagar Haveli"
+#~ msgstr "Dadra & Nagar Haveli"
+
+#~ msgctxt "/question:geo_state_in/response:9/text"
+#~ msgid "Daman & Diu"
+#~ msgstr "Daman & Diu"
+
+#~ msgctxt "/question:geo_state_in/response:11/text"
+#~ msgid "Goa"
+#~ msgstr "Goa"
+
+#~ msgctxt "/question:geo_state_in/response:12/text"
+#~ msgid "Gujarat"
+#~ msgstr "Gujarat"
+
+#~ msgctxt "/question:geo_state_in/response:13/text"
+#~ msgid "Haryana"
+#~ msgstr "Haryana"
+
+#~ msgctxt "/question:geo_state_in/response:14/text"
+#~ msgid "Himachal Pradesh"
+#~ msgstr "Himachal Pradesh"
+
+#~ msgctxt "/question:geo_state_in/response:15/text"
+#~ msgid "Jammu & Kashmir"
+#~ msgstr "Jammu & Kashmir"
+
+#~ msgctxt "/question:geo_state_in/response:16/text"
+#~ msgid "Jharkhand"
+#~ msgstr "Jharkhand"
+
+#~ msgctxt "/question:geo_state_in/response:17/text"
+#~ msgid "Karnataka"
+#~ msgstr "Karnataka"
+
+#~ msgctxt "/question:geo_state_in/response:18/text"
+#~ msgid "Kerala"
+#~ msgstr "Kerala"
+
+#~ msgctxt "/question:geo_state_in/response:19/text"
+#~ msgid "Lakshadweep"
+#~ msgstr "Lakshadweep"
+
+#~ msgctxt "/question:geo_state_in/response:20/text"
+#~ msgid "Madhya Pradesh"
+#~ msgstr "Madhya Pradesh"
+
+#~ msgctxt "/question:geo_state_in/response:21/text"
+#~ msgid "Maharashtra"
+#~ msgstr "Maharashtra"
+
+#~ msgctxt "/question:geo_state_in/response:22/text"
+#~ msgid "Manipur"
+#~ msgstr "Manipur"
+
+#~ msgctxt "/question:geo_state_in/response:23/text"
+#~ msgid "Meghalaya"
+#~ msgstr "Meghalaya"
+
+#~ msgctxt "/question:geo_state_in/response:24/text"
+#~ msgid "Mizoram"
+#~ msgstr "Mizoram"
+
+#~ msgctxt "/question:geo_state_in/response:25/text"
+#~ msgid "Nagaland"
+#~ msgstr "Nagaland"
+
+#~ msgctxt "/question:geo_state_in/response:26/text"
+#~ msgid "Odisha"
+#~ msgstr "Odisha"
+
+#~ msgctxt "/question:geo_city_in/response:158/text"
+#~ msgid "Puducherry"
+#~ msgstr "Puducherry"
+
+#~ msgctxt "/question:geo_state_in/response:28/text"
+#~ msgid "Punjab"
+#~ msgstr "Punjab"
+
+#~ msgctxt "/question:geo_state_in/response:29/text"
+#~ msgid "Rajasthan"
+#~ msgstr "Rajasthan"
+
+#~ msgctxt "/question:geo_state_in/response:30/text"
+#~ msgid "Sikkim"
+#~ msgstr "Sikkim"
+
+#~ msgctxt "/question:geo_state_in/response:31/text"
+#~ msgid "Tamil Nadu"
+#~ msgstr "Tamil Nadu"
+
+#~ msgctxt "/question:geo_state_in/response:32/text"
+#~ msgid "Telangana"
+#~ msgstr "Telangana"
+
+#~ msgctxt "/question:geo_state_in/response:33/text"
+#~ msgid "Tripura"
+#~ msgstr "Tripura"
+
+#~ msgctxt "/question:geo_state_in/response:34/text"
+#~ msgid "Uttar Pradesh"
+#~ msgstr "Uttar Pradesh"
+
+#~ msgctxt "/question:geo_state_in/response:35/text"
+#~ msgid "Uttarakhand"
+#~ msgstr "Uttarakhand"
+
+#~ msgctxt "/question:geo_state_in/response:36/text"
+#~ msgid "West Bengal"
+#~ msgstr "West Bengal"
+
+#~ msgctxt "/question:geo_city_in/text"
+#~ msgid "In which city do you currently reside?"
+#~ msgstr "In which city do you currently reside?"
+
+#~ msgctxt "/question:geo_city_in/default_text"
+#~ msgid "Please select a city"
+#~ msgstr "Please select a city"
+
+#~ msgctxt "/question:geo_city_in/response:1/text"
+#~ msgid "Agartala"
+#~ msgstr "Agartala"
+
+#~ msgctxt "/question:geo_city_in/response:2/text"
+#~ msgid "Agra"
+#~ msgstr "Agra"
+
+#~ msgctxt "/question:geo_city_in/response:3/text"
+#~ msgid "Ahmedabad"
+#~ msgstr "Ahmedabad"
+
+#~ msgctxt "/question:geo_city_in/response:4/text"
+#~ msgid "Ahmednagar"
+#~ msgstr "Ahmednagar"
+
+#~ msgctxt "/question:geo_city_in/response:5/text"
+#~ msgid "Aizawl"
+#~ msgstr "Aizawl"
+
+#~ msgctxt "/question:geo_city_in/response:8/text"
+#~ msgid "Aligarh"
+#~ msgstr "Aligarh"
+
+#~ msgctxt "/question:geo_city_in/response:9/text"
+#~ msgid "Allahabad"
+#~ msgstr "Allahabad"
+
+#~ msgctxt "/question:geo_city_in/response:11/text"
+#~ msgid "Ambattur"
+#~ msgstr "Ambattur"
+
+#~ msgctxt "/question:geo_city_in/response:12/text"
+#~ msgid "Ambernath"
+#~ msgstr "Ambernath"
+
+#~ msgctxt "/question:geo_city_in/response:13/text"
+#~ msgid "Amravati"
+#~ msgstr "Amravati"
+
+#~ msgctxt "/question:geo_city_in/response:18/text"
+#~ msgid "Aurangabad"
+#~ msgstr "Aurangabad"
+
+#~ msgctxt "/question:geo_city_in/response:19/text"
+#~ msgid "Avadi"
+#~ msgstr "Avadi"
+
+#~ msgctxt "/question:geo_city_in/response:20/text"
+#~ msgid "Bally"
+#~ msgstr "Bally"
+
+#~ msgctxt "/question:geo_city_in/response:21/text"
+#~ msgid "Bangalore"
+#~ msgstr "Bangalore"
+
+#~ msgctxt "/question:geo_city_in/response:22/text"
+#~ msgid "Baranagar"
+#~ msgstr "Baranagar"
+
+#~ msgctxt "/question:geo_city_in/response:23/text"
+#~ msgid "Barasat"
+#~ msgstr "Barasat"
+
+#~ msgctxt "/question:geo_city_in/response:24/text"
+#~ msgid "Bardhaman"
+#~ msgstr "Bardhaman"
+
+#~ msgctxt "/question:geo_city_in/response:25/text"
+#~ msgid "Bareilly"
+#~ msgstr "Bareilly"
+
+#~ msgctxt "/question:geo_city_in/response:27/text"
+#~ msgid "Begusarai"
+#~ msgstr "Begusarai"
+
+#~ msgctxt "/question:geo_city_in/response:30/text"
+#~ msgid "Bhagalpur"
+#~ msgstr "Bhagalpur"
+
+#~ msgctxt "/question:geo_city_in/response:32/text"
+#~ msgid "Bhatpara"
+#~ msgstr "Bhatpara"
+
+#~ msgctxt "/question:geo_city_in/response:33/text"
+#~ msgid "Bhavnagar"
+#~ msgstr "Bhavnagar"
+
+#~ msgctxt "/question:geo_city_in/response:35/text"
+#~ msgid "Bhilwara"
+#~ msgstr "Bhilwara"
+
+#~ msgctxt "/question:geo_city_in/response:36/text"
+#~ msgid "Bhiwandi"
+#~ msgstr "Bhiwandi"
+
+#~ msgctxt "/question:geo_city_in/response:37/text"
+#~ msgid "Bhopal"
+#~ msgstr "Bhopal"
+
+#~ msgctxt "/question:geo_city_in/response:39/text"
+#~ msgid "Bihar Sharif"
+#~ msgstr "Bihar Sharif"
+
+#~ msgctxt "/question:geo_city_in/response:40/text"
+#~ msgid "Bijapur"
+#~ msgstr "Bijapur"
+
+#~ msgctxt "/question:geo_city_in/response:41/text"
+#~ msgid "Bikaner"
+#~ msgstr "Bikaner"
+
+#~ msgctxt "/question:geo_city_in/response:42/text"
+#~ msgid "Bilaspur"
+#~ msgstr "Bilaspur"
+
+#~ msgctxt "/question:geo_city_in/response:43/text"
+#~ msgid "Bokaro"
+#~ msgstr "Bokaro"
+
+#~ msgctxt "/question:geo_city_in/response:45/text"
+#~ msgid "Bulandshahr"
+#~ msgstr "Bulandshahr"
+
+#~ msgctxt "/question:geo_city_in/response:49/text"
+#~ msgid "Coimbatore/Koval"
+#~ msgstr "Coimbatore/Koval"
+
+#~ msgctxt "/question:geo_city_in/response:50/text"
+#~ msgid "Cuttack"
+#~ msgstr "Cuttack"
+
+#~ msgctxt "/question:geo_city_in/response:51/text"
+#~ msgid "Daman"
+#~ msgstr "Daman"
+
+#~ msgctxt "/question:geo_city_in/response:54/text"
+#~ msgid "Dehradun"
+#~ msgstr "Dehradun"
+
+#~ msgctxt "/question:geo_city_in/response:56/text"
+#~ msgid "Dewas"
+#~ msgstr "Dewas"
+
+#~ msgctxt "/question:geo_city_in/response:59/text"
+#~ msgid "Dimapur"
+#~ msgstr "Dimapur"
+
+#~ msgctxt "/question:geo_city_in/response:60/text"
+#~ msgid "Durg"
+#~ msgstr "Durg"
+
+#~ msgctxt "/question:geo_city_in/response:61/text"
+#~ msgid "Durgapur"
+#~ msgstr "Durgapur"
+
+#~ msgctxt "/question:geo_city_in/response:62/text"
+#~ msgid "Etawah"
+#~ msgstr "Etawah"
+
+#~ msgctxt "/question:geo_city_in/response:63/text"
+#~ msgid "Faridabad"
+#~ msgstr "Faridabad"
+
+#~ msgctxt "/question:geo_city_in/response:64/text"
+#~ msgid "Farrukhabad"
+#~ msgstr "Farrukhabad"
+
+#~ msgctxt "/question:geo_city_in/response:65/text"
+#~ msgid "Firozabad"
+#~ msgstr "Firozabad"
+
+#~ msgctxt "/question:geo_city_in/response:66/text"
+#~ msgid "Gandhidham"
+#~ msgstr "Gandhidham"
+
+#~ msgctxt "/question:geo_city_in/response:67/text"
+#~ msgid "Gangtok"
+#~ msgstr "Gangtok"
+
+#~ msgctxt "/question:geo_city_in/response:69/text"
+#~ msgid "Ghaziabad"
+#~ msgstr "Ghaziabad"
+
+#~ msgctxt "/question:geo_city_in/response:70/text"
+#~ msgid "Gopalpur"
+#~ msgstr "Gopalpur"
+
+#~ msgctxt "/question:geo_city_in/response:73/text"
+#~ msgid "Guntur"
+#~ msgstr "Guntur"
+
+#~ msgctxt "/question:geo_city_in/response:74/text"
+#~ msgid "Gurgaon"
+#~ msgstr "Gurgaon"
+
+#~ msgctxt "/question:geo_city_in/response:75/text"
+#~ msgid "Guwahati"
+#~ msgstr "Guwahati"
+
+#~ msgctxt "/question:geo_city_in/response:77/text"
+#~ msgid "Hapur"
+#~ msgstr "Hapur"
+
+#~ msgctxt "/question:geo_city_in/response:78/text"
+#~ msgid "Haridwar"
+#~ msgstr "Haridwar"
+
+#~ msgctxt "/question:geo_city_in/response:79/text"
+#~ msgid "Hisar"
+#~ msgstr "Hisar"
+
+#~ msgctxt "/question:geo_city_in/response:80/text"
+#~ msgid "Howrah"
+#~ msgstr "Howrah"
+
+#~ msgctxt "/question:geo_city_in/response:81/text"
+#~ msgid "Hubballi-Dharwad"
+#~ msgstr "Hubballi-Dharwad"
+
+#~ msgctxt "/question:geo_city_in/response:84/text"
+#~ msgid "Imphal"
+#~ msgstr "Imphal"
+
+#~ msgctxt "/question:geo_city_in/response:86/text"
+#~ msgid "Itanagar"
+#~ msgstr "Itanagar"
+
+#~ msgctxt "/question:geo_city_in/response:90/text"
+#~ msgid "Jalgaon"
+#~ msgstr "Jalgaon"
+
+#~ msgctxt "/question:geo_city_in/response:91/text"
+#~ msgid "Jalna"
+#~ msgstr "Jalna"
+
+#~ msgctxt "/question:geo_city_in/response:93/text"
+#~ msgid "Jamnagar"
+#~ msgstr "Jamnagar"
+
+#~ msgctxt "/question:geo_city_in/response:95/text"
+#~ msgid "Jhansi"
+#~ msgstr "Jhansi"
+
+#~ msgctxt "/question:geo_city_in/response:97/text"
+#~ msgid "Junagadh"
+#~ msgstr "Junagadh"
+
+#~ msgctxt "/question:geo_city_in/response:98/text"
+#~ msgid "Kadapa"
+#~ msgstr "Kadapa"
+
+#~ msgctxt "/question:geo_city_in/response:99/text"
+#~ msgid "Kakinada"
+#~ msgstr "Kakinada"
+
+#~ msgctxt "/question:geo_city_in/response:100/text"
+#~ msgid "Kalyan-Dombivali"
+#~ msgstr "Kalyan-Dombivali"
+
+#~ msgctxt "/question:geo_city_in/response:101/text"
+#~ msgid "Kamarhati"
+#~ msgstr "Kamarhati"
+
+#~ msgctxt "/question:geo_city_in/response:103/text"
+#~ msgid "Karawal Nagar"
+#~ msgstr "Karawal Nagar"
+
+#~ msgctxt "/question:geo_city_in/response:104/text"
+#~ msgid "Karimnagar"
+#~ msgstr "Karimnagar"
+
+#~ msgctxt "/question:geo_city_in/response:105/text"
+#~ msgid "Karnal"
+#~ msgstr "Karnal"
+
+#~ msgctxt "/question:geo_city_in/response:106/text"
+#~ msgid "Katihar"
+#~ msgstr "Katihar"
+
+#~ msgctxt "/question:geo_city_in/response:107/text"
+#~ msgid "Kavaratti"
+#~ msgstr "Kavaratti"
+
+#~ msgctxt "/question:geo_city_in/response:108/text"
+#~ msgid "Khammam"
+#~ msgstr "Khammam"
+
+#~ msgctxt "/question:geo_city_in/response:109/text"
+#~ msgid "Kirari Suleman Nagar"
+#~ msgstr "Kirari Suleman Nagar"
+
+#~ msgctxt "/question:geo_city_in/response:111/text"
+#~ msgid "Kolhapur"
+#~ msgstr "Kolhapur"
+
+#~ msgctxt "/question:geo_city_in/response:116/text"
+#~ msgid "Kozhikode"
+#~ msgstr "Kozhikode"
+
+#~ msgctxt "/question:geo_city_in/response:117/text"
+#~ msgid "Kulti"
+#~ msgstr "Kulti"
+
+#~ msgctxt "/question:geo_city_in/response:118/text"
+#~ msgid "Kurnool"
+#~ msgstr "Kurnool"
+
+#~ msgctxt "/question:geo_city_in/response:119/text"
+#~ msgid "Latur"
+#~ msgstr "Latur"
+
+#~ msgctxt "/question:geo_city_in/response:120/text"
+#~ msgid "Loni"
+#~ msgstr "Loni"
+
+#~ msgctxt "/question:geo_city_in/response:121/text"
+#~ msgid "Lucknow"
+#~ msgstr "Lucknow"
+
+#~ msgctxt "/question:geo_city_in/response:122/text"
+#~ msgid "Ludhiana"
+#~ msgstr "Ludhiana"
+
+#~ msgctxt "/question:geo_city_in/response:124/text"
+#~ msgid "Maheshtala"
+#~ msgstr "Maheshtala"
+
+#~ msgctxt "/question:geo_city_in/response:125/text"
+#~ msgid "Malegaon"
+#~ msgstr "Malegaon"
+
+#~ msgctxt "/question:geo_city_in/response:126/text"
+#~ msgid "Mangalore"
+#~ msgstr "Mangalore"
+
+#~ msgctxt "/question:geo_city_in/response:127/text"
+#~ msgid "Mango"
+#~ msgstr "Mango"
+
+#~ msgctxt "/question:geo_city_in/response:130/text"
+#~ msgid "Meerut"
+#~ msgstr "Meerut"
+
+#~ msgctxt "/question:geo_city_in/response:131/text"
+#~ msgid "Mira-Bhayandar"
+#~ msgstr "Mira-Bhayandar"
+
+#~ msgctxt "/question:geo_city_in/response:132/text"
+#~ msgid "Mirzapur"
+#~ msgstr "Mirzapur"
+
+#~ msgctxt "/question:geo_city_in/response:133/text"
+#~ msgid "Moradabad"
+#~ msgstr "Moradabad"
+
+#~ msgctxt "/question:geo_city_in/response:137/text"
+#~ msgid "Mysore"
+#~ msgstr "Mysore"
+
+#~ msgctxt "/question:geo_city_in/response:138/text"
+#~ msgid "Nagercoil"
+#~ msgstr "Nagercoil"
+
+#~ msgctxt "/question:geo_city_in/response:139/text"
+#~ msgid "Nagpur"
+#~ msgstr "Nagpur"
+
+#~ msgctxt "/question:geo_city_in/response:140/text"
+#~ msgid "Nanded"
+#~ msgstr "Nanded"
+
+#~ msgctxt "/question:geo_city_in/response:141/text"
+#~ msgid "Nashik"
+#~ msgstr "Nashik"
+
+#~ msgctxt "/question:geo_city_in/response:142/text"
+#~ msgid "Navi Mumbai"
+#~ msgstr "Navi Mumbai"
+
+#~ msgctxt "/question:geo_city_in/response:143/text"
+#~ msgid "Nellore"
+#~ msgstr "Nellore"
+
+#~ msgctxt "/question:geo_city_in/response:144/text"
+#~ msgid "New Delhi"
+#~ msgstr "New Delhi"
+
+#~ msgctxt "/question:geo_city_in/response:145/text"
+#~ msgid "Nizamabad"
+#~ msgstr "Nizamabad"
+
+#~ msgctxt "/question:geo_city_in/response:146/text"
+#~ msgid "Noida"
+#~ msgstr "Noida"
+
+#~ msgctxt "/question:geo_city_in/response:147/text"
+#~ msgid "North Dumdum"
+#~ msgstr "North Dumdum"
+
+#~ msgctxt "/question:geo_city_in/response:148/text"
+#~ msgid "Ozhukarai"
+#~ msgstr "Ozhukarai"
+
+#~ msgctxt "/question:geo_city_in/response:149/text"
+#~ msgid "Pali"
+#~ msgstr "Pali"
+
+#~ msgctxt "/question:geo_city_in/response:150/text"
+#~ msgid "Panaji"
+#~ msgstr "Panaji"
+
+#~ msgctxt "/question:geo_city_in/response:151/text"
+#~ msgid "Panihati"
+#~ msgstr "Panihati"
+
+#~ msgctxt "/question:geo_city_in/response:152/text"
+#~ msgid "Panipat"
+#~ msgstr "Panipat"
+
+#~ msgctxt "/question:geo_city_in/response:154/text"
+#~ msgid "Patiala"
+#~ msgstr "Patiala"
+
+#~ msgctxt "/question:geo_city_in/response:156/text"
+#~ msgid "Pimpri-Chinchwad"
+#~ msgstr "Pimpri-Chinchwad"
+
+#~ msgctxt "/question:geo_city_in/response:157/text"
+#~ msgid "Port Blair"
+#~ msgstr "Port Blair"
+
+#~ msgctxt "/question:geo_city_in/response:160/text"
+#~ msgid "Purnia"
+#~ msgstr "Purnia"
+
+#~ msgctxt "/question:geo_city_in/response:161/text"
+#~ msgid "Raichur"
+#~ msgstr "Raichur"
+
+#~ msgctxt "/question:geo_city_in/response:163/text"
+#~ msgid "Rajahmundry"
+#~ msgstr "Rajahmundry"
+
+#~ msgctxt "/question:geo_city_in/response:164/text"
+#~ msgid "Rajkot"
+#~ msgstr "Rajkot"
+
+#~ msgctxt "/question:geo_city_in/response:165/text"
+#~ msgid "Rajpur Sonarpur"
+#~ msgstr "Rajpur Sonarpur"
+
+#~ msgctxt "/question:geo_city_in/response:166/text"
+#~ msgid "Rampur"
+#~ msgstr "Rampur"
+
+#~ msgctxt "/question:geo_city_in/response:167/text"
+#~ msgid "Ranchi"
+#~ msgstr "Ranchi"
+
+#~ msgctxt "/question:geo_city_in/response:168/text"
+#~ msgid "Ratlam"
+#~ msgstr "Ratlam"
+
+#~ msgctxt "/question:geo_city_in/response:171/text"
+#~ msgid "Rourkela"
+#~ msgstr "Rourkela"
+
+#~ msgctxt "/question:geo_city_in/response:172/text"
+#~ msgid "Sagar"
+#~ msgstr "Sagar"
+
+#~ msgctxt "/question:geo_city_in/response:173/text"
+#~ msgid "Saharanpur"
+#~ msgstr "Saharanpur"
+
+#~ msgctxt "/question:geo_city_in/response:174/text"
+#~ msgid "Salem"
+#~ msgstr "Salem"
+
+#~ msgctxt "/question:geo_city_in/response:175/text"
+#~ msgid "Sangli-Miraj & Kupwad"
+#~ msgstr "Sangli-Miraj & Kupwad"
+
+#~ msgctxt "/question:geo_city_in/response:177/text"
+#~ msgid "Shahjahanpur"
+#~ msgstr "Shahjahanpur"
+
+#~ msgctxt "/question:geo_city_in/response:179/text"
+#~ msgid "Shimla"
+#~ msgstr "Shimla"
+
+#~ msgctxt "/question:geo_city_in/response:180/text"
+#~ msgid "Shivamogga (Shimoga)"
+#~ msgstr "Shivamogga (Shimoga)"
+
+#~ msgctxt "/question:geo_city_in/response:181/text"
+#~ msgid "Sikar"
+#~ msgstr "Sikar"
+
+#~ msgctxt "/question:geo_city_in/response:182/text"
+#~ msgid "Siliguri"
+#~ msgstr "Siliguri"
+
+#~ msgctxt "/question:geo_city_in/response:183/text"
+#~ msgid "Silvassa"
+#~ msgstr "Silvassa"
+
+#~ msgctxt "/question:geo_city_in/response:184/text"
+#~ msgid "Solapur"
+#~ msgstr "Solapur"
+
+#~ msgctxt "/question:geo_city_in/response:185/text"
+#~ msgid "Sonipat"
+#~ msgstr "Sonipat"
+
+#~ msgctxt "/question:geo_city_in/response:186/text"
+#~ msgid "South Dumdum"
+#~ msgstr "South Dumdum"
+
+#~ msgctxt "/question:geo_city_in/response:187/text"
+#~ msgid "Sri Ganganagar"
+#~ msgstr "Sri Ganganagar"
+
+#~ msgctxt "/question:geo_city_in/response:188/text"
+#~ msgid "Srinagar"
+#~ msgstr "Srinagar"
+
+#~ msgctxt "/question:geo_city_in/response:189/text"
+#~ msgid "Surat"
+#~ msgstr "Surat"
+
+#~ msgctxt "/question:geo_city_in/response:190/text"
+#~ msgid "Thane"
+#~ msgstr "Thane"
+
+#~ msgctxt "/question:geo_city_in/response:191/text"
+#~ msgid "Thanjavur"
+#~ msgstr "Thanjavur"
+
+#~ msgctxt "/question:geo_city_in/response:193/text"
+#~ msgid "Thoothukudi"
+#~ msgstr "Thoothukudi"
+
+#~ msgctxt "/question:geo_city_in/response:194/text"
+#~ msgid "Thrissur"
+#~ msgstr "Thrissur"
+
+#~ msgctxt "/question:geo_city_in/response:195/text"
+#~ msgid "Tiruchirappalli"
+#~ msgstr "Tiruchirappalli"
+
+#~ msgctxt "/question:geo_city_in/response:198/text"
+#~ msgid "Tirupur"
+#~ msgstr "Tirupur"
+
+#~ msgctxt "/question:geo_city_in/response:199/text"
+#~ msgid "Tiruvottiyur"
+#~ msgstr "Tiruvottiyur"
+
+#~ msgctxt "/question:geo_city_in/response:200/text"
+#~ msgid "Tumkur"
+#~ msgstr "Tumkur"
+
+#~ msgctxt "/question:geo_city_in/response:203/text"
+#~ msgid "Ulhasnagar"
+#~ msgstr "Ulhasnagar"
+
+#~ msgctxt "/question:geo_city_in/response:205/text"
+#~ msgid "Varanasi"
+#~ msgstr "Varanasi"
+
+#~ msgctxt "/question:geo_city_in/response:206/text"
+#~ msgid "Vasai-Virar"
+#~ msgstr "Vasai-Virar"
+
+#~ msgctxt "/question:geo_city_in/response:207/text"
+#~ msgid "Vijayawada"
+#~ msgstr "Vijayawada"
+
+#~ msgctxt "/question:geo_city_in/response:209/text"
+#~ msgid "Vizianagaram"
+#~ msgstr "Vizianagaram"
+
+#~ msgctxt "/question:Q2/response:9/text"
+#~ msgid "Others"
+#~ msgstr "أخرى "
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "**VISIBLE ONLY IN TEST MODE - PLEASE KEEP AS IS - DO NOT SELECT**\n"
+#~ "\n"
+#~ "IN-specific geo varibles\n"
+#~ msgstr ""
+#~ "**VISIBLE ONLY IN TEST MODE - PLEASE KEEP AS IS - DO NOT SELECT**\n"
+#~ "\n"
+#~ "IN-specific geo varibles\n"
+
+#~ msgctxt "/question:geo_citytier_in/text"
+#~ msgid ""
+#~ "**VISIBLE ONLY IN TEST MODE - "
+#~ "PLEASE KEEP AS IS - DO NOT "
+#~ "SELECT**<br /><br />geo_citytier_in - the "
+#~ "tier the city belongs to:"
+#~ msgstr ""
+#~ "**VISIBLE ONLY IN TEST MODE - "
+#~ "PLEASE KEEP AS IS - DO NOT "
+#~ "SELECT**<br /><br />geo_citytier_in - the "
+#~ "tier the city belongs to:"
+
+#~ msgctxt "/question:geo_citytier_in/response:1/text"
+#~ msgid "Tier 1"
+#~ msgstr "Tier 1"
+
+#~ msgctxt "/question:geo_citytier_in/response:2/text"
+#~ msgid "Tier 2"
+#~ msgstr "Tier 2"
+
+#~ msgctxt "/question:geo_citytier_in/response:3/text"
+#~ msgid "Tier 3"
+#~ msgstr "Tier 3"
+
+#~ msgctxt "/question:geo_region_in/text"
+#~ msgid ""
+#~ "**VISIBLE ONLY IN TEST MODE - "
+#~ "PLEASE KEEP AS IS - DO NOT "
+#~ "SELECT**<br /><br />geo_region_in - the "
+#~ "region the state lies in"
+#~ msgstr ""
+#~ "**VISIBLE ONLY IN TEST MODE - "
+#~ "PLEASE KEEP AS IS - DO NOT "
+#~ "SELECT**<br /><br />geo_region_in - the "
+#~ "region the state lies in"
+
+#~ msgctxt "/question:geo_region_in/response:1/text"
+#~ msgid "North India"
+#~ msgstr "North India"
+
+#~ msgctxt "/question:geo_region_in/response:2/text"
+#~ msgid "South India"
+#~ msgstr "South India"
+
+#~ msgctxt "/question:geo_region_in/response:3/text"
+#~ msgid "East India"
+#~ msgstr "East India"
+
+#~ msgctxt "/question:geo_region_in/response:4/text"
+#~ msgid "West India"
+#~ msgstr "West India"
+
+#~ msgctxt "/question:geo_region_in/response:5/text"
+#~ msgid "Northeast India"
+#~ msgstr "Northeast India"
+
+#~ msgctxt "/question:Q0/text"
+#~ msgid "Please select from the below list the beverages that you are aware of?"
+#~ msgstr "من بين قائمة المشروبات التالية ، يرجى تحديد المشروبات التي تعرفها؟ "
+
+#~ msgctxt "/question:Q1/response:1/text"
+#~ msgid "Packed fruit Juice"
+#~ msgstr "عصائر الفاكهة المعلبة "
+
+#~ msgctxt "/question:Q3_2/text"
+#~ msgid "Carbonated soft drinks"
+#~ msgstr "المشروبات الغازية "
+
+#~ msgctxt "/question:Q1/response:3/text"
+#~ msgid "Still bottled water"
+#~ msgstr "المياة المعدنية "
+
+#~ msgctxt "/question:Q1/response:4/text"
+#~ msgid "Sparkling bottled water"
+#~ msgstr "المياة الفوارة "
+
+#~ msgctxt "/question:Q1/response:5/text"
+#~ msgid "Fruit Flavoured still bottled water"
+#~ msgstr "المياة المعدنية بنكهة الفاكهة "
+
+#~ msgctxt "/question:Q1/response:6/text"
+#~ msgid "Fruit Flavoured sparkling bottled water"
+#~ msgstr "المياة الفوارة بنكهة الفاكهة "
+
+#~ msgctxt "/question:B6new/response:6/text"
+#~ msgid "Energy Drinks"
+#~ msgstr "مشروبات طاقة "
+
+#~ msgctxt "/question:Q1/response:8/text"
+#~ msgid "Non-alcoholic malt beverages"
+#~ msgstr "مشروبات شعير غير كحولية "
+
+#~ msgctxt "/question:Q1/response:9/text"
+#~ msgid "Packed Ice Tea / Cold Tea"
+#~ msgstr "شاي مثلج معلب "
+
+#~ msgctxt "/question:Q1/response:10/text"
+#~ msgid "Packaged Cold Coffee (available in cans, bottles, tetra packs)"
+#~ msgstr "قهوة مثلجة معلبة (متوفرة في شكل علب أو زجاجات أو تترا باك)  "
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<script>\n"
+#~ "$(page_state).on('after_content_loaded', function() {\n"
+#~ "    $('.question input[id*=\"Q1Bresponse\"]').attr('disabled',true);\n"
+#~ "    $('.question input[id*=\"Q1Cresponse\"]').attr('disabled',true);\n"
+#~ "\n"
+#~ "    $('[type=checkbox]').click(function() {\n"
+#~ "        setTimeout(openOPtion, 150); \n"
+#~ "    });\n"
+#~ "\n"
+#~ "    openOPtion();\n"
+#~ "    \n"
+#~ "    function openOPtion() {\n"
+#~ "        var colA = 0;\n"
+#~ "        var colB = 0;\n"
+#~ "        "
+#~ "$('input[type=checkbox]').not('input[id*=\"-11-\"]').each(function(){"
+#~ "\n"
+#~ "            var id = $(this).attr('id').split('-');\n"
+#~ "            \n"
+#~ "              if($(this).prop(\"checked\")) {\n"
+#~ "                  "
+#~ "$(this).closest('td').next('td').find(\"input[type=checkbox]\").attr('disabled',false);"
+#~ "\n"
+#~ "                  if (id[2]==\"Q1Aresponse\") {colA=colA+1};\n"
+#~ "                  if (id[2]==\"Q1Bresponse\") {colB=colB+1};\n"
+#~ "              }\n"
+#~ "              else{\n"
+#~ "                  "
+#~ "$(this).closest('td').next('td').find(\"input[type=checkbox]\").attr('disabled',true);"
+#~ "\n"
+#~ "                  "
+#~ "$(this).closest('td').next('td').find(\"input[type=checkbox]\").prop('checked',false);"
+#~ "\n"
+#~ "              }\n"
+#~ "        });\n"
+#~ "        \n"
+#~ "        if(colA>0) {\n"
+#~ "            "
+#~ "$('input[id*=\"Q1Bresponse-11\"]').attr('disabled',false);}\n"
+#~ "        else {\n"
+#~ "            $('input[id*=\"Q1Bresponse-11\"]').attr('disabled',true);\n"
+#~ "            "
+#~ "$('input[id*=\"Q1Bresponse-11\"]').prop('checked',false);}\n"
+#~ "\n"
+#~ "        if(colB>0) {\n"
+#~ "            "
+#~ "$('input[id*=\"Q1Cresponse-11\"]').attr('disabled',false);}\n"
+#~ "        else {\n"
+#~ "            $('input[id*=\"Q1Cresponse-11\"]').attr('disabled',true);\n"
+#~ "            "
+#~ "$('input[id*=\"Q1Cresponse-11\"]').prop('checked',false);}\n"
+#~ "    }\n"
+#~ "});\n"
+#~ "</script>\n"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "<div class=\"alert alert-error\">$Q1Err_message1.raw</div>\n"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "<div class=\"alert alert-error\">$Q1Err_message2.raw</div>\n"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid "<div class=\"alert alert-error\">$Q1Err_message3.raw</div>\n"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q1/text"
+#~ msgid ""
+#~ "Please select from the below list "
+#~ "the beverages that you have? <br/> "
+#~ "<ol type=\"a\"><li>Ever consumed?</li> <li>Consumed"
+#~ " in last 4 weeks?</li> <li>Consumed "
+#~ "in last 1 week?</li></ol>"
+#~ msgstr ""
+#~ "من بين قائمة المشروبات التالية، يرجى "
+#~ "تحديد المشروبات التي  <br/> <ol "
+#~ "type=\"a\"><li>لم تستهلكها من قبل?</li> "
+#~ "<li>استهلكتها خلال ال4 أسابيع الماضية?</li>"
+#~ " <li>استهلكتها خلال الأسبوع الماضي?</li></ol>"
+
+#~ msgctxt "/question:Q1A/text"
+#~ msgid "Consumed Ever"
+#~ msgstr "لم تستهلكها من قبل "
+
+#~ msgctxt "/question:Q1B/text"
+#~ msgid "Consumed in last 4 weeks"
+#~ msgstr "استهلكتها  خلال ال4 أسابيع الماضية "
+
+#~ msgctxt "/question:Q1C/text"
+#~ msgid "Consumed in last 1 week"
+#~ msgstr "استهلكتها خلال الأسبوع الماضي "
+
+#~ msgctxt "/question:Q1/response:11/text"
+#~ msgid "None of these option"
+#~ msgstr "لا شيء مما سبق"
+
+#~ msgctxt "/question:Q1d/text"
+#~ msgid ""
+#~ "Thinking about your regular sparkling "
+#~ "drink consumption over the past 12 "
+#~ "months, which of the following "
+#~ "statements best fits your regular "
+#~ "consumption."
+#~ msgstr ""
+#~ "Thinking about your regular sparkling "
+#~ "drink consumption over the past 12 "
+#~ "months, which of the following "
+#~ "statements best fits your regular "
+#~ "consumption. دولار أمريكي أو اكثر"
+
+#~ msgctxt "/question:Q1d/response:1/text"
+#~ msgid ""
+#~ "This past 12 months, I've been "
+#~ "drinking more sparkling drinks than I"
+#~ " have in the past."
+#~ msgstr ""
+#~ "This past 12 months, I've been "
+#~ "drinking more sparkling drinks than I"
+#~ " have in the past. دولار أمريكي "
+#~ "أو اكثر"
+
+#~ msgctxt "/question:Q1d/response:2/text"
+#~ msgid ""
+#~ "This past 12 months, I've been "
+#~ "drinking less sparkling drinks than I"
+#~ " have in the past."
+#~ msgstr ""
+#~ "This past 12 months, I've been "
+#~ "drinking less sparkling drinks than I"
+#~ " have in the past. دولار أمريكي "
+#~ "أو اكثر"
+
+#~ msgctxt "/question:Q1d/response:3/text"
+#~ msgid ""
+#~ "This past 12 months, my consumption "
+#~ "of sparkling drinks has not changed."
+#~ msgstr ""
+#~ "This past 12 months, my consumption "
+#~ "of sparkling drinks has not changed. "
+#~ "دولار أمريكي أو اكثر"
+
+#~ msgctxt "/question:Q1e/text"
+#~ msgid ""
+#~ "What are your plans for drinking "
+#~ "Sparkling category in the next 12 "
+#~ "months?"
+#~ msgstr "ما هي خططك تجاه تناول صنف المشروبات الفوارة خلال ال12 شهرا القادمة؟ "
+
+#~ msgctxt "/question:Q1e/response:1/text"
+#~ msgid "Drink more of"
+#~ msgstr "سأتناولها  بشكل أكبر  "
+
+#~ msgctxt "/question:Q1e/response:2/text"
+#~ msgid "Drink the same"
+#~ msgstr "سأتناولها بنفس المعدل "
+
+#~ msgctxt "/question:Q1e/response:3/text"
+#~ msgid "Drink less of"
+#~ msgstr "سأتناولها بشكل أقل "
+
+#~ msgctxt "/question:Q1e/response:4/text"
+#~ msgid "Stop drinking"
+#~ msgstr "سأتوقف عن تناولها "
+
+#~ msgctxt "/question:Q2pipe/text"
+#~ msgid "Q2pipe"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3_1/text"
+#~ msgid "Fruit Flavoured bottle water"
+#~ msgstr "المياة المعدنية بنكهة الفاكهة "
+
+#~ msgctxt "/question:Q3_3/text"
+#~ msgid "Packaged Juices"
+#~ msgstr "العصائر المعلبة "
+
+#~ msgctxt "/question:Q3_4/text"
+#~ msgid "Plain bottled water"
+#~ msgstr "إلى  3,water"
+
+#~ msgctxt "/question:Q3_5/text"
+#~ msgid "Other Beverages"
+#~ msgstr "مشروبات أخرى "
+
+#~ msgctxt "/question:Q2/text"
+#~ msgid "From which store did you last buy $Q2pipe"
+#~ msgstr "أين أشتريت $Q2pipe آخر مرة؟ "
+
+#~ msgctxt "/question:Q3_4/text"
+#~ msgid "Bottled water"
+#~ msgstr "المياة المعدنية العادية "
+
+#~ msgctxt "/question:Q2/response:1/text"
+#~ msgid "Panda"
+#~ msgstr "باندا "
+
+#~ msgctxt "/question:Q2/response:2/text"
+#~ msgid "Al Otham"
+#~ msgstr "العثيم "
+
+#~ msgctxt "/question:Q2/response:3/text"
+#~ msgid "Bin Dawood"
+#~ msgstr "بن داوود "
+
+#~ msgctxt "/question:Q2/response:9/text"
+#~ msgid "Lulu"
+#~ msgstr "لولو "
+
+#~ msgctxt "/question:Q2/response:5/text"
+#~ msgid "Carrefour"
+#~ msgstr "كارفور "
+
+#~ msgctxt "/question:Q2/response:6/text"
+#~ msgid "Other Supermarket"
+#~ msgstr "متجر آخر "
+
+#~ msgctxt "/question:Q2/response:7/text"
+#~ msgid "Groceries"
+#~ msgstr "محل البقالة "
+
+#~ msgctxt "/question:Q2/response:8/text"
+#~ msgid "Cafeteria"
+#~ msgstr "كافِتِيريَا "
+
+#~ msgctxt "/question:Q3/text"
+#~ msgid ""
+#~ "People consume different beverages for "
+#~ "different occasions. Please select the "
+#~ "occasion for each of the beverage "
+#~ "you consumed in last 4 weeks."
+#~ msgstr ""
+#~ "يستهلك الأشخاص المشروبات المختلفة في "
+#~ "المناسبات المختلفة. يرجى تحديد المناسبة "
+#~ "التي استهلكت فيها أي من المشروبات "
+#~ "التالية خلال ال4 أسابيع الماضية. "
+
+#~ msgctxt "/question:B7a/response:1/text"
+#~ msgid "Breakfast at Home"
+#~ msgstr "إلى  3,Home"
+
+#~ msgctxt "/question:B7a/response:2/text"
+#~ msgid "Lunch at home"
+#~ msgstr "إلى  3,home"
+
+#~ msgctxt "/question:B7a/response:3/text"
+#~ msgid "Dinner at Home"
+#~ msgstr "إلى  3,Home"
+
+#~ msgctxt "/question:B7a/response:4/text"
+#~ msgid "Watching TV other routine at home"
+#~ msgstr ""
+
+#~ msgctxt "/question:B7a/response:5/text"
+#~ msgid "At Work place /Collage"
+#~ msgstr ""
+
+#~ msgctxt "/question:B7a/response:6/text"
+#~ msgid "Eating Away from Home"
+#~ msgstr ""
+
+#~ msgctxt "/question:B7a/response:7/text"
+#~ msgid "leisure away from home"
+#~ msgstr ""
+
+#~ msgctxt "/question:B7a/response:8/text"
+#~ msgid "on the go"
+#~ msgstr "إلى  3,go"
+
+#~ msgctxt "/question:B7a/response:9/text"
+#~ msgid "Post/Pre Work out"
+#~ msgstr "إلى  3,out"
+
+#~ msgctxt "/question:B7a/response:10/text"
+#~ msgid "Anytime as a quick hydration"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q4/text"
+#~ msgid "How frequently do you consume “Fruit Flavoured bottle/packaged water”?"
+#~ msgstr "كم مرة تستهلك \"المياة المعدنية بنكهة الفاكهة \"؟ "
+
+#~ msgctxt "/question:Q4/response:1/text"
+#~ msgid "More than once a day"
+#~ msgstr "أكثر من مرة  يوميا  "
+
+#~ msgctxt "/question:B10/response:1/text"
+#~ msgid "Once a day"
+#~ msgstr "مرة واحدة "
+
+#~ msgctxt "/question:Q4/response:3/text"
+#~ msgid "Once in 2 to 3 days"
+#~ msgstr "مرة كل 2 - 3 أيام "
+
+#~ msgctxt "/question:Q4/response:4/text"
+#~ msgid "Once in 4 to 5 days"
+#~ msgstr "مرة كل 4- 5 أيام "
+
+#~ msgctxt "/question:Q4/response:5/text"
+#~ msgid "Once a week"
+#~ msgstr "مرة كل أسبوع"
+
+#~ msgctxt "/question:Q6/text"
+#~ msgid ""
+#~ "How likely are you to try this "
+#~ "brand of “Fruit Flavoured bottle water”"
+#~ " in future? <br/> $picture2.raw"
+#~ msgstr ""
+#~ "ما احتمال تجربتك لماركة \"المياة "
+#~ "المعدنية بنكهة الفواكهة\" هذه في "
+#~ "المستقبل؟ "
+
+#~ msgctxt "/question:B3a/response:1/text"
+#~ msgid "Not at all likely"
+#~ msgstr "غير محتمل على الإطلاق "
+
+#~ msgctxt "/question:Q6/response:2/text"
+#~ msgid "Somewhat unlikely"
+#~ msgstr "غير محتمل نوعا ما "
+
+#~ msgctxt "/question:Q6/response:3/text"
+#~ msgid "Neither likely nor unlikely"
+#~ msgstr "حيادي "
+
+#~ msgctxt "/question:B3a/response:3/text"
+#~ msgid "Somewhat likely"
+#~ msgstr "محتمل نوعا ما "
+
+#~ msgctxt "/question:Q6/response:5/text"
+#~ msgid "Extremely likely"
+#~ msgstr "محتمل جدا "
+
+#~ msgctxt "/logic/text"
+#~ msgid "Flavored water"
+#~ msgstr "المياة المنكهه "
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "Thank you for agreeing to participate in this survey.\n"
+#~ "We would like to better understand your opinion about **$subject**\n"
+#~ "\n"
+#~ "**Completion duration: Approximately $loi minutes**\n"
+#~ "**Account credit: $points points**\n"
+#~ "\n"
+#~ "Your views are important and more powerful than you think.\n"
+#~ "\n"
+#~ "Please use the 'next' button at "
+#~ "the bottom of each page to "
+#~ "navigate through the survey. Please do"
+#~ " not use the arrow/progress button at"
+#~ " the top of your browser.\n"
+#~ "**Please Note: In case an error "
+#~ "message is shown or the survey "
+#~ "does not proceed forward please use "
+#~ "the refresh key on your browser.**\n"
+#~ ""
+#~ "\n"
+#~ msgstr ""
+#~ "شكراً لموافقتك على المشاركة في هذا الاستبيان.\n"
+#~ "نود أن نفهم بشكل أفضل رأيك بخصوص **$subject**\n"
+#~ "\n"
+#~ "**مدة الاستكمال: حوالي $loi دقيقة**  \n"
+#~ "**عدد النقاط المُضافة:   $points نقطة**\n"
+#~ "\n"
+#~ "آراؤك مهمة وأكثر فعالية مما تعتقد.\n"
+#~ "\n"
+#~ "الرجاء استخدام زر \"التالي\" في أسفل "
+#~ "كل صفحة للتنقل عبر الاستبيان. يرجى "
+#~ "عدم استخدام زر السهم / التقدم في"
+#~ " أعلى المتصفح.\n"
+#~ "**يرجى الملاحظة: في حال ظهور رسالة "
+#~ "خطأ أو عدم تقدم الاستبيان إلى "
+#~ "الأمام يرجى استخدام مفتاح التحديث في "
+#~ "المتصفح**.\n"
+
+#~ msgctxt "/question:B1/text"
+#~ msgid ""
+#~ "Please let us know the brands of"
+#~ " “Fruit Flavoured bottle water” that "
+#~ "you are aware of? Please type in"
+#~ " as many as you can think of"
+#~ " below, using a separate box for "
+#~ "each brand."
+#~ msgstr ""
+#~ "ما هي ماركات \"المياة المعدنية بنكهة "
+#~ "الفاكهة\" التي تعرفها؟ يرجى كتابة كل "
+#~ "ما تستطيع ذكره من الماركات على أن"
+#~ " تكون كل واحدة في مربع منفضل. "
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<script>\n"
+#~ "$(page_state).on('after_content_loaded', function() {\n"
+#~ "    $(\".question input:text:first\").focus();\n"
+#~ "    $(\".question input:text:not(:first)\").css"
+#~ "(\"background-color\",\"lightgrey\");\n"
+#~ "    $(\".question input:text:not(:first)\").attr(\"readonly\",true)\n"
+#~ "    $(\".question .uniform-checker\").hide()\n"
+#~ "    $(\".question input:checkbox\").prop(\"disabled\", true);\n"
+#~ "\n"
+#~ "    toTest()\n"
+#~ "    \n"
+#~ "    function toTest() {\n"
+#~ "            $(\".question input:text:not(:first)\").each(function(i){\n"
+#~ "            if ($(\".question input:text\").eq(i).val()!=\"\") \n"
+#~ "            {\n"
+#~ "                $(\".question "
+#~ "input:text\").eq(i+1).attr(\"readonly\",false);\n"
+#~ "                $(\".question input:text\").eq(i+1).css"
+#~ "(\"background-color\",\"white\");\n"
+#~ "            }            \n"
+#~ "            if ($(\".question input:text\").eq(i).val()==\"\" ) \n"
+#~ "            {\n"
+#~ "                $(\".question input:text\").eq(i+1).val(\"\");\n"
+#~ "                $(\".question "
+#~ "input:text\").eq(i+1).attr(\"readonly\",true);\n"
+#~ "                $(\".question input:text\").eq(i+1).css"
+#~ "(\"background-color\",\"lightgrey\");\n"
+#~ "                $(\".question "
+#~ "input:checkbox\").eq(i+1).prop('checked', false);\n"
+#~ "                $(\".question "
+#~ "input:checkbox\").eq(i+1).parent().removeClass('uniform-"
+#~ "checked');\n"
+#~ "            }\n"
+#~ "        })\n"
+#~ "    } \n"
+#~ "\n"
+#~ "    $(\".question input:text\").on(\"input\", function(){\n"
+#~ "         toTest()\n"
+#~ "    })    \n"
+#~ "});\n"
+#~ "</script>\n"
+#~ msgstr ""
+
+#~ msgctxt "/question:B2/text"
+#~ msgid ""
+#~ "Which of these brands of <b><u>“Fruit"
+#~ " Flavoured bottle water”</u></b> have you"
+#~ " heard of before today? <br/> Please"
+#~ " indicate all brands you know of, "
+#~ "<b><u>even if you have already mentioned"
+#~ " them in previous questions</u></b>."
+#~ msgstr ""
+#~ " أي من ماركات  <b><u>“ المياة "
+#~ "المعدنية بنكهة الفواكة”</u></b> التالية سمعت"
+#~ " بها من قبل قبل اليوم؟ <br/> "
+#~ "يرجى تحديد كافة الماركات التي تعرفها "
+#~ "<b><u>حتى لو كنت ذكرتها في أسئلة "
+#~ "سابقة</u></b>."
+
+#~ msgctxt "/question:B2d/response:1/text"
+#~ msgid "Arwa Delight"
+#~ msgstr "أروى ديلايت "
+
+#~ msgctxt "/question:B2c/response:4/text"
+#~ msgid "Hint"
+#~ msgstr "Chiniot"
+
+#~ msgctxt "/question:B2d/response:3/text"
+#~ msgid "Aquafina Flavoured water"
+#~ msgstr "مياة أكوافينا المنكهه "
+
+#~ msgctxt "/question:B2d/response:4/text"
+#~ msgid "Freez"
+#~ msgstr "فريز "
+
+#~ msgctxt "/question:B2d/response:5/text"
+#~ msgid "Perrier"
+#~ msgstr "بيريه "
+
+#~ msgctxt "/question:B2/response:98/text"
+#~ msgid "Others: Please Specify"
+#~ msgstr "أخرى، يرجى التحديد "
+
+#~ msgctxt "/question:B2d/response:99/text"
+#~ msgid "None of these"
+#~ msgstr "لا شيء مما سبق"
+
+#~ msgctxt "/question:B2a/text"
+#~ msgid ""
+#~ "You mentioned you are aware of "
+#~ "Arwa Delight. Can you specify the "
+#~ "price of the product you are aware"
+#~ " of?"
+#~ msgstr ""
+#~ "ذكرت أنك تعرف ماركة  \"أروى ديلايت\"."
+#~ " هل يمكنك تحديد سعر المنتج التي "
+#~ "تعرفه؟ "
+
+#~ msgctxt "/question:B2a/response:2/text"
+#~ msgid "4.5"
+#~ msgstr "4.5"
+
+#~ msgctxt "/question:B2a/response:4/text"
+#~ msgid "5.5"
+#~ msgstr "5.5"
+
+#~ msgctxt "/question:B2a/response:6/text"
+#~ msgid "6.5"
+#~ msgstr "6.5"
+
+#~ msgctxt "/question:B2a/response:8/text"
+#~ msgid "Don’t remember"
+#~ msgstr "لا أذكر"
+
+#~ msgctxt "/question:B2b/text"
+#~ msgid "Which ones have you ever tried?"
+#~ msgstr "أي من بين الماركات التالية تناولت من قبل؟"
+
+#~ msgctxt "/question:B2d/response:98/text"
+#~ msgid "$B2_Other"
+#~ msgstr "أخرى، يرجى التحديد "
+
+#~ msgctxt "/question:B2e/text"
+#~ msgid ""
+#~ "You previously mentioned you have tried"
+#~ " Arwa Delight. Please choose one of"
+#~ " the below options."
+#~ msgstr ""
+#~ "ذكرت أنك تناولت ماركة  \"أروى ديلايت\""
+#~ " من قبل.يرجى تحديد أحد الخيارات "
+#~ "التالية "
+
+#~ msgctxt "/question:B2e/response:1/text"
+#~ msgid "I bought it by myself"
+#~ msgstr "اشتريتها بنفسك "
+
+#~ msgctxt "/question:B2e/response:2/text"
+#~ msgid "Someone else bought it for me"
+#~ msgstr "اشتراها  أحد الأشخاص لك "
+
+#~ msgctxt "/question:B2e/response:3/text"
+#~ msgid "I got a free sample"
+#~ msgstr "حصلت على عينة مجانية "
+
+#~ msgctxt "/question:B2f/text"
+#~ msgid "What was the size you purchased?"
+#~ msgstr "ما حجم العبوة التي اشتريتها؟ "
+
+#~ msgctxt "/question:B2f/response:1/text"
+#~ msgid "1 Ltr"
+#~ msgstr "لتر "
+
+#~ msgctxt "/question:B2f/response:2/text"
+#~ msgid "1.5 Ltr"
+#~ msgstr "1.5 لتر "
+
+#~ msgctxt "/question:B2f/response:3/text"
+#~ msgid "2 Ltr"
+#~ msgstr "2 لتر"
+
+#~ msgctxt "/question:B2f/response:4/text"
+#~ msgid "2.5 Ltr"
+#~ msgstr "2.5 لتر "
+
+#~ msgctxt "/question:B2f/response:5/text"
+#~ msgid "Don’t know/ can’t remember"
+#~ msgstr "لا أعرف / لا أذكر"
+
+#~ msgctxt "/question:B2g/text"
+#~ msgid "Is this the size you prefer?"
+#~ msgstr "هل هذا الحجم هو المفضل لديك؟ "
+
+#~ msgctxt "/question:QC1a/response:1/text"
+#~ msgid "Yes"
+#~ msgstr "نعم"
+
+#~ msgctxt "/question:QC1a/response:2/text"
+#~ msgid "No"
+#~ msgstr ""
+
+#~ msgctxt "/question:B2c/text"
+#~ msgid "And which ones did you consume in last 4 weeks?"
+#~ msgstr "وأي من هذه الماركات استهلكت خلال ال4 أسابيع الماضية؟ "
+
+#~ msgctxt "/question:B2d/text"
+#~ msgid "And which ones have you consumed in last 1 week?"
+#~ msgstr "وأي من الماركات التالية استهلكت خلال الأسبوع  الماضي؟ "
+
+#~ msgctxt "/question:B7/text"
+#~ msgid ""
+#~ "You mentioned that you consumed Arwa "
+#~ "Delight in last 4 weeks. Please "
+#~ "select from the below options, the "
+#~ "frequency of consumption of Arwa "
+#~ "delight?"
+#~ msgstr ""
+#~ "ذكرت أنك استهلكت \"أروى ديلايت\" خلال"
+#~ " ال4 أسابيع الماضية. كم مرة استهلكتها"
+#~ " ؟ يرجى تحديد أحد الخيارات التالية"
+#~ " "
+
+#~ msgctxt "/question:B7/response:1/text"
+#~ msgid "Once in last 4 weeks"
+#~ msgstr "مرة واحدة "
+
+#~ msgctxt "/question:B7/response:2/text"
+#~ msgid "2-3 times in last 4 weeks"
+#~ msgstr "2-3 مرات "
+
+#~ msgctxt "/question:B7/response:3/text"
+#~ msgid "4-5 times in last 4 weeks"
+#~ msgstr "4- 5 مرات "
+
+#~ msgctxt "/question:B7/response:4/text"
+#~ msgid "Over 5 times in last 4 weeks"
+#~ msgstr "أكثر من 5 مرات "
+
+#~ msgctxt "/question:B7a/text"
+#~ msgid ""
+#~ "You mentioned that you consumed Arwa "
+#~ "Delight in last 4 weeks. Please "
+#~ "select the occasion when you consumed"
+#~ " Arwa Delight in last 4 weeks."
+#~ msgstr ""
+
+#~ msgctxt "/question:B9/text"
+#~ msgid ""
+#~ "You mentioned that you consumed Arwa "
+#~ "Delight in last 1 week. Please "
+#~ "select from the below options, the "
+#~ "frequency of consumption of Arwa "
+#~ "delight?"
+#~ msgstr ""
+#~ "ذكرت أنك استهلكت \"أروى ديلايت\" خلال"
+#~ " الأسبوع الماضي. كم مرة استهلكتها ؟"
+#~ " يرجى تحديد أحد الخيارات التالية "
+
+#~ msgctxt "/question:B9/response:1/text"
+#~ msgid "One day in last week"
+#~ msgstr "مرة واحدة "
+
+#~ msgctxt "/question:B9/response:2/text"
+#~ msgid "2 to 3 days in last week"
+#~ msgstr "2 إلى 3 مرات "
+
+#~ msgctxt "/question:B9/response:3/text"
+#~ msgid "4 to 6 days in last week"
+#~ msgstr "4 إلى 6 مرات "
+
+#~ msgctxt "/question:B9/response:4/text"
+#~ msgid "Daily"
+#~ msgstr "يوميا "
+
+#~ msgctxt "/question:B10/text"
+#~ msgid ""
+#~ "You mentioned that you consumed Arwa "
+#~ "Delight daily. Please select from the"
+#~ " below options, the frequency of "
+#~ "consumption of Arwa delight in a "
+#~ "day?"
+#~ msgstr ""
+#~ "ذكرت أنك استهلكت \"أروى ديلايت\" يوميا."
+#~ " كم مرة استهلكتها في اليوم؟ يرجى "
+#~ "تحديد احد الخيارات التالية."
+
+#~ msgctxt "/question:B10/response:2/text"
+#~ msgid "2 to 3 times day"
+#~ msgstr "2 إلى 3 مرات "
+
+#~ msgctxt "/question:B10/response:3/text"
+#~ msgid "4 or more times a day"
+#~ msgstr "4 مرات أو اكثر "
+
+#~ msgctxt "/question:B8a/text"
+#~ msgid ""
+#~ "You mentioned that you consume Arwa "
+#~ "delight $B7. Please let us know "
+#~ "where did you last consume Arwa "
+#~ "Delight?"
+#~ msgstr ""
+#~ "ذكرت أنك استهلكت أروي ديلايت $B7. "
+#~ "يرجى تحديد المكان التي استهلكتها فيه؟"
+#~ " "
+
+#~ msgctxt "/question:B8a/response:1/text"
+#~ msgid "Home"
+#~ msgstr "المنزل "
+
+#~ msgctxt "/question:B8a/response:2/text"
+#~ msgid "Restaurant"
+#~ msgstr "المطعم "
+
+#~ msgctxt "/question:B8a/response:3/text"
+#~ msgid "While traveling"
+#~ msgstr "أثناء السفر "
+
+#~ msgctxt "/question:B8a/response:5/text"
+#~ msgid "Work place"
+#~ msgstr "مكان العمل "
+
+#~ msgctxt "/question:B8a/response:6/text"
+#~ msgid "While on the go"
+#~ msgstr "في الطريق "
+
+#~ msgctxt "/question:B3new/text"
+#~ msgid ""
+#~ "You mentioned that you are aware "
+#~ "of Arwa Delight but have not tried"
+#~ " it as yet. Could you let us"
+#~ " know why not?"
+#~ msgstr "ذكرت أنك تعرف \"أروى ديلايت\" لكنك لم تجربها من قبل. ما السبب؟"
+
+#~ msgctxt "/question:B3new/response:1/text"
+#~ msgid "It is not healthy"
+#~ msgstr "لأنها ليست صحية "
+
+#~ msgctxt "/question:B3new/response:2/text"
+#~ msgid "I prefer other beverages"
+#~ msgstr "أفضل مشروبات أخرى "
+
+#~ msgctxt "/question:B3new/response:3/text"
+#~ msgid "Not sure what the product is"
+#~ msgstr "لست متأكدا من المنتج "
+
+#~ msgctxt "/question:B3new/response:4/text"
+#~ msgid "Not available where I shop"
+#~ msgstr "غير متوفر في المكان الذي أتسوق فيه "
+
+#~ msgctxt "/question:B3new/response:5/text"
+#~ msgid "I tasted free sample and did not like the taste"
+#~ msgstr "تذوقت أحد العينات المجانية ولم يعجبني مذاقها "
+
+#~ msgctxt "/question:B3new/response:6/text"
+#~ msgid "It is expensive"
+#~ msgstr "لأنها غالية "
+
+#~ msgctxt "/question:B3new/response:7/text"
+#~ msgid "Other reason"
+#~ msgstr "سبب آخر "
+
+#~ msgctxt "/question:B3/text"
+#~ msgid ""
+#~ "You mentioned that you are aware "
+#~ "of Arwa Delight but have not tried"
+#~ " it as yet. How likely are you"
+#~ " to try this brand of “Fruit "
+#~ "Flavoured bottle/packaged water” in future?"
+#~ msgstr ""
+#~ "ذكرت أنك تعرف \"أروى ديلايت\" لكنك "
+#~ "لم تجربها من قبل. ما احتمال تجربتك"
+#~ " ل\"المياة المعدنية بنكهة الفواكهة\" لهذه"
+#~ " الماركة في المستقبل؟ "
+
+#~ msgctxt "/question:B3a/response:2/text"
+#~ msgid "Somewhat not likely"
+#~ msgstr "غير محتمل نوعا ما "
+
+#~ msgctxt "/question:B3a/response:4/text"
+#~ msgid "Most likely"
+#~ msgstr "محتمل جدا "
+
+#~ msgctxt "/question:B3a/text"
+#~ msgid ""
+#~ "You mentioned that you tried Arwa "
+#~ "Delight but do not consume it "
+#~ "regularly. How likely are you to "
+#~ "try this brand of “Fruit Flavoured "
+#~ "bottle/packaged water” again in future?"
+#~ msgstr ""
+#~ "ذكرت أنك جربت أروى ديلايت لكنك لا"
+#~ " تستهلكها بانتظام.  ما احتمال تجربتك "
+#~ "ل\"المياة المعدنية بنكهة الفواكهة\" لهذه "
+#~ "الماركة في المستقبل؟ "
+
+#~ msgctxt "/question:B4/text"
+#~ msgid ""
+#~ "Based on your consumption / experience"
+#~ " of “Arwa Delight Fruit Flavoured "
+#~ "Water”, can you let us know how"
+#~ " strongly do you agree or disagree"
+#~ " with each of the below statements?"
+#~ msgstr ""
+#~ "وفقا لاستهلاكك  / تجربتك ل ل\"المياة "
+#~ "المعدنية بنكهة الفواكهة من أروى "
+#~ "ديلايت\"، ما مدى موافقتك أو عدم "
+#~ "موافقتك على كل  عبارة من العبارات "
+#~ "التالية؟ "
+
+#~ msgctxt "/question:QB4_1/text"
+#~ msgid "Is great tasting"
+#~ msgstr "مذاقها رائع"
+
+#~ msgctxt "/question:QB4_2/text"
+#~ msgid "Is a brand I trust"
+#~ msgstr "أثق في هذه الماركة "
+
+#~ msgctxt "/question:QB4_3/text"
+#~ msgid "Is right choice to have while snacking"
+#~ msgstr "الخيار المناسب عند تناول وجبة خفيفة "
+
+#~ msgctxt "/question:QB4_4/text"
+#~ msgid "Refreshes me"
+#~ msgstr "تنعشني "
+
+#~ msgctxt "/question:QB4_5/text"
+#~ msgid "Has flavours which I like"
+#~ msgstr "متوفرة بالنكهات المفضلة لدي "
+
+#~ msgctxt "/question:QB4_6/text"
+#~ msgid "Goes well with a meal"
+#~ msgstr "مناسبة للوجبات "
+
+#~ msgctxt "/question:QB4_7/text"
+#~ msgid "Is available in the packaging which I prefer"
+#~ msgstr "متوفرة بالعبوة التي أفضلها "
+
+#~ msgctxt "/question:QB4_8/text"
+#~ msgid "Is growing popular"
+#~ msgstr "شعبيته تتزايد "
+
+#~ msgctxt "/question:QB4_9/text"
+#~ msgid "Is easily available"
+#~ msgstr "متوفر في كل مكان "
+
+#~ msgctxt "/question:QB4_10/text"
+#~ msgid "Is easily gulp-able"
+#~ msgstr "يسهل تناولها  على جرعة واحدة "
+
+#~ msgctxt "/question:QB4_11/text"
+#~ msgid "Makes me feel lighter after a meal"
+#~ msgstr "يساعد على الهضم "
+
+#~ msgctxt "/question:B4/response:1/text"
+#~ msgid "Agree Strongly"
+#~ msgstr "أوافق بشدة "
+
+#~ msgctxt "/question:B4/response:2/text"
+#~ msgid "Agree Somewhat"
+#~ msgstr "أوافق نوعا  ما "
+
+#~ msgctxt "/question:B4/response:3/text"
+#~ msgid "Neither agree not disagree"
+#~ msgstr "حيادي "
+
+#~ msgctxt "/question:B4/response:4/text"
+#~ msgid "Disagree somewhat"
+#~ msgstr "لا أوافق نوعا ما "
+
+#~ msgctxt "/question:B4/response:5/text"
+#~ msgid "Disagree strongly"
+#~ msgstr "لا أوافق جدا "
+
+#~ msgctxt "/question:B5/text"
+#~ msgid ""
+#~ "When you started consuming Arwa Delight"
+#~ " Flavoured water, did you change the"
+#~ " consumption of other beverages?"
+#~ msgstr ""
+#~ "عندما بدأت استهلاك المياة المنكهه \"أروى"
+#~ " ديلايت\"، هل غيرت استهلاكك لمشروبات "
+#~ "أخرى؟ "
+
+#~ msgctxt "/question:B5/response:1/text"
+#~ msgid "Replaced some other beverages"
+#~ msgstr "استبدلت بعض المشروبات "
+
+#~ msgctxt "/question:B5/response:2/text"
+#~ msgid "Reduced the consumption of some other beverage"
+#~ msgstr "قللت استهلاك بعض المشروبات "
+
+#~ msgctxt "/question:B5/response:3/text"
+#~ msgid "Added to the consumption and didn’t reduce or replace any beverage"
+#~ msgstr "أضفت إلى استهلاكك ولم تستبدل أو تقلل من أي مشروب "
+
+#~ msgctxt "/question:B6new_1/text"
+#~ msgid "Replaced"
+#~ msgstr "استبدلته "
+
+#~ msgctxt "/logic/text"
+#~ msgid "Reduced consumption"
+#~ msgstr "قللت استهلاكك"
+
+#~ msgctxt "/question:B6new/text"
+#~ msgid "Please select the beverage that you $B6pipe for Arwa Delight?"
+#~ msgstr "يرجى تحديد المشروب الذي   $B6pipe بأروى ديلايت ؟ "
+
+#~ msgctxt "/question:B6new_2/text"
+#~ msgid "Reduced"
+#~ msgstr "قللته "
+
+#~ msgctxt "/question:B6new/response:1/text"
+#~ msgid "Packed Juice"
+#~ msgstr "عصائر معلبة "
+
+#~ msgctxt "/question:B6new/response:2/text"
+#~ msgid "Carbonated drinks"
+#~ msgstr "مشروبات غازية "
+
+#~ msgctxt "/question:B6new/response:3/text"
+#~ msgid "Sparkling Water"
+#~ msgstr "مياة فوراة "
+
+#~ msgctxt "/question:B6new/response:4/text"
+#~ msgid "Still water"
+#~ msgstr "مياة عادية "
+
+#~ msgctxt "/question:B6new/response:7/text"
+#~ msgid "Non-alcoholic malt beverage"
+#~ msgstr "مشروبات شعير غير كحولية "
+
+#~ msgctxt "/question:Q5/text"
+#~ msgid "Which all flavours of “Arwa Delight” have you consumed?"
+#~ msgstr "أي من نكهات \"أروى ديلايت\" استهلكت؟ "
+
+#~ msgctxt "/question:Q5/response:1/text"
+#~ msgid "Orange"
+#~ msgstr "برتقال "
+
+#~ msgctxt "/question:Q5/response:2/text"
+#~ msgid "Citrus"
+#~ msgstr "حمضيات "
+
+#~ msgctxt "/question:Q5/response:3/text"
+#~ msgid "Lime mint"
+#~ msgstr "ليمون نعناع "
+
+#~ msgctxt "/question:Q5/response:4/text"
+#~ msgid "Apple"
+#~ msgstr "تفاح "
+
+#~ msgctxt "/question:Q5/response:5/text"
+#~ msgid "Others: Please specify"
+#~ msgstr "أخرى، يرجى التحديد "
+
+#~ msgctxt "/question:Q5a/text"
+#~ msgid ""
+#~ "Apart from the flavours of “Arwa "
+#~ "Delight” currently available, what other "
+#~ "flavours would you like to try?"
+#~ msgstr ""
+#~ "بعيدا عن النكهات المتوفرة حاليا ل\"أروى"
+#~ " ديلايت\" في السوق، ما هي النكهات "
+#~ "الأخرى التي تود تجربتها؟ "
+
+#~ msgctxt "/question:B11/text"
+#~ msgid ""
+#~ "You mentioned that you have replaced "
+#~ "\"$B6new_1\" with “Arwa Delight”. Please "
+#~ "let us know the reason for the "
+#~ "replacement?"
+#~ msgstr "ذكرت أنك استبدلت \"$B6new_1\" ب\"أروى ديلايت\" . يرجى تحديد سبب ذلك. "
+
+#~ msgctxt "/question:B11/response:1/text"
+#~ msgid "It is healthy"
+#~ msgstr "لأنها صحية "
+
+#~ msgctxt "/question:B11/response:2/text"
+#~ msgid "The price for Arwa Delight is lower"
+#~ msgstr "لأن سعرها  أقل "
+
+#~ msgctxt "/question:B11/response:3/text"
+#~ msgid "It is lighter to consume"
+#~ msgstr "أخف في الاستهلاك "
+
+#~ msgctxt "/question:B11/response:4/text"
+#~ msgid "Helps in digestion"
+#~ msgstr "تساعد على الهضم "
+
+#~ msgctxt "/question:B11/response:5/text"
+#~ msgid "Good to share with family and friends"
+#~ msgstr "مناسبة للمشاركة مع الأصدقاء والأسرة "
+
+#~ msgctxt "/question:B11/response:6/text"
+#~ msgid "Is more refreshing"
+#~ msgstr "تشعرني بانتعاش أكبر "
+
+#~ msgctxt "/question:B11/response:7/text"
+#~ msgid "Hydrates me"
+#~ msgstr "تساعد على الترطيب "
+
+#~ msgctxt "/question:B11/response:8/text"
+#~ msgid "Is natural"
+#~ msgstr "طبيعية "
+
+#~ msgctxt "/question:B11/response:9/text"
+#~ msgid "Has nutritional values"
+#~ msgstr "تحتوي على فوائد غذائية "
+
+#~ msgctxt "/question:B11/response:11/text"
+#~ msgid "Easy to drink"
+#~ msgstr "سهلة التناول "
+
+#~ msgctxt "/question:B11/response:10/text"
+#~ msgid "Others (specify)"
+#~ msgstr "أخرى (يرجى التحديد) "
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "We would like to ask you some "
+#~ "questions about an advertisement. <br/><br/>"
+#~ "\n"
+#~ msgstr "نود أن نطرح عليك بعض الأسئلة التيتتعلق بأحد الإعلانات. <br/><br/>"
+
+#~ msgctxt "/question:QC1c/text"
+#~ msgid "In which of these places, did you see, hear, or read advertisement?"
+#~ msgstr "أين رأيت أو  سمعت أو قرأت عن هذا الإعلان من قبل؟ "
+
+#~ msgctxt "/question:QC1c/response:1/text"
+#~ msgid "Television"
+#~ msgstr "التلفاز "
+
+#~ msgctxt "/question:QC1c/response:2/text"
+#~ msgid "Newspaper or Magazine"
+#~ msgstr "الصحف أو المجلات "
+
+#~ msgctxt "/question:QC1c/response:3/text"
+#~ msgid "Radio"
+#~ msgstr "الراديو "
+
+#~ msgctxt "/question:QC1c/response:4/text"
+#~ msgid "Outdoor (Hoardings/posters)"
+#~ msgstr "خارج المنزل (الملصقات / اللوحات الإعلانية) "
+
+#~ msgctxt "/question:QC1c/response:5/text"
+#~ msgid "Social Media (Facebook, Twitter, Snapchat, Instagram etc.)"
+#~ msgstr "وسائل التواصل الاجتماعية (فيسبوك أو تويتر أو سناب شات أو إنسجرام، إلخ) "
+
+#~ msgctxt "/question:QC1c/response:6/text"
+#~ msgid "Online Video (Youtube, Vimeo, etc)"
+#~ msgstr "مقاطع فيديو (يوتيوب أو فيميو، إلخ) "
+
+#~ msgctxt "/question:QC1c/response:7/text"
+#~ msgid "Online displays (Websites)"
+#~ msgstr "صفحات الإنترنت (المواقع الإلكترونية) "
+
+#~ msgctxt "/question:QC1c/response:8/text"
+#~ msgid "Talking to someone (Word of mouth)"
+#~ msgstr "تناقل شفهي "
+
+#~ msgctxt "/question:QC1c/response:9/text"
+#~ msgid "Sponsorships (events, programs etc.)"
+#~ msgstr "الفاعليات أو البرامج،  إلخ برعاية مؤسسات ما "
+
+#~ msgctxt "/question:QC1c/response:10/text"
+#~ msgid "Digital screens/in malls"
+#~ msgstr "شاشات العرض في مراكز التسوق "
+
+#~ msgctxt "/question:QC2a/text"
+#~ msgid "How much did you like the ad?"
+#~ msgstr "ما مدى إعجابك بالإعلان؟ "
+
+#~ msgctxt "/question:QC2a/response:5/text"
+#~ msgid "Like a lot"
+#~ msgstr "أعجبني جدا "
+
+#~ msgctxt "/question:QC2a/response:4/text"
+#~ msgid "Like it somewhat"
+#~ msgstr "أعجبني نوعا ما "
+
+#~ msgctxt "/question:QC2a/response:3/text"
+#~ msgid "Neither liked nor disliked"
+#~ msgstr "حيادي "
+
+#~ msgctxt "/question:QC2a/response:2/text"
+#~ msgid "Somewhat disliked"
+#~ msgstr "لم يعجبني نوعا ما "
+
+#~ msgctxt "/question:QC2a/response:1/text"
+#~ msgid "Dislike a lot"
+#~ msgstr "لم يعجبني جدا "
+
+#~ msgctxt "/question:QC5/text"
+#~ msgid "How unique is the ad for you?"
+#~ msgstr "ما مدى تميز  هذا الإعلان عن باقي الإعلانات؟ "
+
+#~ msgctxt "/question:QC5/response:1/text"
+#~ msgid "Very unique"
+#~ msgstr "متميز جدا "
+
+#~ msgctxt "/question:QC5/response:2/text"
+#~ msgid "Somewhat unique"
+#~ msgstr "متميز نوعا ما "
+
+#~ msgctxt "/question:QC5/response:3/text"
+#~ msgid "Not so unique"
+#~ msgstr "ليس متميزا نوعا ما "
+
+#~ msgctxt "/question:QC5/response:4/text"
+#~ msgid "Not unique at all"
+#~ msgstr "ليس متميزا على الإطلاق "
+
+#~ msgctxt "/question:QC6/text"
+#~ msgid "How did the ad make makes you feel about Arwa delight?"
+#~ msgstr "كيف تشعر تجاه أروى ديلايت بعد رؤية هذا الإعلان؟ "
+
+#~ msgctxt "/question:QC6/response:1/text"
+#~ msgid "Very appealing"
+#~ msgstr "جذابة جدا "
+
+#~ msgctxt "/question:QC6/response:2/text"
+#~ msgid "Somewhat appealing"
+#~ msgstr "جذابة نوعا ما  "
+
+#~ msgctxt "/question:QC6/response:3/text"
+#~ msgid "Neither appealing nor less appealing"
+#~ msgstr "حيادي "
+
+#~ msgctxt "/question:QC6/response:4/text"
+#~ msgid "Somewhat less appealing"
+#~ msgstr "غير  جذابة نوعا ما "
+
+#~ msgctxt "/question:QC6/response:5/text"
+#~ msgid "Not at all appealing"
+#~ msgstr "غير جذابة على الإطلاق "
+
+#~ msgctxt "/question:QC7/text"
+#~ msgid "How likely are you willing to buy Arwa delight after seeing this ad?"
+#~ msgstr "ما احتمال شرائك لأروى ديلايت بعد رؤية هذا الإعلان؟ "
+
+#~ msgctxt "/question:QC7/response:1/text"
+#~ msgid "Will definitely buy Arwa delight"
+#~ msgstr "سأشتريها  بالتأكيد "
+
+#~ msgctxt "/question:QC7/response:2/text"
+#~ msgid "Will probably buy Arwa delight"
+#~ msgstr "محتمل أن أشتريها "
+
+#~ msgctxt "/question:QC7/response:3/text"
+#~ msgid "Might buy"
+#~ msgstr "قد أشتريها "
+
+#~ msgctxt "/question:QC7/response:4/text"
+#~ msgid "Will probably not buy Arwa delight"
+#~ msgstr "محتمل أن لا أشتريها "
+
+#~ msgctxt "/question:QC7/response:5/text"
+#~ msgid "Will definitely not Arwa delight"
+#~ msgstr "لن أشتريها بالتأكيد "
+
+#~ msgctxt "/question:QC8/text"
+#~ msgid ""
+#~ "How likely are you to recommend "
+#~ "Arwa delight to others after seeing "
+#~ "this ad?"
+#~ msgstr "ما احتمال توصيتك بأروى ديلايت للآخرين بعد رؤية هذا الإعلان؟ "
+
+#~ msgctxt "/question:QC8/response:1/text"
+#~ msgid "5 – Will definitely recommend"
+#~ msgstr "5- سأوصي بها بالتأكيد "
+
+#~ msgctxt "/question:QC8/response:5/text"
+#~ msgid "1 – Would definitely not recommend"
+#~ msgstr "1 - لن أوصي بها بالتأكيد "
+
+#~ msgctxt "/question:QC2b/text"
+#~ msgid "What did you like about the Ad?"
+#~ msgstr "ما الذي أعجبك في الإعلان؟ "
+
+#~ msgctxt "/question:QC2c/text"
+#~ msgid "What did you not like about the Ad?"
+#~ msgstr "ما الذي لم يعجبك في الإعلان؟ "
+
+#~ msgctxt "/question:QC3/text"
+#~ msgid "What are the key messages you think ad is trying to deliver?"
+#~ msgstr "في رأيك، ما هى الرسالة الرئيسية  التي يحاول هذا الإعلان توصيلها؟ "
+
+#~ msgctxt "/question:qc_result/text"
+#~ msgid "visible only in test mode<br /><br />qc_result"
+#~ msgstr ""
+
+#~ msgctxt "/question:qc_result/response:1/text"
+#~ msgid "passed"
+#~ msgstr ""
+
+#~ msgctxt "/question:qc_result/response:2/text"
+#~ msgid "failed"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "Unfortunately we have detected some "
+#~ "inconsistencies in your responses to "
+#~ "this survey.\n"
+#~ "\n"
+#~ "As we take data quality very "
+#~ "seriously we cannot allow you to "
+#~ "continue to take this survey, and "
+#~ "your answers will not be used. "
+#~ "Please ensure you pay attention when "
+#~ "answering surveys.\n"
+#~ "\n"
+#~ "Please click on the button below "
+#~ "so we take you to another survey,"
+#~ " if available.\n"
+#~ msgstr ""
+#~ "لقد تبيَّن لنا بعض التناقضات في إجاباتك في هذا الاستطلاع.\n"
+#~ "\n"
+#~ "إن جودة و صحة الإجابات أمر بالغ"
+#~ " الأهمية بالنسبة لنا لذا لن نتمكن "
+#~ "من السماح لك بإكمال هذا الاستطلاع، "
+#~ "و لن يتم احتساب مشاركتك هذه. من"
+#~ " فضلك تأكد من أن تولي اهتماماً "
+#~ "أكبر و تقرأ الأسئلة بحرص و أنت "
+#~ "تؤدي الاستطلاعات.\n"
+#~ "\n"
+#~ "من فضلك اضغط على الزر أدناه و سنأخذك إلى استطلاع آخر، إن توفر ذلك.\n"
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "**VISIBLE ONLY IN TEST MODE - "
+#~ "please keep as is - don't select"
+#~ " anything. This page is being shown"
+#~ " only so we could check whether "
+#~ "the SEC recording is functioning "
+#~ "correctly**\n"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_urban_pk/text"
+#~ msgid "**SEC_urban_pk** - records SEC according to the SEC_urban grid"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_urban_pk/response:1/text"
+#~ msgid "A1"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_urban_pk/response:2/text"
+#~ msgid "A2"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/response:2/text"
+#~ msgid "B"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/response:3/text"
+#~ msgid "C"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/response:4/text"
+#~ msgid "D"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_urban_pk/response:6/text"
+#~ msgid "E1"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_urban_pk/response:7/text"
+#~ msgid "E2"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_urban_pk/response:199/text"
+#~ msgid "doesn't belong here - residence_area_type_pk is Rural"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/text"
+#~ msgid "**SEC_rural_pk** - records SEC according to the SEC_rural grid"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/response:1/text"
+#~ msgid "A"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/response:5/text"
+#~ msgid "E"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_rural_pk/response:199/text"
+#~ msgid "doesn't belong here - residence_area_type_pk is Urban"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/text"
+#~ msgid ""
+#~ "visible only in test mode **for "
+#~ "CHECKING**. Please keep as is. Do "
+#~ "not insert or change answer<br /><br "
+#~ "/>**SEC_eg**"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/response:1/text"
+#~ msgid "A range: above 4.3 through 8.77"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/response:2/text"
+#~ msgid "B range: above 3.3 through 4.3"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/response:3/text"
+#~ msgid "C1 range: above 2.3 through 3.3"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/response:4/text"
+#~ msgid "C2 range: above 0.3 through 2.3"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/response:5/text"
+#~ msgid "D range: above -0.6 through 0.3"
+#~ msgstr ""
+
+#~ msgctxt "/question:SEC_eg/response:6/text"
+#~ msgid "E range: -2.97 through -0.6"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<b><p class=\"alert\">Thanks for sharing your"
+#~ " valuable opinions on this YouGov "
+#~ "survey.  Rest assured once another "
+#~ "survey is available for you to "
+#~ "take, you will be invited.  Until "
+#~ "then, thank you for your continued "
+#~ "support!</p></b>\n"
+#~ msgstr ""
+#~ "<b><p class=\"alert\">نشكرك على مشاركتنا آراءك"
+#~ " القيمة حول هذا الاستطلاع من يوجوف."
+#~ " بمجرد أن يتوفر استطلاع آخر لك "
+#~ "نؤكد لك بأنه سيتم دعوتك لتأديته. "
+#~ "حتى ذلك الحين، نشكرك على دعمك "
+#~ "المستمر!</p></b>"
+
+#~ msgctxt "/question:qc_understand/text"
+#~ msgid ""
+#~ "Overall, how easy or difficult was "
+#~ "the questionnaire in terms of "
+#~ "understanding. Please rate on a scale"
+#~ " of 1 to 9, where 1 stands "
+#~ "for “Difficult to understand” and 9 "
+#~ "for “Easy to understand”."
+#~ msgstr ""
+#~ "بشكل عام، ما مدى سهولة أو صعوبة"
+#~ " فهم الأسئلة في الاستطلاع، رجاء قيّم"
+#~ " ذلك على مقياس من 1 إلى 9، "
+#~ "حيث 1 تعني \"كان من الصعب فهم "
+#~ "أغلب الأسئلة\" و 9 تعني \"كان فهم"
+#~ " جميع الأسئلة سهلاً\""
+
+#~ msgctxt "/question:qc_understand_scale/initial"
+#~ msgid "Difficult to understand "
+#~ msgstr "كان من الصعب فهم أغلب الأسئلة "
+
+#~ msgctxt "/question:qc_understand_scale/final"
+#~ msgid "Easy to understand"
+#~ msgstr "كان فهم جميع الأسئلة سهلاً"
+
+#~ msgctxt "/question:qc_interest/text"
+#~ msgid ""
+#~ "Taking into consideration the overall "
+#~ "questionnaire, how boring or interesting "
+#~ "was the questionnaire on a scale "
+#~ "of 1 to 9, where 1 is "
+#~ "“Boring” and 9 is “Interesting”."
+#~ msgstr ""
+#~ "مع الأخذ بعين الاعتبار الاستطلاع ككلّ،"
+#~ " كم كان الاستطلاع مملاً أو مثيراً "
+#~ "للاهتمام على مقياس من 1 إلى 9، "
+#~ "حيث 1 تعني \"مملاً\" و 9 تعني "
+#~ "\"مثيراً للاهتمام\"."
+
+#~ msgctxt "/question:qc_interest_scale/initial"
+#~ msgid "Boring"
+#~ msgstr "مملاً"
+
+#~ msgctxt "/question:qc_interest_scale/final"
+#~ msgid "Interesting"
+#~ msgstr "مثيراً للاهتمام"
+
+#~ msgctxt "/question:qc_fairness/text"
+#~ msgid ""
+#~ "According to you, how fair and "
+#~ "balanced was the questionnaire? Please "
+#~ "rate on a scale of 1 to 9,"
+#~ " where 1 is “Not fair and "
+#~ "balanced” and 9 is “Fair and "
+#~ "balanced”."
+#~ msgstr ""
+#~ "برأيك كم كان الاستطلاع عادلاً و "
+#~ "متوازناً؟ رجاء قيّم الاستطلاع على مقياس"
+#~ " من 1 إلى 9، حيث 1 تعني "
+#~ "\"لم يكن أي من الأسئلة حيادياً "
+#~ "ومتوازناً\" و 9 تعني \"كانت جميع "
+#~ "الأسئلة حيادية ومتوازنة\""
+
+#~ msgctxt "/question:qc_fairness_scale/initial"
+#~ msgid "Not fair and balanced"
+#~ msgstr "لم يكن أي من الأسئلة حيادياً ومتوازناً"
+
+#~ msgctxt "/question:qc_fairness_scale/final"
+#~ msgid "Fair and balanced"
+#~ msgstr " كانت جميع الأسئلة حيادية ومتوازنة"
+
+#~ msgctxt "/question:qc03_problems/text"
+#~ msgid "Did you experience any technical problems while answering the survey?"
+#~ msgstr "هل واجهت أي مشاكل تقنية خلال الإجابة على الاستطلاع؟"
+
+#~ msgctxt "/question:qc04_overall/text"
+#~ msgid ""
+#~ "Overall, what do you think was the"
+#~ " quality of the questionnaire? Please "
+#~ "rate on a scale of 1 to 9"
+#~ " where 1 stands for “Poor” and "
+#~ "9 for “Excellent”."
+#~ msgstr ""
+#~ "بشكل عام ما رأيك بالاستطلاع، رجاءً "
+#~ "قيّمه على مقياس من 1 إلى 9، "
+#~ "حيث 1 يعني \"سيّئ\" و 9 تعني "
+#~ "\"ممتاز\""
+
+#~ msgctxt "/question:qc04_overall_scale/initial"
+#~ msgid "Poor"
+#~ msgstr "سيّئ"
+
+#~ msgctxt "/question:qc04_overall_scale/final"
+#~ msgid "Excellent"
+#~ msgstr "ممتاز"
+
+#~ msgctxt "/question:comments/text"
+#~ msgid ""
+#~ "Do you have any comments on your"
+#~ " experience of taking this survey "
+#~ "(optional)?"
+#~ msgstr "هل لديك أي تعليقات على تجربتك في هذا الاستطلاع(اختياري)؟"
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "Thank you for your time!<br/><br/>\n"
+#~ "Please take a moment to rate the"
+#~ " questionnaire you just took. This "
+#~ "information will be used to improve "
+#~ "our surveys.\n"
+#~ msgstr ""
+#~ "وصلنا إلى نهاية الاستطلاع. شكراً لك على مشاركتك.<br><br>\n"
+#~ "الرجاء إعطاءنا القليل من وقتك لتقييم "
+#~ "الاستطلاع الذي أتممته للتو، حيث ستستخدم"
+#~ " هذه المعلومات لتحسين استطلاعاتنا."
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "<style>\n"
+#~ "#mainNav {display:none !important;}\n"
+#~ "#deviceId {display:none}\n"
+#~ "#deviceId_2 {display:none}\n"
+#~ "</style>\n"
+#~ "<script>\n"
+#~ "ready(function () {\n"
+#~ "    $.when(\n"
+#~ "        $.getScript( "
+#~ "\"https://surveyfiles.yougov.com/static/MENA_Panel_Standard_Template/fingerprint.js\""
+#~ " ),\n"
+#~ "        $.getScript( "
+#~ "\"https://surveyfiles.yougov.com/static/MENA_Panel_Standard_Template/client.min.js\""
+#~ " ),\n"
+#~ "        $.Deferred(function( deferred ){\n"
+#~ "            $( deferred.resolve );\n"
+#~ "        })\n"
+#~ "    ).done(function(){\n"
+#~ "        $('#deviceId').find('input').val($.fingerprint());\n"
+#~ "        $('#deviceId_2').find('input').val((new "
+#~ "ClientJS()).getFingerprint());\n"
+#~ "        $('#next_button').click()\n"
+#~ "    }); \n"
+#~ "});\n"
+#~ "</script>\n"
+#~ msgstr ""
+
+#~ msgctxt "/logic/text"
+#~ msgid "Subject"
+#~ msgstr ""
+
+#~ msgctxt "/free_text/text"
+#~ msgid ""
+#~ "We are interested to hear what you"
+#~ " think about Arwa delight’s advertising."
+#~ " Please view the ad below and "
+#~ "click on next.\n"
+#~ msgstr ""
+#~ "نود معرفة رأيك في الإعلان الخاص "
+#~ "بأروى  ديلايت. يرجى مشاهدة الإعلان "
+#~ "التالي ثم الضفط على زر المتابعة. "
+
+#~ msgctxt "/question:personal_income/text"
+#~ msgid ""
+#~ "What is your monthly personal income?"
+#~ " By personal income we mean the "
+#~ "income earn from your job only."
+#~ msgstr ""
+#~ " ما هو الدخل الشهري الخاص بك؟ "
+#~ "نعني بالدخل الشهري أي الذي تحصل "
+#~ "عليه مقابل الوظيفة فقط. "
+
+#~ msgctxt "/question:personal_income/response:1/text"
+#~ msgid "Less than $70"
+#~ msgstr "أقل من 70 دولار  أمريكي"
+
+#~ msgctxt "/question:personal_income/response:2/text"
+#~ msgid "$71 to $200"
+#~ msgstr "71 إلى 200 دولار أمريكي "
+
+#~ msgctxt "/question:personal_income/response:3/text"
+#~ msgid "$201 to $400"
+#~ msgstr "201 إلى 400 دولار أمريكي "
+
+#~ msgctxt "/question:personal_income/response:4/text"
+#~ msgid "$401 to $800"
+#~ msgstr "401 إلى 800 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:5/text"
+#~ msgid "$801 to $1400"
+#~ msgstr "801 إلى 1400 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:6/text"
+#~ msgid "$1401 to $2,000"
+#~ msgstr "2,000 دولار أمريكي أو اكثر"
+
+#~ msgctxt "/question:personal_income/response:7/text"
+#~ msgid "$2,001 to $2,500"
+#~ msgstr "2,001 إلى 2,500 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:8/text"
+#~ msgid "$2,501 to 3,500"
+#~ msgstr "2,501 إلى  3,500 "
+
+#~ msgctxt "/question:personal_income/response:9/text"
+#~ msgid "$3,501 to $5,000"
+#~ msgstr "3,501 إلى 5,000 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:10/text"
+#~ msgid "$5,001 to $7,000"
+#~ msgstr "5,001 إلى 7,000 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:11/text"
+#~ msgid "$7,001 to $10,000"
+#~ msgstr "7,001 إلى 10,000 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:12/text"
+#~ msgid "$10,001 to $12,000"
+#~ msgstr "10,001 إلى 12,000 دولار أمريكي"
+
+#~ msgctxt "/question:personal_income/response:13/text"
+#~ msgid "Above $12,000"
+#~ msgstr " 12,000 دولار أمريكي أو اكثر"
+
+#~ msgctxt "/question:personal_income/response:14/text"
+#~ msgid "Currently unemployed"
+#~ msgstr "لا أعمل في الوقت الحالي "
+
+#~ msgctxt "/question:personal_income/response:15/text"
+#~ msgid "Prefer not to answer"
+#~ msgstr "أفضل عدم الإجابة "
+
+#~ msgctxt "/question:income/text"
+#~ msgid ""
+#~ "If you add up the income from "
+#~ "all sources, what is your average "
+#~ "NET household income per month? (Net "
+#~ "income means amounts as you receive "
+#~ "it, which is normally after tax or"
+#~ " Zakat and contributions to social "
+#~ "insurance and pension.):"
+#~ msgstr ""
+#~ "لو حسبت الدخل من جميع مصادره، ما"
+#~ " متوسط الدخلي الشهري الخاص بك؟ (نعني"
+#~ " بالدخل الشهري، أي المبلغ كماتحصل "
+#~ "عليه بعد الضرائب والزكاة واشتراك "
+#~ "التأمينات الاجتماعية والمعاشات):"
+
+#~ msgctxt "/question:income/response:1/text"
+#~ msgid "Less than $266"
+#~ msgstr "أقل من 266 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:2/text"
+#~ msgid "$266 to $532"
+#~ msgstr "266 إلى 532 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:3/text"
+#~ msgid "$533 to $799"
+#~ msgstr "533 إلى 799 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:4/text"
+#~ msgid "$800 to $1,065"
+#~ msgstr "800 إلى 1,065 دولار أمريكي "
+
+#~ msgctxt "/question:income/response:5/text"
+#~ msgid "$1,066 to $1,599"
+#~ msgstr "1,066 إلى 1,599 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:6/text"
+#~ msgid "$1,600 to $2,132"
+#~ msgstr "1,600 إلى 2,132 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:7/text"
+#~ msgid "$2,133 to $2,665"
+#~ msgstr "2,133 إلى 2,665 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:8/text"
+#~ msgid "$2,666 to $3,999"
+#~ msgstr "2,666 إلى 3,999 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:9/text"
+#~ msgid "$4,000 to $5,332"
+#~ msgstr "4,000 إلى 5,332 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:10/text"
+#~ msgid "$5,333 to $6,665"
+#~ msgstr "5,333 إلى 6,665 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:11/text"
+#~ msgid "$6,666 to $7,999"
+#~ msgstr "6,666 إلى 7,999 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:12/text"
+#~ msgid "$8,000 to $10,665"
+#~ msgstr "8,000 إلى 10,665 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:13/text"
+#~ msgid "$10,666 to $13,332"
+#~ msgstr "10,666 إلى 13,332 دولار أمريكي"
+
+#~ msgctxt "/question:income/response:14/text"
+#~ msgid "$13,333 or more"
+#~ msgstr "13,333 أو أكثر "
+
+#~ msgctxt "/question:income/response:16/text"
+#~ msgid "Don't know"
+#~ msgstr "لا أعرف "
+
+#~ msgctxt "/question:Q2/response:1/text"
+#~ msgid "Al Meera"
+#~ msgstr "الميرا"
+
+#~ msgctxt "/question:Q2/response:2/text"
+#~ msgid "Geant"
+#~ msgstr "جينت "
+
+#~ msgctxt "/question:Q2/response:3/text"
+#~ msgid "Family Food Center"
+#~ msgstr "مجمع التسوق العائلي"
+
+#~ msgctxt "/question:Q2/response:5/text"
+#~ msgid "Dasman Center"
+#~ msgstr "مجمع دسمان"
+
+#~ msgctxt "/question:Q2/response:6/text"
+#~ msgid "Safeer"
+#~ msgstr "سفير "
+
+#~ msgctxt "/question:Q2/response:7/text"
+#~ msgid "Shoprite"
+#~ msgstr "شوبرايت "
+
+#~ msgctxt "/question:Q2/response:8/text"
+#~ msgid "Sidra"
+#~ msgstr "سيدرا "
+
+#~ msgctxt "/question:Q2/response:10/text"
+#~ msgid "Safari"
+#~ msgstr "سفاري "
+
+#~ msgctxt "/question:Q2/response:11/text"
+#~ msgid "Monoprix"
+#~ msgstr "مونوبري"
+
+#~ msgctxt "/question:Q2/response:12/text"
+#~ msgid "Other supermarket"
+#~ msgstr "سوبرماركت آخر "
+
+#~ msgctxt "/question:Q2/response:13/text"
+#~ msgid "Discount store"
+#~ msgstr "متجر التخفيضات "
+
+#~ msgctxt "/question:Q2/response:14/text"
+#~ msgid "Petrol pump"
+#~ msgstr "محطة وقود "
+
+#~ msgctxt "/question:Q2/response:15/text"
+#~ msgid "Bakala / Local grocery store"
+#~ msgstr "بقالة "
+
+#~ msgctxt "/question:Q2/response:17/text"
+#~ msgid "Some-one else / family / friend bought for me"
+#~ msgstr "صديق / الأسرة / شخص آخر يشتري لي "
+
+#~ msgctxt "/question:Q3/response:1/text"
+#~ msgid "While having meals at home"
+#~ msgstr "أثناء تناول الوجبات في المنزل "
+
+#~ msgctxt "/question:Q3/response:2/text"
+#~ msgid "While watching TV/browsing the internet at home"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:3/text"
+#~ msgid "While studying at home"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:4/text"
+#~ msgid "While having meals outside home /restaurant"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:5/text"
+#~ msgid "While hanging out with friends/family"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:7/text"
+#~ msgid "Post/ During workout"
+#~ msgstr "إلى  3,workout"
+
+#~ msgctxt "/question:Q3/response:8/text"
+#~ msgid "Any time of the day as a refreshing drink"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:8/text"
+#~ msgid "Like a regular water at any time of the day"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q4/response:6/text"
+#~ msgid "Once a fortnightly"
+#~ msgstr "إلى  3,fortnightly"
+
+#~ msgctxt "/question:Q4/response:7/text"
+#~ msgid "Less often"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:B2d/response:2/text"
+#~ msgid "Sparkling ICE"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:B2d/response:3/text"
+#~ msgid "Propel"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q5/response:3/text"
+#~ msgid "Lemon"
+#~ msgstr "تلمسان"
+
+#~ msgctxt "/question:QC1a/text"
+#~ msgid "Do you remember seeing this ad recently?"
+#~ msgstr ""
+
+#~ msgctxt "/question:QC1b/text"
+#~ msgid "Can you remember which brand the ad was for?"
+#~ msgstr ""
+
+#~ msgctxt "/question:QC4/text"
+#~ msgid "How relevant is the ad for you?"
+#~ msgstr ""
+
+#~ msgctxt "/question:QC4/response:1/text"
+#~ msgid "Very relevant"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:QC4/response:2/text"
+#~ msgid "Somewhat relevant"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:QC4/response:3/text"
+#~ msgid "Neither relevant nor irrelevant"
+#~ msgstr ""
+
+#~ msgctxt "/question:QC4/response:4/text"
+#~ msgid "Somewhat irrelevant"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:QC4/response:5/text"
+#~ msgid "Not relevant at all"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:1/text"
+#~ msgid "At Breakfast"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:Q3/response:2/text"
+#~ msgid "Breakfast & Lunch"
+#~ msgstr "إلى  3,Lunch"
+
+#~ msgctxt "/question:Q3/response:3/text"
+#~ msgid "At Lunch"
+#~ msgstr "Punch"
+
+#~ msgctxt "/question:Q3/response:4/text"
+#~ msgid "Between lunch & evening"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q3/response:5/text"
+#~ msgid "At Evening"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:Q3/response:6/text"
+#~ msgid "Post Evening"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:Q3/response:9/text"
+#~ msgid "To get quick hydration"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q1/response:3/text"
+#~ msgid "Still Plain bottled/packaged water"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q1/response:4/text"
+#~ msgid "Sparkling Plain bottled/packaged water"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q1/response:5/text"
+#~ msgid "Fruit Flavoured still bottled/packaged water"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q1/response:6/text"
+#~ msgid "Fruit Flavoured sparkling bottled/packaged water"
+#~ msgstr ""
+
+#~ msgctxt "/question:Q6/text"
+#~ msgid ""
+#~ "How likely are you to try this "
+#~ "brand of “Fruit Flavoured bottle/packaged "
+#~ "water” in future? <br/> $picture2.raw"
+#~ msgstr ""
+
+#~ msgctxt "/question:QB4_10/text"
+#~ msgid "Is unique"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:QB4_11/text"
+#~ msgid "Makes me feel light after consumption"
+#~ msgstr ""
+
+#~ msgctxt "/question:B11/text"
+#~ msgid ""
+#~ "You mentioned that you have replaced "
+#~ "\"$B6_1\" with “Arwa Delight”. Please "
+#~ "let us know the reason for the "
+#~ "replacement?"
+#~ msgstr ""
+
+#~ msgctxt "/question:B2e/text"
+#~ msgid ""
+#~ "You previously mentioned you have tried"
+#~ " Arwa Delight. Can you tell us "
+#~ "if you purchased it for yourself "
+#~ "or for someone else?"
+#~ msgstr ""
+
+#~ msgctxt "/question:B2e/response:1/text"
+#~ msgid "For self"
+#~ msgstr "لا أعمل في الوقت الحالي"
+
+#~ msgctxt "/question:B2e/response:2/text"
+#~ msgid "For someone else"
+#~ msgstr "إلى  3,else"
+

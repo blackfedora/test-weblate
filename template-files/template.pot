@@ -3,8 +3,8 @@ msgid "String A"
 msgstr "This is string 'A'"
 
 #: string_b
-msgid "String B"
-msgstr "This is string 'b'"
+msgid "String C"
+msgstr "This is string 'c'"
 
 #: string_c
 #msgid "String C"

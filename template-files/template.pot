@@ -1,12 +1,11 @@
-msgctxt "Dialog title"
-msgid "Log in"
-msgstr ""
+#: string_a
+msgid "String A"
+msgstr "This is string 'A'"
 
-msgid "Oh well"
-msgstr ""
+#: string_b
+msgid "String B"
+msgstr "This is string 'b'"
 
-msgid "Cool!"
-msgstr ""
-
-msgid "Of course!"
-msgstr ""
+#: string_c
+#msgid "String C"
+#msgstr "This is string 'c'"

@@ -1,0 +1,7 @@
+#: string_a
+msgid "A"
+msgstr "String 'A'"
+
+#: string_b
+msgid "B"
+msgstr "String 'B'"

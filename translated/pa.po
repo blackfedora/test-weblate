@@ -5,8 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2020-05-14 13:34+0000\n"
 "PO-Revision-Date: 2020-05-14 13:36+0000\n"
 "Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
-"Language-Team: Punjabi <http://weblate.example.com/projects/this/"
-"actual-test-comp/pa/>\n"
+"Language-Team: Punjabi <http://weblate.example.com/projects/this/actual-test-"
+"comp/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,52 +14,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.0.4\n"
 
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of user names."
-msgstr "lolz i dont know this language."
+#: string_a
+msgid "String A"
+msgstr "This is string 'A'"
 
-#: modules/user/views_handler_filter_user_name.inc:112
-msgid "Unable to find user: @users"
-msgid_plural "Unable to find users: @users"
-msgstr[0] ""
-msgstr[1] ""
+#: string_b
+#, fuzzy
+#| msgid "String A"
+msgid "String C"
+msgstr "This is string 'A'"
 
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of two user names."
-msgstr ""
+#~ msgid "String B"
+#~ msgstr "This is string 'b'"
 
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of three user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of four user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of five user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of six user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of seven user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of eight user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of nine user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of ten user names."
-msgstr ""
-
-#: modules/user/views_handler_filter_user_name.inc:29
-msgid "Enter a comma separated list of eleven user names."
-msgstr ""
+#~ msgid "Enter a comma separated list of user names."
+#~ msgstr "lolz i dont know this language."

@@ -1,0 +1,2757 @@
+# Translations template for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-01-03 05:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: /question:lingua/text:1
+msgctxt "/question:lingua/text"
+msgid "$lang_qText.raw"
+msgstr "$lang_qText.raw"
+
+#: /question:languagepreference/text:1
+msgctxt "/question:languagepreference/text"
+msgid "$lang_qText.raw"
+msgstr "$lang_qText.raw"
+
+#: /question:languagepreference/response:1/text:1
+msgctxt "/question:languagepreference/response:1/text"
+msgid "English"
+msgstr "English"
+
+#: /question:languagepreference/response:2/text:1
+msgctxt "/question:languagepreference/response:2/text"
+msgid "Bahasa Indonesia"
+msgstr "Bahasa Indonesia"
+
+#: /question:languagepreference/response:3/text:1
+msgctxt "/question:languagepreference/response:3/text"
+msgid "繁體中文"
+msgstr "繁體中文"
+
+#: /question:languagepreference/response:4/text:1
+msgctxt "/question:languagepreference/response:4/text"
+msgid "简体中文"
+msgstr "简体中文"
+
+#: /question:languagepreference/response:5/text:1
+msgctxt "/question:languagepreference/response:5/text"
+msgid "ภาษาไทย"
+msgstr "ภาษาไทย"
+
+#: /question:languagepreference/response:6/text:1
+msgctxt "/question:languagepreference/response:6/text"
+msgid "Bahasa Melayu"
+msgstr "Bahasa Melayu"
+
+#: /question:languagepreference/response:7/text:1
+msgctxt "/question:languagepreference/response:7/text"
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: /question:languagepreference/response:8/text:1
+msgctxt "/question:languagepreference/response:8/text"
+msgid "Tiếng Việt"
+msgstr "Tiếng Việt"
+
+#: /question:languagepreference/response:9/text:1
+msgctxt "/question:languagepreference/response:9/text"
+msgid "한국어"
+msgstr "한국어"
+
+#: /question:start_survey/text:1
+msgctxt "/question:start_survey/text"
+msgid "start the survey first time"
+msgstr "start the survey first time"
+
+#: /question:start_survey/response:1/text:1
+msgctxt "/question:start_survey/response:1/text"
+msgid "Yes"
+msgstr "Yes"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"<p style = \"color:red; font-size:150%; text-align:center;\">You must set"
+" the variable <b>speeder_duration</b> in order for the <em>Speeders "
+"Module</em> to work properly!</p>\n"
+msgstr ""
+"<p style = \"color:red; font-size:150%; text-align:center;\">You must set"
+" the variable <b>speeder_duration</b> in order for the <em>Speeders "
+"Module</em> to work properly!</p>\n"
+
+#: /question:vendor/text:1
+msgctxt "/question:vendor/text"
+msgid "Vendor"
+msgstr "Vendor"
+
+#: /question:vendor/response:1/text:1
+msgctxt "/question:vendor/response:1/text"
+msgid "YouGov"
+msgstr "YouGov"
+
+#: /question:vendor/response:2/text:1
+msgctxt "/question:vendor/response:2/text"
+msgid "Internal database PESOLKELLY"
+msgstr ""
+
+#: /question:vendor/response:3/text:1
+msgctxt "/question:vendor/response:3/text"
+msgid "Vendor 2"
+msgstr "Vendor 2"
+
+#: /question:vendor/response:4/text:1
+msgctxt "/question:vendor/response:4/text"
+msgid "Vendor 3"
+msgstr "Vendor 3"
+
+#: /question:vendor/response:5/text:1
+msgctxt "/question:vendor/response:5/text"
+msgid "Vendor 4"
+msgstr "Vendor 4"
+
+#: /question:sampletype/text:1
+msgctxt "/question:sampletype/text"
+msgid "Sample type"
+msgstr ""
+
+#: /question:sampletype/response:1/text:1
+msgctxt "/question:sampletype/response:1/text"
+msgid "YouGov Panel Sample"
+msgstr ""
+
+#: /question:sampletype/response:2/text:1
+msgctxt "/question:sampletype/response:2/text"
+msgid "Client Sample - Internal database PESOLKELLY"
+msgstr ""
+
+#: /question:hcountry/text:1
+msgctxt "/question:hcountry/text"
+msgid "Country"
+msgstr ""
+
+#: /question:hcountry/response:1/text:1
+msgctxt "/question:hcountry/response:1/text"
+msgid "SG (EN)"
+msgstr ""
+
+#: /question:hcountry/response:2/text:1
+msgctxt "/question:hcountry/response:2/text"
+msgid "AU (EN)"
+msgstr ""
+
+#: /question:hcountry/response:3/text:1
+msgctxt "/question:hcountry/response:3/text"
+msgid "NZ (EN)"
+msgstr ""
+
+#: /question:hcountry/response:4/text:1
+msgctxt "/question:hcountry/response:4/text"
+msgid "IN (EN)"
+msgstr ""
+
+#: /question:hcountry/response:5/text:1
+msgctxt "/question:hcountry/response:5/text"
+msgid "MY (EN, MS)"
+msgstr ""
+
+#: /question:hcountry/response:6/text:1
+msgctxt "/question:hcountry/response:6/text"
+msgid "ID (ID)"
+msgstr ""
+
+#: /question:hcountry/response:7/text:1
+msgctxt "/question:hcountry/response:7/text"
+msgid "KR (KO)"
+msgstr ""
+
+#: /question:hcountry/response:8/text:1
+msgctxt "/question:hcountry/response:8/text"
+msgid "TH (TH)"
+msgstr ""
+
+#: /question:hcountry/response:9/text:1
+msgctxt "/question:hcountry/response:9/text"
+msgid "VN (VI)"
+msgstr ""
+
+#: /question:hcountry/response:10/text:1
+msgctxt "/question:hcountry/response:10/text"
+msgid "CN (SC)"
+msgstr ""
+
+#: /question:hcountry/response:11/text:1
+msgctxt "/question:hcountry/response:11/text"
+msgid "HK (TC)"
+msgstr ""
+
+#: /question:hcountry/response:12/text:1
+msgctxt "/question:hcountry/response:12/text"
+msgid "TW (TC)"
+msgstr ""
+
+#: /question:birthyear/text:1
+msgctxt "/question:birthyear/text"
+msgid "Which year were you born?"
+msgstr "กรุณาระบุปีเกิดของคุณเป็น ค.ศ.?"
+
+#: /question:agegroup1/text:1
+msgctxt "/question:agegroup1/text"
+msgid "Age group (recoded)"
+msgstr "Age group (recoded)"
+
+#: /question:agegroup1/response:1/text:1
+msgctxt "/question:agegroup1/response:1/text"
+msgid "18 - 24"
+msgstr "18 - 24"
+
+#: /question:agegroup1/response:2/text:1
+msgctxt "/question:agegroup1/response:2/text"
+msgid "25 - 34"
+msgstr "25 - 34"
+
+#: /question:agegroup1/response:3/text:1
+msgctxt "/question:agegroup1/response:3/text"
+msgid "35 - 44"
+msgstr "35 - 44"
+
+#: /question:agegroup1/response:4/text:1
+msgctxt "/question:agegroup1/response:4/text"
+msgid "45 - 54"
+msgstr "45 - 54"
+
+#: /question:agegroup1/response:5/text:1
+msgctxt "/question:agegroup1/response:5/text"
+msgid "55 - 64"
+msgstr "55 - 64"
+
+#: /question:agegroup1/response:6/text:1
+msgctxt "/question:agegroup1/response:6/text"
+msgid "65+"
+msgstr "65+"
+
+#: /question:agegroup2/text:1
+msgctxt "/question:agegroup2/text"
+msgid "Age group (recoded)"
+msgstr "Age group (recoded)"
+
+#: /question:agegroup2/response:1/text:1
+msgctxt "/question:agegroup2/response:1/text"
+msgid "18 - 24"
+msgstr "18 - 24"
+
+#: /question:agegroup2/response:2/text:1
+msgctxt "/question:agegroup2/response:2/text"
+msgid "25 - 34"
+msgstr "25 - 34"
+
+#: /question:agegroup2/response:3/text:1
+msgctxt "/question:agegroup2/response:3/text"
+msgid "35 - 44"
+msgstr "35 - 44"
+
+#: /question:agegroup2/response:4/text:1
+msgctxt "/question:agegroup2/response:4/text"
+msgid "45 - 54"
+msgstr "45 - 54"
+
+#: /question:agegroup2/response:5/text:1
+msgctxt "/question:agegroup2/response:5/text"
+msgid "55+"
+msgstr "55+"
+
+#: /question:agegroup/text:1
+msgctxt "/question:agegroup/text"
+msgid "AGE GROUP - NOT SHOWN TO RESPONDENTS"
+msgstr ""
+
+#: /question:agegroup/response:1/text:1
+msgctxt "/question:agegroup/response:1/text"
+msgid "< 18"
+msgstr ""
+
+#: /question:agegroup/response:2/text:1
+msgctxt "/question:agegroup/response:2/text"
+msgid "18 - 34"
+msgstr ""
+
+#: /question:agegroup/response:3/text:1
+msgctxt "/question:agegroup/response:3/text"
+msgid "35 - 54"
+msgstr ""
+
+#: /question:agegroup/response:4/text:1
+msgctxt "/question:agegroup/response:4/text"
+msgid "55+"
+msgstr ""
+
+#: /question:lgbt_th_comp/text:1
+msgctxt "/question:lgbt_th_comp/text"
+msgid "LGBT (recoded)"
+msgstr "LGBT (recoded)"
+
+#: /question:lgbt_th_comp/response:1/text:1
+msgctxt "/question:lgbt_th_comp/response:1/text"
+msgid "Yes"
+msgstr "Yes"
+
+#: /question:lgbt_th_comp/response:2/text:1
+msgctxt "/question:lgbt_th_comp/response:2/text"
+msgid "No"
+msgstr "No"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"\n"
+"<p class=\"alert alert-error\">Please review your response then click the"
+" forward button to proceed.</p>\n"
+"\n"
+msgstr ""
+"\n"
+"<p class=\"alert alert-error\">กรุณาตรวจสอบคำตอบของคุณ "
+"และกดส่งเพื่อดำเนินการต่อ.</p>\n"
+"\n"
+
+#: /question:parent_yn_check/text:1
+msgctxt "/question:parent_yn_check/text"
+msgid "Are you a parent or guardian? Please select all that apply."
+msgstr "คุณเป็นพ่อแม่หรือผู้ปกครองใช่หรือไม่? กรุณาเลือกทุกข้อที่ใช่"
+
+#: /question:parent_yn_check/response:1/text:1
+msgctxt "/question:parent_yn_check/response:1/text"
+msgid "Yes, of at least one child younger than 18"
+msgstr "ใช่ ของเด็กอายุน้อยกว่า 18 ปี อย่างน้อยหนึ่งคน"
+
+#: /question:parent_yn_check/response:2/text:1
+msgctxt "/question:parent_yn_check/response:2/text"
+msgid "Yes, of at least one child 18 years old or older"
+msgstr "ใช่ ของเด็กอายุ 18 ปีหรือมากกว่า อย่างน้อยหนึ่งคน"
+
+#: /question:parent_yn_check/response:3/text:1
+msgctxt "/question:parent_yn_check/response:3/text"
+msgid "No, I am neither a parent or guardian"
+msgstr "ไม่ ฉันไม่ใช่ทั้งพ่อแม่หรือผู้ปกครอง"
+
+#: /question:parent_yn_check/response:98/text:1
+msgctxt "/question:parent_yn_check/response:98/text"
+msgid "Don't know/Prefer not to say"
+msgstr "ไม่ทราบ/ไม่ประสงค์ที่จะตอบ"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"<p style = \"color:red; font-size:150%; text-align:center;\">Hidden page "
+"to store HH data.<br/>This page will not be shown in live mode.</p>\n"
+msgstr ""
+"<p style = \"color:red; font-size:150%; text-align:center;\">Hidden page "
+"to store HH data.<br/>This page will not be shown in live mode.</p>\n"
+
+#: /question:household_size/text:1
+msgctxt "/question:household_size/text"
+msgid ""
+"How many people, including yourself, are there in your household? Please "
+"include both adults and children."
+msgstr ""
+"How many people, including yourself, are there in your household? Please "
+"include both adults and children."
+
+#: /question:household_size/response:1/text:1
+msgctxt "/question:household_size/response:1/text"
+msgid "1"
+msgstr "1"
+
+#: /question:household_size/response:2/text:1
+msgctxt "/question:household_size/response:2/text"
+msgid "2"
+msgstr "2"
+
+#: /question:household_size/response:3/text:1
+msgctxt "/question:household_size/response:3/text"
+msgid "3"
+msgstr "3"
+
+#: /question:household_size/response:4/text:1
+msgctxt "/question:household_size/response:4/text"
+msgid "4"
+msgstr "4"
+
+#: /question:household_size/response:5/text:1
+msgctxt "/question:household_size/response:5/text"
+msgid "5"
+msgstr "5"
+
+#: /question:household_size/response:6/text:1
+msgctxt "/question:household_size/response:6/text"
+msgid "6"
+msgstr "6"
+
+#: /question:household_size/response:7/text:1
+msgctxt "/question:household_size/response:7/text"
+msgid "7"
+msgstr "7"
+
+#: /question:household_size/response:8/text:1
+msgctxt "/question:household_size/response:8/text"
+msgid "8 or more"
+msgstr "8 or more"
+
+#: /question:household_size/response:9/text:1
+msgctxt "/question:household_size/response:9/text"
+msgid "Don't know"
+msgstr "Don't know"
+
+#: /question:household_size/response:10/text:1
+msgctxt "/question:household_size/response:10/text"
+msgid "Prefer not to say"
+msgstr "Prefer not to say"
+
+#: /question:household_children/text:1
+msgctxt "/question:household_children/text"
+msgid "How many of the people in your household are under 18?"
+msgstr "How many of the people in your household are under 18?"
+
+#: /question:household_children/response:1/text:1
+msgctxt "/question:household_children/response:1/text"
+msgid "0"
+msgstr "0"
+
+#: /question:household_children/response:2/text:1
+msgctxt "/question:household_children/response:2/text"
+msgid "1"
+msgstr "1"
+
+#: /question:household_children/response:3/text:1
+msgctxt "/question:household_children/response:3/text"
+msgid "2"
+msgstr "2"
+
+#: /question:household_children/response:4/text:1
+msgctxt "/question:household_children/response:4/text"
+msgid "3"
+msgstr "3"
+
+#: /question:household_children/response:5/text:1
+msgctxt "/question:household_children/response:5/text"
+msgid "4"
+msgstr "4"
+
+#: /question:household_children/response:6/text:1
+msgctxt "/question:household_children/response:6/text"
+msgid "5 or more"
+msgstr "5 or more"
+
+#: /question:household_children/response:98/text:1
+msgctxt "/question:household_children/response:98/text"
+msgid "Don't know"
+msgstr "Don't know"
+
+#: /question:household_children/response:96/text:1
+msgctxt "/question:household_children/response:96/text"
+msgid "Prefer not to say"
+msgstr "Prefer not to say"
+
+#: /question:household_children_resp/text:1
+msgctxt "/question:household_children_resp/text"
+msgid ""
+"Of those children aged under 18 in your household, for how many are you "
+"directly responsible (i.e., you are their parent or guardian)?"
+msgstr ""
+"Of those children aged under 18 in your household, for how many are you "
+"directly responsible (i.e., you are their parent or guardian)?"
+
+#: /question:household_children_resp/response:1/text:1
+msgctxt "/question:household_children_resp/response:1/text"
+msgid "0"
+msgstr "0"
+
+#: /question:household_children_resp/response:2/text:1
+msgctxt "/question:household_children_resp/response:2/text"
+msgid "1"
+msgstr "1"
+
+#: /question:household_children_resp/response:3/text:1
+msgctxt "/question:household_children_resp/response:3/text"
+msgid "2"
+msgstr "2"
+
+#: /question:household_children_resp/response:4/text:1
+msgctxt "/question:household_children_resp/response:4/text"
+msgid "3"
+msgstr "3"
+
+#: /question:household_children_resp/response:5/text:1
+msgctxt "/question:household_children_resp/response:5/text"
+msgid "4"
+msgstr "4"
+
+#: /question:household_children_resp/response:6/text:1
+msgctxt "/question:household_children_resp/response:6/text"
+msgid "5 or more"
+msgstr "5 or more"
+
+#: /question:household_children_resp/response:98/text:1
+msgctxt "/question:household_children_resp/response:98/text"
+msgid "Don't know"
+msgstr "Don't know"
+
+#: /question:household_children_resp/response:96/text:1
+msgctxt "/question:household_children_resp/response:96/text"
+msgid "Prefer not to say"
+msgstr "Prefer not to say"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"<div class=\"alert alert-error\">Dear Sir/Ma'am, you have declared that "
+"you have had grandchild(ren) were under 16 yo, which is very unlikely to "
+"be true. You might have mistakenly selected your answer. Please do ensure"
+" if you have properly selected your intended answer before proceeding to "
+"the next page.</div>\n"
+msgstr ""
+"<div class=\"alert alert-error\">จากที่คุณให้ข้อมูลว่า "
+"คุณมีหลานที่อายุน้อยกว่า 16 ปีนั้น ไม่น่าจะเป็นคำตอบที่ถูกต้อง "
+"คุณอาจจะเลือกคำตอบผิด โปรดตรวจสอบคำตอบของคุณ "
+"และเลือกคำตอบที่ถูกต้องก่อนไปหน้าถัดไป</div>\n"
+
+#: /question:S4/text:1
+msgctxt "/question:S4/text"
+msgid "Which of the following best describes your current employment status?"
+msgstr "ข้อใดต่อไปนี้ตรงกับสถานะการทำงานในปัจจุบันของคุณมากที่สุด"
+
+#: /question:S4/response:1/text:1
+msgctxt "/question:S4/response:1/text"
+msgid "Permanent full time"
+msgstr "ทำงานประจำ เต็มเวลา"
+
+#: /question:S4/response:2/text:1
+msgctxt "/question:S4/response:2/text"
+msgid "Permanent part time"
+msgstr "ทำงานประจำ แบบพาร์ทไทม์"
+
+#: /question:S4/response:3/text:1
+msgctxt "/question:S4/response:3/text"
+msgid "Contract full time"
+msgstr "ทำงานเต็มเวลา แบบสัญญาจ้าง"
+
+#: /question:S4/response:4/text:1
+msgctxt "/question:S4/response:4/text"
+msgid "Contract part time"
+msgstr "ทำงานพาร์ทไทม์ แบบสัญญาจ้าง"
+
+#: /question:S4/response:5/text:1
+msgctxt "/question:S4/response:5/text"
+msgid "Temporary"
+msgstr "ทำงานชั่วคราว"
+
+#: /question:S4/response:6/text:1
+msgctxt "/question:S4/response:6/text"
+msgid "Retired"
+msgstr "เกษียณ"
+
+#: /question:S4/response:7/text:1
+msgctxt "/question:S4/response:7/text"
+msgid "Unemployed"
+msgstr "ว่างงาน"
+
+#: /question:S4/response:8/text:1
+msgctxt "/question:S4/response:8/text"
+msgid "Not working"
+msgstr "ไม่ได้ทำงาน"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"The survey has already been filled with the required number of responses."
+" We hope to hear from you again on future surveys and learn more about "
+"your views of brands, products, and industries. All the best! <br/><br/> "
+"Please click the button below to end the survey.\n"
+msgstr ""
+"แบบสำรวจนี้ได้รับการตอบคำถามตามจำนวนที่ต้องการแล้ว "
+"เราหวังว่าจะได้รับการตอบรับการทำแบบสำรวจจากคุณอีกครั้งในอนาคต "
+"และได้เรียนรู้ถึงทัศนะของคุณมากขึ้นเกี่ยวกับเกี่ยวกับแบรนด์ ผลิตภัณฑ์ "
+"และอุตสาหกรรม ขอให้โชคดี! <br/><br/> "
+"โปรดคลิกปุ่มด้านล่างเพื่อสิ้นสุดการสำรวจ"
+
+#: /question:S1/text:1
+msgctxt "/question:S1/text"
+msgid "What is your current occupation?"
+msgstr "ปัจจุบันคุณประกอบอาชีพใด"
+
+#: /question:S1/response:1/text:1
+msgctxt "/question:S1/response:1/text"
+msgid "Professional (e.g. doctor, lawyer)"
+msgstr "อาชีพที่ต้องใช้วิชาชีพ (เช่น แพทย์, นักกฎหมาย)"
+
+#: /question:S1/response:2/text:1
+msgctxt "/question:S1/response:2/text"
+msgid "Manager/ Executive"
+msgstr "ผู้จัดการ/ ผู้บริหาร"
+
+#: /question:S1/response:3/text:1
+msgctxt "/question:S1/response:3/text"
+msgid "Business owner/ Entrepreneur"
+msgstr "เจ้าของธุรกิจ/ เจ้าของกิจการ"
+
+#: /question:S1/response:4/text:1
+msgctxt "/question:S1/response:4/text"
+msgid "General staff (e.g. administration, office support, professional support)"
+msgstr "พนักงานทั่วไป (เช่น งานธุรการ, งานสนับสนุนสำนักงาน, งานสนับสนุนทางวิชาชีพ)"
+
+#: /question:S1/response:5/text:1
+msgctxt "/question:S1/response:5/text"
+msgid "Skilled manual worker (e.g. electrician, plumber, carpenter)"
+msgstr "ช่างฝีมือแรงงาน (เช่น ช่างไฟฟ้า, ช่างประปา, ช่างไม้)"
+
+#: /question:S1/response:6/text:1
+msgctxt "/question:S1/response:6/text"
+msgid ""
+"Semi-skilled or unskilled worker (e.g. farm labourer, construction "
+"worker, hotel maid, cleaner)"
+msgstr ""
+"ช่างฝีมือกึ่งแรงงานหรือแรงงานไม่มีฝีมือ (เช่น คนงานในไร่, คนงานก่อสร้าง, "
+"แม่บ้านในโรงแรม, พนักงานทำความสะอาด)"
+
+#: /question:S1/response:7/text:1
+msgctxt "/question:S1/response:7/text"
+msgid "Freelancer"
+msgstr "ผู้ประกอบอาชีพอิสระ"
+
+#: /question:S1/response:97/text:1
+msgctxt "/question:S1/response:97/text"
+msgid "Others"
+msgstr "อื่น ๆ"
+
+#: /logic/text:1
+msgctxt "/logic/text"
+msgid "unemployed"
+msgstr "ว่างงาน"
+
+#: /logic/text:1
+msgctxt "/logic/text"
+msgid "not working"
+msgstr "ไม่ได้ทำงาน"
+
+#: /question:S3/text:1
+msgctxt "/question:S3/text"
+msgid "You mentioned that you are $pipelower. Which of these applies to you?"
+msgstr "คุณบอกว่าคุณเป็น $pipelower ข้อใดต่อไปนี้ตรงกับคุณ"
+
+#: /question:S3/response:1/text:1
+msgctxt "/question:S3/response:1/text"
+msgid "I am currently looking for a job"
+msgstr "ปัจจุบันฉันกำลังมองหางานอยู่"
+
+#: /question:S3/response:2/text:1
+msgctxt "/question:S3/response:2/text"
+msgid "I plan to look for a job within the next 1 year"
+msgstr "ฉันวางแผนว่าจะหางานในอีก 1 ปีข้างหน้า"
+
+#: /question:S3/response:3/text:1
+msgctxt "/question:S3/response:3/text"
+msgid "I am <u>not</u> looking for a job within the next 1 year"
+msgstr "ฉัน<u>ไม่ได้</u>วางแผนว่าจะหางานในอีก 1 ปีข้างหน้า"
+
+#: /question:S1A/text:1
+msgctxt "/question:S1A/text"
+msgid "Employment - NOT SHOWN TO RESPONDENTS"
+msgstr ""
+
+#: /question:S1A/response:1/text:1
+msgctxt "/question:S1A/response:1/text"
+msgid "Employed"
+msgstr ""
+
+#: /question:S1A/response:2/text:1
+msgctxt "/question:S1A/response:2/text"
+msgid "Unemployed"
+msgstr ""
+
+#: /question:S5/text:1
+msgctxt "/question:S5/text"
+msgid "What kind of organisation do you work for?"
+msgstr "คุณทำงานให้กับองค์กรประเภทใด "
+
+#: /question:S5/response:1/text:1
+msgctxt "/question:S5/response:1/text"
+msgid "Private sector – profit-seeking (e.g. public limited company, partnership)"
+msgstr "ภาคเอกชน - แสวงหากำไร (เช่น บริษัทจำกัดมหาชน ห้างหุ้นส่วน)"
+
+#: /question:S5/response:2/text:1
+msgctxt "/question:S5/response:2/text"
+msgid ""
+"Public sector – government owned or funded (e.g. civil service, local "
+"government, university)"
+msgstr ""
+"ภาครัฐบาล - รัฐบาลเป็นเจ้าของหรือให้เงินทุน (เช่น บริการของรัฐ "
+"หน่วยงานรัฐบาลในท้องถิ่น มหาวิทยาลัย)"
+
+#: /question:S5/response:3/text:1
+msgctxt "/question:S5/response:3/text"
+msgid ""
+"Others – non-profit, non-governmental (e.g. charity, NGO, social "
+"enterprise)"
+msgstr ""
+"อื่น ๆ - ไม่แสวงหากำไร ไม่เกี่ยวข้องกับรัฐบาล (เช่น องค์กรการกุศล "
+"องค์กรนอกภาครัฐ องค์กรเพื่อสังคม)"
+
+#: /question:S5/response:98/text:1
+msgctxt "/question:S5/response:98/text"
+msgid "Don't know"
+msgstr "ไม่ทราบ"
+
+#: /question:S5/response:99/text:1
+msgctxt "/question:S5/response:99/text"
+msgid "Not applicable"
+msgstr "ไม่เกี่ยวข้อง"
+
+#: /question:S6/text:1
+msgctxt "/question:S6/text"
+msgid ""
+"Regardless of the particular job that you do, in what industry does your "
+"company work?"
+msgstr "บริษัทที่คุณทำงานอยู่ในอุตสาหกรรมใด ไม่ว่าคุณจะทำงานใดก็ตาม"
+
+#: /question:S6/response:1/text:1
+msgctxt "/question:S6/response:1/text"
+msgid "Accounting"
+msgstr "การบัญชี"
+
+#: /question:S6/response:2/text:1
+msgctxt "/question:S6/response:2/text"
+msgid "Agriculture (farming, livestock)"
+msgstr "การเกษตร (การทำเรือกสวนไร่นา ปศุสัตว์)"
+
+#: /question:S6/response:3/text:1
+msgctxt "/question:S6/response:3/text"
+msgid "Airlines or air travel"
+msgstr "สายการบินหรือการเดินทางทางอากาศ"
+
+#: /question:S6/response:4/text:1
+msgctxt "/question:S6/response:4/text"
+msgid "Hotels or lodging"
+msgstr "โรงแรมหรือบริการที่พัก"
+
+#: /question:S6/response:5/text:1
+msgctxt "/question:S6/response:5/text"
+msgid "Other travel services"
+msgstr "บริการอื่นๆ เกี่ยวกับการเดินทาง"
+
+#: /question:S6/response:6/text:1
+msgctxt "/question:S6/response:6/text"
+msgid "Arts, entertainment, and recreation"
+msgstr "ศิลปะ ความบันเทิง และการสันทนาการ"
+
+#: /question:S6/response:7/text:1
+msgctxt "/question:S6/response:7/text"
+msgid "Business services (e.g. consulting, business or market research)"
+msgstr "บริการทางธุรกิจ (เช่น การให้คำปรึกษา การวิจัยธุรกิจหรือตลาด)"
+
+#: /question:S6/response:8/text:1
+msgctxt "/question:S6/response:8/text"
+msgid "Construction"
+msgstr "การก่อสร้าง"
+
+#: /question:S6/response:9/text:1
+msgctxt "/question:S6/response:9/text"
+msgid "Education"
+msgstr "การศึกษา"
+
+#: /question:S6/response:10/text:1
+msgctxt "/question:S6/response:10/text"
+msgid "Engineering, design, or architecture"
+msgstr "วิศวกรรม การออกแบบ หรือสถาปัตยกรรม"
+
+#: /question:S6/response:11/text:1
+msgctxt "/question:S6/response:11/text"
+msgid "Financial services (e.g. banking, brokerage & investment)"
+msgstr "บริการทางการเงิน (เช่น การธนาคาร, โบรกเกอร์ และการลงทุน)"
+
+#: /question:S6/response:12/text:1
+msgctxt "/question:S6/response:12/text"
+msgid "Insurance"
+msgstr "ประกันภัย"
+
+#: /question:S6/response:13/text:1
+msgctxt "/question:S6/response:13/text"
+msgid "Health or medical services"
+msgstr "บริการด้านสุขภาพและการแพทย์"
+
+#: /question:S6/response:14/text:1
+msgctxt "/question:S6/response:14/text"
+msgid "Law or legal services"
+msgstr "กฎหมายและบริการทางกฎหมาย"
+
+#: /question:S6/response:15/text:1
+msgctxt "/question:S6/response:15/text"
+msgid "Maintenance and repair"
+msgstr "การบำรุงรักษาและการซ่อมแซม"
+
+#: /question:S6/response:16/text:1
+msgctxt "/question:S6/response:16/text"
+msgid "Manufacturing"
+msgstr "การผลิต"
+
+#: /question:S6/response:17/text:1
+msgctxt "/question:S6/response:17/text"
+msgid "Media and communications"
+msgstr "สื่อและการสื่อสาร"
+
+#: /question:S6/response:18/text:1
+msgctxt "/question:S6/response:18/text"
+msgid "Natural resources (e.g. oil, mining, forestry)"
+msgstr "ทรัพยากรธรรมชาติ (เช่น น้ำมัน, การทำเหมือง, และการป่าไม้)"
+
+#: /question:S6/response:19/text:1
+msgctxt "/question:S6/response:19/text"
+msgid "Personal care and services"
+msgstr "การดูแลตัวเองและบริการต่างๆ"
+
+#: /question:S6/response:20/text:1
+msgctxt "/question:S6/response:20/text"
+msgid "Real estate"
+msgstr "อสังหาริมทรัพย์"
+
+#: /question:S6/response:21/text:1
+msgctxt "/question:S6/response:21/text"
+msgid "Restaurant services"
+msgstr "บริการร้านอาหาร"
+
+#: /question:S6/response:22/text:1
+msgctxt "/question:S6/response:22/text"
+msgid "Retail"
+msgstr "ร้านค้าปลีก"
+
+#: /question:S6/response:23/text:1
+msgctxt "/question:S6/response:23/text"
+msgid "Science"
+msgstr "วิทยาศาสตร์"
+
+#: /question:S6/response:24/text:1
+msgctxt "/question:S6/response:24/text"
+msgid "Technology services"
+msgstr "บริการด้านเทคโนโลยี"
+
+#: /question:S6/response:25/text:1
+msgctxt "/question:S6/response:25/text"
+msgid "Transport & Logistics"
+msgstr "การขนส่งและโลจิสติกส์"
+
+#: /question:S6/response:26/text:1
+msgctxt "/question:S6/response:26/text"
+msgid "Wholesaling"
+msgstr "การขายส่ง"
+
+#: /question:S6/response:97/text:1
+msgctxt "/question:S6/response:97/text"
+msgid "Other"
+msgstr "อื่น ๆ"
+
+#: /question:work_industry_A_new/text:1
+msgctxt "/question:work_industry_A_new/text"
+msgid "Industry- NOT SHOWN TO RESPONDENTS"
+msgstr "Industry- NOT SHOWN TO RESPONDENTS"
+
+#: /question:work_industry_A_new/response:1/text:1
+msgctxt "/question:work_industry_A_new/response:1/text"
+msgid "Industrial & Trades"
+msgstr "Industrial & Trades"
+
+#: /question:work_industry_A_new/response:2/text:1
+msgctxt "/question:work_industry_A_new/response:2/text"
+msgid "Government"
+msgstr "Government"
+
+#: /question:work_industry_A_new/response:3/text:1
+msgctxt "/question:work_industry_A_new/response:3/text"
+msgid "Science"
+msgstr "Science"
+
+#: /question:work_industry_A_new/response:4/text:1
+msgctxt "/question:work_industry_A_new/response:4/text"
+msgid "Healthcare"
+msgstr "Healthcare"
+
+#: /question:work_industry_A_new/response:5/text:1
+msgctxt "/question:work_industry_A_new/response:5/text"
+msgid "Banking & Finance"
+msgstr "Banking & Finance"
+
+#: /question:work_industry_A_new/response:6/text:1
+msgctxt "/question:work_industry_A_new/response:6/text"
+msgid "Office support"
+msgstr "Office support"
+
+#: /question:work_industry_A_new/response:7/text:1
+msgctxt "/question:work_industry_A_new/response:7/text"
+msgid "Other"
+msgstr "Other"
+
+#: /question:S7/text:1
+msgctxt "/question:S7/text"
+msgid ""
+"What level of management responsibility do you hold in your current "
+"position?"
+msgstr "จากตำแหน่งของคุณในปัจจุบัน คุณมีหน้าที่ความรับผิดชอบด้านการบริหารในระดับใด"
+
+#: /question:S7/response:1/text:1
+msgctxt "/question:S7/response:1/text"
+msgid "Owner/ Proprietor"
+msgstr "เจ้าของ/ ผู้ประกอบการ"
+
+#: /question:S7/response:2/text:1
+msgctxt "/question:S7/response:2/text"
+msgid "Partner"
+msgstr "หุ้นส่วน"
+
+#: /question:S7/response:3/text:1
+msgctxt "/question:S7/response:3/text"
+msgid "Chairperson"
+msgstr "ประธาน"
+
+#: /question:S7/response:4/text:1
+msgctxt "/question:S7/response:4/text"
+msgid "Chief Executive"
+msgstr "หัวหน้าเจ้าหน้าที่บริหาร"
+
+#: /question:S7/response:5/text:1
+msgctxt "/question:S7/response:5/text"
+msgid "Managing Director"
+msgstr "กรรมการผู้จัดการ"
+
+#: /question:S7/response:6/text:1
+msgctxt "/question:S7/response:6/text"
+msgid "Non Executive Director"
+msgstr "กรรมการที่ไม่มีอำนาจบริหาร"
+
+#: /question:S7/response:7/text:1
+msgctxt "/question:S7/response:7/text"
+msgid "Other board level Director"
+msgstr "กรรมการระดับบอร์ดบริหารอื่น ๆ"
+
+#: /question:S7/response:8/text:1
+msgctxt "/question:S7/response:8/text"
+msgid "Director below board level"
+msgstr "กรรมการที่ต่ำกว่าระดับบอร์ดบริหาร"
+
+#: /question:S7/response:9/text:1
+msgctxt "/question:S7/response:9/text"
+msgid "Senior manager"
+msgstr "ผู้จัดการระดับสูง"
+
+#: /question:S7/response:10/text:1
+msgctxt "/question:S7/response:10/text"
+msgid "Middle manager"
+msgstr "ผู้จัดการระดับกลาง"
+
+#: /question:S7/response:11/text:1
+msgctxt "/question:S7/response:11/text"
+msgid "Junior manager/ team leader/ supervisor"
+msgstr "ผู้จัดการระดับล่าง/ หัวหน้าทีม/ หัวหน้างาน"
+
+#: /question:S7/response:97/text:1
+msgctxt "/question:S7/response:97/text"
+msgid "Other"
+msgstr "อื่น ๆ"
+
+#: /question:S7/response:99/text:1
+msgctxt "/question:S7/response:99/text"
+msgid "Not applicable - I don't have any management responsibility"
+msgstr "ไม่เกี่ยวข้อง - ฉันไม่มีหน้าที่ความรับผิดชอบเกี่ยวกับการบริหาร"
+
+#: /question:S7A/text:1
+msgctxt "/question:S7A/text"
+msgid "Managers and above- NOT SHOWN TO RESPONDENTS"
+msgstr "Managers and above- NOT SHOWN TO RESPONDENTS"
+
+#: /question:S7A/response:1/text:1
+msgctxt "/question:S7A/response:1/text"
+msgid "Managers and above"
+msgstr "Managers and above"
+
+#: /question:S7A/response:2/text:1
+msgctxt "/question:S7A/response:2/text"
+msgid "Non-managerial"
+msgstr "Non-managerial"
+
+#: /question:S2/text:1
+msgctxt "/question:S2/text"
+msgid ""
+"How would you describe your role and responsibility when it comes to "
+"hiring staff in your team/ company/ business?"
+msgstr ""
+"ข้อใดต่อไปนี้ตรงกับบทบาทและหน้าที่ของคุณเกี่ยวกับการจ้างพนักงานในทีม/ "
+"บริษัท/ ธุรกิจของคุณ"
+
+#: /question:S2/response:1/text:1
+msgctxt "/question:S2/response:1/text"
+msgid "I am the key decision maker on staff hires"
+msgstr "ฉันเป็นผู้ตัดสินใจหลักเกี่ยวกับการจ้างพนักงาน"
+
+#: /question:S2/response:2/text:1
+msgctxt "/question:S2/response:2/text"
+msgid "I am one of the key decision makers on hiring staff"
+msgstr "ฉันเป็นหนึ่งในผู้ตัดสินใจหลักเกี่ยวกับการจ้างพนักงาน"
+
+#: /question:S2/response:3/text:1
+msgctxt "/question:S2/response:3/text"
+msgid ""
+"I have some influence and say on hiring staff, but not the key decision "
+"maker"
+msgstr "ฉันมีอิทธิพลและมีสิทธิมีเสียงในการจ้างพนักงาน แต่ไม่ใช่ผู้ตัดสินใจหลัก"
+
+#: /question:S2/response:4/text:1
+msgctxt "/question:S2/response:4/text"
+msgid "I have little or no impact on hiring staff"
+msgstr "ฉันมีอิทธิพลเพียงเล็กน้อยหรือไม่มีอิทธิพลต่อการจ้างพนักงานเลย"
+
+#: /question:S2AA/text:1
+msgctxt "/question:S2AA/text"
+msgid "Hiring decision makers - NOT SHOWN TO RESPONDENTS"
+msgstr "Hiring decision makers - NOT SHOWN TO RESPONDENTS"
+
+#: /question:S2AA/response:1/text:1
+msgctxt "/question:S2AA/response:1/text"
+msgid "Employer"
+msgstr "Employer"
+
+#: /question:S2AA/response:2/text:1
+msgctxt "/question:S2AA/response:2/text"
+msgid "Employee"
+msgstr "Employee"
+
+#: /question:S8/text:1
+msgctxt "/question:S8/text"
+msgid "In which country/ region do you currently reside?"
+msgstr "คุณพักอาศัยอยู่ในประเทศ/ภูมิภาคใดในปัจจุบันนี้?"
+
+#: /question:S8/response:1/text:1
+msgctxt "/question:S8/response:1/text"
+msgid "Australia"
+msgstr "ออสเตรเลีย"
+
+#: /question:S8/response:2/text:1
+msgctxt "/question:S8/response:2/text"
+msgid "Mainland China"
+msgstr "จีนแผ่นดินใหญ่"
+
+#: /question:S8/response:3/text:1
+msgctxt "/question:S8/response:3/text"
+msgid "Hong Kong SAR"
+msgstr "ฮ่องกง"
+
+#: /question:S8/response:4/text:1
+msgctxt "/question:S8/response:4/text"
+msgid "Malaysia"
+msgstr "มาเลเซีย"
+
+#: /question:S8/response:5/text:1
+msgctxt "/question:S8/response:5/text"
+msgid "Singapore"
+msgstr "สิงคโปร์"
+
+#: /question:S8/response:6/text:1
+msgctxt "/question:S8/response:6/text"
+msgid "Taiwan"
+msgstr "ไต้หวัน"
+
+#: /question:S8/response:7/text:1
+msgctxt "/question:S8/response:7/text"
+msgid "India"
+msgstr "อินเดีย"
+
+#: /question:S8/response:8/text:1
+msgctxt "/question:S8/response:8/text"
+msgid "Indonesia"
+msgstr "อินโดนีเซีย"
+
+#: /question:S8/response:9/text:1
+msgctxt "/question:S8/response:9/text"
+msgid "Thailand"
+msgstr "ไทย"
+
+#: /question:S8/response:10/text:1
+msgctxt "/question:S8/response:10/text"
+msgid "Vietnam"
+msgstr "เวียดนาม"
+
+#: /question:S8/response:11/text:1
+msgctxt "/question:S8/response:11/text"
+msgid "South Korea"
+msgstr "เกาหลีใต้"
+
+#: /question:S8/response:12/text:1
+msgctxt "/question:S8/response:12/text"
+msgid "New Zealand"
+msgstr "นิวซีแลนด์"
+
+#: /question:S8/response:97/text:1
+msgctxt "/question:S8/response:97/text"
+msgid "Other"
+msgstr "อื่นๆ"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid "...\n"
+msgstr "...\n"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"Thank you for agreeing to participate in this survey\n"
+"\n"
+"**Length of interview:  Approximately $loi minutes**\n"
+"**Prize: $points Points**\n"
+"\n"
+"Your views are important and more powerful than you think.\n"
+"\n"
+"Please use the ‘next’ button at the bottom of each page to navigate "
+"through the survey. \n"
+"Please do not use the arrow/progress button at the top of your browser.\n"
+msgstr ""
+"ขอขอบคุณสำหรับความร่วมมือ\n"
+"\n"
+"**ระยะเวลาการสัมภาษณ์: ประมาณ $loi นาที** \n"
+"**คะแนน: $points คะแนน** \n"
+"\n"
+"มุมมองของคุณสำคัญและทรงพลังมากกว่าที่คุณคิด\n"
+"โปรดใช้ปุ่ม 'ถัดไป' ในด้านท้ายของแต่ละหน้าเพื่อนำทางผ่านการสำรวจ \n"
+"โปรดอย่าใช้ปุ่มลูกศร/ดำเนินการ ที่ด้านบนของเบราว์เซอร์ของคุณ"
+
+#: /question:WYPK_1/text:1
+msgctxt "/question:WYPK_1/text"
+msgid ""
+"How long have you been working in your current company? Please select the"
+" option that best fits."
+msgstr "คุณทำงานในบริษัทปัจจุบันมานานเท่าใดแล้ว (กรุณาเลือกตัวเลือกที่ตรงที่สุด)"
+
+#: /question:WYPK_1/response:1/text:1
+msgctxt "/question:WYPK_1/response:1/text"
+msgid "Less than 6 months"
+msgstr "น้อยกว่า 6 เดือน"
+
+#: /question:WYPK_1/response:2/text:1
+msgctxt "/question:WYPK_1/response:2/text"
+msgid "7 to 11 months"
+msgstr "7 - 11 เดือน"
+
+#: /question:WYPK_1/response:3/text:1
+msgctxt "/question:WYPK_1/response:3/text"
+msgid "1 to 3 years"
+msgstr "1 - 3 ปี"
+
+#: /question:WYPK_1/response:4/text:1
+msgctxt "/question:WYPK_1/response:4/text"
+msgid "4 to 6 years"
+msgstr "4 - 6 ปี"
+
+#: /question:WYPK_1/response:5/text:1
+msgctxt "/question:WYPK_1/response:5/text"
+msgid "7 to 10 years"
+msgstr "7 - 10 ปี"
+
+#: /question:WYPK_1/response:6/text:1
+msgctxt "/question:WYPK_1/response:6/text"
+msgid "More than 10 years"
+msgstr "มากกว่า 10 ปี"
+
+#: /question:WYPK_1/response:7/text:1
+msgctxt "/question:WYPK_1/response:7/text"
+msgid "Don't know/ Not sure"
+msgstr "ไม่ทราบ / ไม่แน่ใจ"
+
+#: /question:WYPK_2/text:1
+msgctxt "/question:WYPK_2/text"
+msgid ""
+"How much longer do you see yourself working in your current company? "
+"Please select the option that best fits."
+msgstr ""
+"คุณคิดว่าตัวเองจะทำงานในบริษัทปัจจุบันอีกนานแค่ไหน "
+"(กรุณาเลือกตัวเลือกที่ตรงที่สุด)"
+
+#: /question:WYPK_2/response:1/text:1
+msgctxt "/question:WYPK_2/response:1/text"
+msgid "Less than 6 months"
+msgstr "น้อยกว่า 6 เดือน"
+
+#: /question:WYPK_2/response:2/text:1
+msgctxt "/question:WYPK_2/response:2/text"
+msgid "7 to 11 months"
+msgstr "7 - 11 เดือน"
+
+#: /question:WYPK_2/response:3/text:1
+msgctxt "/question:WYPK_2/response:3/text"
+msgid "1 to 3 years"
+msgstr "1 - 3 ปี"
+
+#: /question:WYPK_2/response:4/text:1
+msgctxt "/question:WYPK_2/response:4/text"
+msgid "4 to 6 years"
+msgstr "4 - 6 ปี"
+
+#: /question:WYPK_2/response:5/text:1
+msgctxt "/question:WYPK_2/response:5/text"
+msgid "7 to 10 years"
+msgstr "7 - 10 ปี"
+
+#: /question:WYPK_2/response:6/text:1
+msgctxt "/question:WYPK_2/response:6/text"
+msgid "More than 10 years"
+msgstr "มากกว่า 10 ปี"
+
+#: /question:WYPK_2/response:7/text:1
+msgctxt "/question:WYPK_2/response:7/text"
+msgid "Don't know/ Not sure"
+msgstr "ไม่ทราบ / ไม่แน่ใจ"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"Now, we will ask you questions about your company and your job role "
+"within the company.\n"
+msgstr "ต่อไปนี้ เราจะสอบถามเกี่ยวกับบริษัทและบทบาทการทำงานของคุณในบริษัท "
+
+#: /question:WYPK_4/text:1
+msgctxt "/question:WYPK_4/text"
+msgid ""
+"Thinking about your job role and its responsibilities, how happy or "
+"unhappy are you with your current <u>job role</u>?"
+msgstr ""
+"กรุณานึกถึงบทบาทการทำงานและหน้าที่ความรับผิดชอบของคุณ "
+"แล้วบอกเราว่าคุณพอใจหรือไม่พอใจกับ<u>บทบาทการทำงาน</u>ในปัจจุบันมากน้อยเพียงใด"
+
+#: /question:WYPK_4/response:1/text:1
+msgctxt "/question:WYPK_4/response:1/text"
+msgid "0 - Not at all happy"
+msgstr "0 - ไม่พอใจเลย"
+
+#: /question:WYPK_4/response:2/text:1
+msgctxt "/question:WYPK_4/response:2/text"
+msgid "1"
+msgstr "1"
+
+#: /question:WYPK_4/response:3/text:1
+msgctxt "/question:WYPK_4/response:3/text"
+msgid "2"
+msgstr "2"
+
+#: /question:WYPK_4/response:4/text:1
+msgctxt "/question:WYPK_4/response:4/text"
+msgid "3"
+msgstr "3"
+
+#: /question:WYPK_4/response:5/text:1
+msgctxt "/question:WYPK_4/response:5/text"
+msgid "4"
+msgstr "4"
+
+#: /question:WYPK_4/response:6/text:1
+msgctxt "/question:WYPK_4/response:6/text"
+msgid "5"
+msgstr "5"
+
+#: /question:WYPK_4/response:7/text:1
+msgctxt "/question:WYPK_4/response:7/text"
+msgid "6"
+msgstr "6"
+
+#: /question:WYPK_4/response:8/text:1
+msgctxt "/question:WYPK_4/response:8/text"
+msgid "7"
+msgstr "7"
+
+#: /question:WYPK_4/response:9/text:1
+msgctxt "/question:WYPK_4/response:9/text"
+msgid "8"
+msgstr "8"
+
+#: /question:WYPK_4/response:10/text:1
+msgctxt "/question:WYPK_4/response:10/text"
+msgid "9"
+msgstr "9"
+
+#: /question:WYPK_4/response:11/text:1
+msgctxt "/question:WYPK_4/response:11/text"
+msgid "10 - Extremely happy"
+msgstr "10 - พอใจอย่างมาก"
+
+#: /question:WYPK_5A/text:1
+msgctxt "/question:WYPK_5A/text"
+msgid ""
+"What are you <u>happy</u> about in your current job role? Select all that"
+" apply. <br/><br/>My role …"
+msgstr ""
+"คุณ<u>พอใจ</u>กับสิ่งใดบ้างในบทบาทการทำงานปัจจุบันของคุณ "
+"(เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บทบาทการทำงานของฉัน..."
+
+#: /question:WYPK_5A/response:1/text:1
+msgctxt "/question:WYPK_5A/response:1/text"
+msgid "gives me meaning"
+msgstr "ทำให้ฉันรู้สึกว่ามีความหมาย"
+
+#: /question:WYPK_5A/response:2/text:1
+msgctxt "/question:WYPK_5A/response:2/text"
+msgid "allows me to decide how my work should be done"
+msgstr "ทำให้ฉันตัดสินใจได้ว่าควรทำงานของตัวเองให้เสร็จได้อย่างไร"
+
+#: /question:WYPK_5A/response:3/text:1
+msgctxt "/question:WYPK_5A/response:3/text"
+msgid "allows me to be flexible with my work arrangements"
+msgstr "ทำให้ฉันเลือกวิธีการทำงานของฉันได้อย่างยืดหยุ่น"
+
+#: /question:WYPK_5A/response:4/text:1
+msgctxt "/question:WYPK_5A/response:4/text"
+msgid "offers me work-life balance"
+msgstr "สร้างสมดุลชีวิตการทำงานและชีวิตส่วนตัวให้กับฉัน"
+
+#: /question:WYPK_5A/response:5/text:1
+msgctxt "/question:WYPK_5A/response:5/text"
+msgid "provides me with the challenge I enjoy"
+msgstr "มีความท้าทายที่ฉันชอบ"
+
+#: /question:WYPK_5A/response:6/text:1
+msgctxt "/question:WYPK_5A/response:6/text"
+msgid "Dummy for the randomization"
+msgstr ""
+
+#: /question:WYPK_5A/response:7/text:1
+msgctxt "/question:WYPK_5A/response:7/text"
+msgid "allows me to utilise my core skill set"
+msgstr "ทำให้ฉันนำทักษะที่สำคัญมาประยุกต์ใช้ได้"
+
+#: /question:WYPK_5A/response:8/text:1
+msgctxt "/question:WYPK_5A/response:8/text"
+msgid "allows me to add value to the team"
+msgstr "ทำให้ฉันเพิ่มคุณค่าให้กับทีมได้"
+
+#: /question:WYPK_5A/response:9/text:1
+msgctxt "/question:WYPK_5A/response:9/text"
+msgid "is part of a successful and valued team"
+msgstr "เป็นส่วนหนึ่งของทีมที่มีคุณค่าและประสบความสำเร็จ"
+
+#: /question:WYPK_5A/response:10/text:1
+msgctxt "/question:WYPK_5A/response:10/text"
+msgid "pays me a salary that I am satisfied with"
+msgstr "ให้เงินเดือนที่ฉันพอใจ"
+
+#: /question:WYPK_5A/response:11/text:1
+msgctxt "/question:WYPK_5A/response:11/text"
+msgid "allows me to work with a manager whom I have a good relationship with"
+msgstr "ทำให้ฉันได้ทำงานกับผู้จัดการที่ฉันมีความสัมพันธ์ที่ดี"
+
+#: /question:WYPK_5A/response:12/text:1
+msgctxt "/question:WYPK_5A/response:12/text"
+msgid "offers me development opportunity"
+msgstr "มอบโอกาสในการพัฒนาตัวเองให้กับฉัน"
+
+#: /question:WYPK_5A/response:97/text:1
+msgctxt "/question:WYPK_5A/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_5A/response:99/text:1
+msgctxt "/question:WYPK_5A/response:99/text"
+msgid "None - there's nothing I am happy about in my job role"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้ฉันพอใจกับบทบาทการทำงานของตัวเอง"
+
+#: /question:WYPK_5B/text:1
+msgctxt "/question:WYPK_5B/text"
+msgid ""
+"What are you <u>unhappy</u> about in your current job role? Select all "
+"that apply. <br/><br/>My role …"
+msgstr ""
+"คุณ<u>ไม่พอใจ</u>กับสิ่งใดบ้างในบทบาทการทำงานปัจจุบันของคุณ "
+"(เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บทบาทการทำงานของฉัน..."
+
+#: /question:WYPK_5B/response:1/text:1
+msgctxt "/question:WYPK_5B/response:1/text"
+msgid "does not give me meaning"
+msgstr "ไม่ทำให้ฉันรู้สึกว่ามีความหมาย"
+
+#: /question:WYPK_5B/response:2/text:1
+msgctxt "/question:WYPK_5B/response:2/text"
+msgid "does not allow me to decide how my work should be done"
+msgstr "ไม่ทำให้ฉันตัดสินใจได้ว่าควรทำงานของตัวเองให้เสร็จได้อย่างไร"
+
+#: /question:WYPK_5B/response:3/text:1
+msgctxt "/question:WYPK_5B/response:3/text"
+msgid "does not allow me to be flexible with my work arrangements"
+msgstr "ทำให้ฉันไม่สามารถเลือกวิธีการทำงานของฉันได้อย่างยืดหยุ่น"
+
+#: /question:WYPK_5B/response:4/text:1
+msgctxt "/question:WYPK_5B/response:4/text"
+msgid "does not offer me work-life balance"
+msgstr "ไม่ได้สร้างสมดุลชีวิตการทำงานและชีวิตส่วนตัวให้กับฉัน"
+
+#: /question:WYPK_5B/response:5/text:1
+msgctxt "/question:WYPK_5B/response:5/text"
+msgid "is not challenging enough"
+msgstr "ไม่ท้าทายพอ"
+
+#: /question:WYPK_5B/response:6/text:1
+msgctxt "/question:WYPK_5B/response:6/text"
+msgid "is too challenging"
+msgstr "ท้าทายมากเกินไป"
+
+#: /question:WYPK_5B/response:7/text:1
+msgctxt "/question:WYPK_5B/response:7/text"
+msgid "does not allow me to utilise my core skill set"
+msgstr "ไม่ได้ทำให้ฉันนำทักษะที่สำคัญมาประยุกต์ใช้"
+
+#: /question:WYPK_5B/response:8/text:1
+msgctxt "/question:WYPK_5B/response:8/text"
+msgid "does not allow me to add value to the team"
+msgstr "ไม่ได้ทำให้ฉันเพิ่มคุณค่าให้กับทีมได้"
+
+#: /question:WYPK_5B/response:9/text:1
+msgctxt "/question:WYPK_5B/response:9/text"
+msgid "is not part of a successful and valued team"
+msgstr "ไม่ได้เป็นส่วนหนึ่งของทีมที่มีคุณค่าและประสบความสำเร็จ"
+
+#: /question:WYPK_5B/response:10/text:1
+msgctxt "/question:WYPK_5B/response:10/text"
+msgid "does not pay me a salary that I am satisfied with"
+msgstr "ไม่ได้ให้เงินเดือนที่ฉันพอใจ"
+
+#: /question:WYPK_5B/response:11/text:1
+msgctxt "/question:WYPK_5B/response:11/text"
+msgid ""
+"does not allow me to work with a manager whom I have a good relationship "
+"with"
+msgstr "ไม่ได้ทำให้ฉันได้ทำงานกับผู้จัดการที่ฉันมีความสัมพันธ์อันดี"
+
+#: /question:WYPK_5B/response:12/text:1
+msgctxt "/question:WYPK_5B/response:12/text"
+msgid "does not offer me development opportunity"
+msgstr "ไม่ได้ทำให้ฉันได้ทำงานกับผู้จัดการที่ฉันมีความสัมพันธ์ที่ดี"
+
+#: /question:WYPK_5B/response:97/text:1
+msgctxt "/question:WYPK_5B/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_5B/response:99/text:1
+msgctxt "/question:WYPK_5B/response:99/text"
+msgid "None - there's nothing I am unhappy about in my job role"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้ฉันไม่พอใจกับบทบาทการทำงานของตัวเอง"
+
+#: /question:WYPK_7/text:1
+msgctxt "/question:WYPK_7/text"
+msgid ""
+"Now, thinking about the company that you work for, how happy or unhappy "
+"are you working in your current <u>company</u>?"
+msgstr ""
+"ต่อไป ให้คุณนึกถึงบริษัทที่คุณทำงานอยู่ "
+"แล้วบอกเราว่าคุณพอใจหรือไม่พอใจกับบริษัทที่คุณทำงานอยู่ในปัจจุบันมากน้อยเพียงใด"
+" "
+
+#: /question:WYPK_7/response:1/text:1
+msgctxt "/question:WYPK_7/response:1/text"
+msgid "0 - Not at all happy"
+msgstr "0 - ไม่พอใจเลย"
+
+#: /question:WYPK_7/response:2/text:1
+msgctxt "/question:WYPK_7/response:2/text"
+msgid "1"
+msgstr "1"
+
+#: /question:WYPK_7/response:3/text:1
+msgctxt "/question:WYPK_7/response:3/text"
+msgid "2"
+msgstr "2"
+
+#: /question:WYPK_7/response:4/text:1
+msgctxt "/question:WYPK_7/response:4/text"
+msgid "3"
+msgstr "3"
+
+#: /question:WYPK_7/response:5/text:1
+msgctxt "/question:WYPK_7/response:5/text"
+msgid "4"
+msgstr "4"
+
+#: /question:WYPK_7/response:6/text:1
+msgctxt "/question:WYPK_7/response:6/text"
+msgid "5"
+msgstr "5"
+
+#: /question:WYPK_7/response:7/text:1
+msgctxt "/question:WYPK_7/response:7/text"
+msgid "6"
+msgstr "6"
+
+#: /question:WYPK_7/response:8/text:1
+msgctxt "/question:WYPK_7/response:8/text"
+msgid "7"
+msgstr "7"
+
+#: /question:WYPK_7/response:9/text:1
+msgctxt "/question:WYPK_7/response:9/text"
+msgid "8"
+msgstr "8"
+
+#: /question:WYPK_7/response:10/text:1
+msgctxt "/question:WYPK_7/response:10/text"
+msgid "9"
+msgstr "9"
+
+#: /question:WYPK_7/response:11/text:1
+msgctxt "/question:WYPK_7/response:11/text"
+msgid "10 - Extremely happy"
+msgstr "10 - พอใจอย่างมาก"
+
+#: /question:WYPK_8A/text:1
+msgctxt "/question:WYPK_8A/text"
+msgid ""
+"What are you <u>happy</u> about in regards to your current company? "
+"Select all that apply. <br/><br/>My company …"
+msgstr ""
+"คุณ<u>พอใจ</u>กับสิ่งใดบ้างเกี่ยวกับบริษัทที่คุณทำงานอยู่ในปัจจุบัน "
+"(เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บริษัทของฉัน..."
+
+#: /question:WYPK_8A/response:1/text:1
+msgctxt "/question:WYPK_8A/response:1/text"
+msgid "has a positive work culture"
+msgstr "มีวัฒนธรรมการทำงานที่ดี"
+
+#: /question:WYPK_8A/response:2/text:1
+msgctxt "/question:WYPK_8A/response:2/text"
+msgid "has a good reputation"
+msgstr "มีชื่อเสียงดีงาม"
+
+#: /question:WYPK_8A/response:3/text:1
+msgctxt "/question:WYPK_8A/response:3/text"
+msgid "has a vision I believe in"
+msgstr "มีวิสัยทัศน์ที่ฉันเชื่อมั่น"
+
+#: /question:WYPK_8A/response:4/text:1
+msgctxt "/question:WYPK_8A/response:4/text"
+msgid "treats me fairly"
+msgstr "ปฏิบัติต่อฉันอย่างยุติธรรม"
+
+#: /question:WYPK_8A/response:5/text:1
+msgctxt "/question:WYPK_8A/response:5/text"
+msgid "recognises the work that I do"
+msgstr "ยอมรับและชื่นชมผลงานของฉัน"
+
+#: /question:WYPK_8A/response:6/text:1
+msgctxt "/question:WYPK_8A/response:6/text"
+msgid "operates from a location I like"
+msgstr "ดำเนินธุรกิจในทำเลที่ฉันชอบ"
+
+#: /question:WYPK_8A/response:7/text:1
+msgctxt "/question:WYPK_8A/response:7/text"
+msgid "does work that I am proud of"
+msgstr "ทำงานที่ฉันภาคภูมิใจ"
+
+#: /question:WYPK_8A/response:8/text:1
+msgctxt "/question:WYPK_8A/response:8/text"
+msgid "offers a pleasant working environment"
+msgstr "มีสภาพแวดล้อมการทำงานที่น่าพอใจ"
+
+#: /question:WYPK_8A/response:9/text:1
+msgctxt "/question:WYPK_8A/response:9/text"
+msgid "offers good perks/ benefits"
+msgstr "ให้ผลตอบแทน/ สิทธิประโยชน์ที่ดี"
+
+#: /question:WYPK_8A/response:97/text:1
+msgctxt "/question:WYPK_8A/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_8A/response:99/text:1
+msgctxt "/question:WYPK_8A/response:99/text"
+msgid "None - there's nothing I am happy about my company"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้ฉันพอใจกับบริษัทของฉัน"
+
+#: /question:WYPK_8B/text:1
+msgctxt "/question:WYPK_8B/text"
+msgid ""
+"What are you <u>unhappy</u> about in regards to your current company? "
+"Select all that apply. <br/><br/>My company …"
+msgstr ""
+"คุณ<u>ไม่พอใจ</u>กับสิ่งใดบ้างเกี่ยวกับบริษัทที่คุณทำงานอยู่ในปัจจุบัน "
+"(เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บริษัทของฉัน..."
+
+#: /question:WYPK_8B/response:1/text:1
+msgctxt "/question:WYPK_8B/response:1/text"
+msgid "has a negative work culture"
+msgstr "มีวัฒนธรรมการทำงานที่ไม่ดี"
+
+#: /question:WYPK_8B/response:2/text:1
+msgctxt "/question:WYPK_8B/response:2/text"
+msgid "has a bad reputation"
+msgstr "มีชื่อเสียงเลวร้าย"
+
+#: /question:WYPK_8B/response:3/text:1
+msgctxt "/question:WYPK_8B/response:3/text"
+msgid "has a vision I don't believe in"
+msgstr "มีวิสัยทัศน์ที่ฉันไม่เชื่อมั่น"
+
+#: /question:WYPK_8B/response:4/text:1
+msgctxt "/question:WYPK_8B/response:4/text"
+msgid "treats me unfairly"
+msgstr "ปฏิบัติต่อฉันอย่างไม่ยุติธรรม"
+
+#: /question:WYPK_8B/response:5/text:1
+msgctxt "/question:WYPK_8B/response:5/text"
+msgid "does not recognise the work that I do"
+msgstr "ไม่ยอมรับและชื่นชมผลงานของฉัน"
+
+#: /question:WYPK_8B/response:6/text:1
+msgctxt "/question:WYPK_8B/response:6/text"
+msgid "does not operate from a location I like"
+msgstr "ไม่ได้ดำเนินธุรกิจในทำเลที่ฉันชอบ"
+
+#: /question:WYPK_8B/response:7/text:1
+msgctxt "/question:WYPK_8B/response:7/text"
+msgid "does work that I am not proud of"
+msgstr "ไม่ได้ทำงานที่ฉันภาคภูมิใจ"
+
+#: /question:WYPK_8B/response:8/text:1
+msgctxt "/question:WYPK_8B/response:8/text"
+msgid "offers an unpleasant working environment"
+msgstr "มีสภาพแวดล้อมการทำงานที่ไม่น่าพอใจ"
+
+#: /question:WYPK_8B/response:9/text:1
+msgctxt "/question:WYPK_8B/response:9/text"
+msgid "offers poor perks/ benefits"
+msgstr "ให้ผลตอบแทน/ สิทธิประโยชน์ที่ไม่น่าพอใจ"
+
+#: /question:WYPK_8B/response:97/text:1
+msgctxt "/question:WYPK_8B/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_8B/response:99/text:1
+msgctxt "/question:WYPK_8B/response:99/text"
+msgid "None - there's nothing I am unhappy about my company"
+msgstr "ไม่มี – ไม่มีสิ่งที่ทำให้ฉันไม่พอใจกับบริษัทของฉัน"
+
+#: /question:WYPK_6/text:1
+msgctxt "/question:WYPK_6/text"
+msgid ""
+"Which of the following aspects are important to you when reviewing/ "
+"selecting employment opportunities? Please rank your top 5 with 1 being  "
+"the most important aspect and so on."
+msgstr ""
+"เรื่องใดต่อไปนี้สำคุญกับคุณเมื่อคุณตรวจสอบ/คัดเลือกโอกาสในการทำงาน \n"
+"โปรดให้คะแนน 5 อันดับแรกของคุณ โดยที่ 1 เป็นด้านที่สำคัญที่สุดและอื่น ๆ"
+
+#: /question:WYPK_6/response:1/text:1
+msgctxt "/question:WYPK_6/response:1/text"
+msgid "A job role that gives me meaning"
+msgstr "บทบาทการทำงานที่ทำให้ฉันรู้สึกว่ามีความหมาย"
+
+#: /question:WYPK_6/response:2/text:1
+msgctxt "/question:WYPK_6/response:2/text"
+msgid "Being able to decide how my work should be done"
+msgstr "ทำให้ฉันตัดสินใจได้ว่าควรทำงานให้เสร็จได้อย่างไร"
+
+#: /question:WYPK_6/response:3/text:1
+msgctxt "/question:WYPK_6/response:3/text"
+msgid "Being able to be flexible with my work arrangements"
+msgstr "เลือกวิธีการทำงานของฉันได้อย่างยืดหยุ่น"
+
+#: /question:WYPK_6/response:4/text:1
+msgctxt "/question:WYPK_6/response:4/text"
+msgid "Achieving a work-life balance"
+msgstr "สร้างสมดุลชีวิตการทำงานและชีวิตส่วนตัวได้"
+
+#: /question:WYPK_6/response:5/text:1
+msgctxt "/question:WYPK_6/response:5/text"
+msgid "Having tasks that sufficiently challenge me"
+msgstr "มีงานที่ท้าทายมากพอ"
+
+#: /question:WYPK_6/response:6/text:1
+msgctxt "/question:WYPK_6/response:6/text"
+msgid "Being able to utilise my core skill set"
+msgstr "ทำให้ฉันนำทักษะที่สำคัญมาประยุกต์ใช้ได้"
+
+#: /question:WYPK_6/response:7/text:1
+msgctxt "/question:WYPK_6/response:7/text"
+msgid "Being able to add value to the team"
+msgstr "ทำให้ฉันเพิ่มคุณค่าให้กับทีมได้"
+
+#: /question:WYPK_6/response:8/text:1
+msgctxt "/question:WYPK_6/response:8/text"
+msgid "Being part of a successful and valued team"
+msgstr "ได้เป็นส่วนหนึ่งของทีมที่มีคุณค่าและประสบความสำเร็จ"
+
+#: /question:WYPK_6/response:9/text:1
+msgctxt "/question:WYPK_6/response:9/text"
+msgid "Having a salary that I am satisfied with"
+msgstr "ให้เงินเดือนที่ฉันพอใจ"
+
+#: /question:WYPK_6/response:10/text:1
+msgctxt "/question:WYPK_6/response:10/text"
+msgid "Being able to work with a manager whom I have a good relationship with"
+msgstr "ทำให้ฉันได้ทำงานกับผู้จัดการที่ฉันมีความสัมพันธ์อันดี"
+
+#: /question:WYPK_6/response:11/text:1
+msgctxt "/question:WYPK_6/response:11/text"
+msgid "Opportunities for career development"
+msgstr "โอกาสในการก้าวหน้าทางอาชีพ"
+
+#: /question:WYPK_6/response:12/text:1
+msgctxt "/question:WYPK_6/response:12/text"
+msgid "Working in a company with positive work culture"
+msgstr "การทำงานในบริษัทที่มีวัฒนธรรมการทำงานที่ดี"
+
+#: /question:WYPK_6/response:13/text:1
+msgctxt "/question:WYPK_6/response:13/text"
+msgid "Working in a company with a good reputation"
+msgstr "การทำงานในบริษัทที่มีชื่อเสียงดีงาม"
+
+#: /question:WYPK_6/response:14/text:1
+msgctxt "/question:WYPK_6/response:14/text"
+msgid "Working in a company with a vision I believe in"
+msgstr "การทำงานในบริษัทที่มีวิสัยทัศน์ที่ฉันเชื่อมั่น"
+
+#: /question:WYPK_6/response:15/text:1
+msgctxt "/question:WYPK_6/response:15/text"
+msgid "Being treated fairly"
+msgstr "การปฏิบัติต่อพนักงานอย่างยุติธรรม"
+
+#: /question:WYPK_6/response:16/text:1
+msgctxt "/question:WYPK_6/response:16/text"
+msgid "Getting recognized for my work"
+msgstr "การได้รับการยกย่องชมเชยผลงาน"
+
+#: /question:WYPK_6/response:17/text:1
+msgctxt "/question:WYPK_6/response:17/text"
+msgid "Company operates from a location I like"
+msgstr "บริษัทดำเนินธุรกิจอยู่ในทำเลที่ฉันชอบ"
+
+#: /question:WYPK_6/response:18/text:1
+msgctxt "/question:WYPK_6/response:18/text"
+msgid "Working in a company that I am proud of"
+msgstr "การทำงานในบริษัทที่ฉันภาคภูมิใจ"
+
+#: /question:WYPK_6/response:19/text:1
+msgctxt "/question:WYPK_6/response:19/text"
+msgid "Company offers a pleasant working environment"
+msgstr "บริษัทมีสภาพแวดล้อมการทำงานที่น่าพอใจ"
+
+#: /question:WYPK_6/response:20/text:1
+msgctxt "/question:WYPK_6/response:20/text"
+msgid "Company offers good perks/ benefits"
+msgstr "บริษัทให้ผลตอบแทน/สิทธิประโยชน์ที่ดี"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"Moving forward, we will ask you questions on what you think your "
+"employee(s) feel about their roles and the company.\n"
+msgstr ""
+"ต่อไป เราจะสอบถามว่าคุณคิดว่าพนักงานของคุณ "
+"รู้สึกอย่างไรเกี่ยวกับบทบาทการทำงานและบริษัทของพวกเขา"
+
+#: /question:WYPK_10/text:1
+msgctxt "/question:WYPK_10/text"
+msgid ""
+"Thinking about your employees' job role and their responsibilities, how "
+"happy or unhappy do you think your employees are with their current "
+"<u>job roles</u>?"
+msgstr ""
+"กรุณานึกถึงบทบาทการทำงานและหน้าที่ความรับผิดชอบของพนักงานของคุณ "
+"แล้วบอกเราว่าคุณคิดว่าพนักงานของคุณพอใจหรือไม่พอใจกับ<u>บทบาทการทำงาน</u>ในปัจจุบันมากน้อยเพียงใด"
+" "
+
+#: /question:WYPK_10/response:1/text:1
+msgctxt "/question:WYPK_10/response:1/text"
+msgid "0 - Not at all happy"
+msgstr "0 - ไม่พอใจเลย"
+
+#: /question:WYPK_10/response:2/text:1
+msgctxt "/question:WYPK_10/response:2/text"
+msgid "1"
+msgstr "1"
+
+#: /question:WYPK_10/response:3/text:1
+msgctxt "/question:WYPK_10/response:3/text"
+msgid "2"
+msgstr "2"
+
+#: /question:WYPK_10/response:4/text:1
+msgctxt "/question:WYPK_10/response:4/text"
+msgid "3"
+msgstr "3"
+
+#: /question:WYPK_10/response:5/text:1
+msgctxt "/question:WYPK_10/response:5/text"
+msgid "4"
+msgstr "4"
+
+#: /question:WYPK_10/response:6/text:1
+msgctxt "/question:WYPK_10/response:6/text"
+msgid "5"
+msgstr "5"
+
+#: /question:WYPK_10/response:7/text:1
+msgctxt "/question:WYPK_10/response:7/text"
+msgid "6"
+msgstr "6"
+
+#: /question:WYPK_10/response:8/text:1
+msgctxt "/question:WYPK_10/response:8/text"
+msgid "7"
+msgstr "7"
+
+#: /question:WYPK_10/response:9/text:1
+msgctxt "/question:WYPK_10/response:9/text"
+msgid "8"
+msgstr "8"
+
+#: /question:WYPK_10/response:10/text:1
+msgctxt "/question:WYPK_10/response:10/text"
+msgid "9"
+msgstr "9"
+
+#: /question:WYPK_10/response:11/text:1
+msgctxt "/question:WYPK_10/response:11/text"
+msgid "10 - Extremely happy"
+msgstr "10 - พอใจอย่างมาก"
+
+#: /question:WYPK_11A/text:1
+msgctxt "/question:WYPK_11A/text"
+msgid ""
+"What do you think makes your employees <u>happy</u> about in their "
+"current job roles? Select all that apply. <br/><br/>Their roles …"
+msgstr ""
+"คุณคิดว่าอะไรทำให้พนักงานของคุณ<u>พอใจ</u>กับบทบาทการทำงานในปัจจุบันของพวกเขา"
+" (เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บทบาทการทำงานของพวกเขา..."
+
+#: /question:WYPK_11A/response:1/text:1
+msgctxt "/question:WYPK_11A/response:1/text"
+msgid "give them meaning"
+msgstr "ทำให้พวกเขารู้สึกว่ามีความหมาย"
+
+#: /question:WYPK_11A/response:2/text:1
+msgctxt "/question:WYPK_11A/response:2/text"
+msgid "allow them to decide how their work should be done"
+msgstr "ทำให้พวกเขาตัดสินใจได้ว่าควรทำงานของตัวเองให้เสร็จได้อย่างไร"
+
+#: /question:WYPK_11A/response:3/text:1
+msgctxt "/question:WYPK_11A/response:3/text"
+msgid "allow them to be flexible with their work arrangements"
+msgstr "ทำให้พวกเขาเลือกวิธีการทำงานได้อย่างยืดหยุ่น"
+
+#: /question:WYPK_11A/response:4/text:1
+msgctxt "/question:WYPK_11A/response:4/text"
+msgid "offer them work-life balance"
+msgstr "สร้างสมดุลชีวิตการทำงานและชีวิตส่วนตัวให้กับพวกเขา"
+
+#: /question:WYPK_11A/response:5/text:1
+msgctxt "/question:WYPK_11A/response:5/text"
+msgid "provide them with the challenge they enjoy"
+msgstr "มอบความท้าทายที่พวกเขาชอบ"
+
+#: /question:WYPK_11A/response:6/text:1
+msgctxt "/question:WYPK_11A/response:6/text"
+msgid "Dummy for the randomization"
+msgstr ""
+
+#: /question:WYPK_11A/response:7/text:1
+msgctxt "/question:WYPK_11A/response:7/text"
+msgid "allow them to utilise their core skill set"
+msgstr "ทำให้พวกเขานำทักษะที่สำคัญมาประยุกต์ใช้ได้"
+
+#: /question:WYPK_11A/response:8/text:1
+msgctxt "/question:WYPK_11A/response:8/text"
+msgid "allow them to add value to the team"
+msgstr "ทำให้พวกเขาเพิ่มคุณค่าให้กับทีมได้"
+
+#: /question:WYPK_11A/response:9/text:1
+msgctxt "/question:WYPK_11A/response:9/text"
+msgid "are part of a successful and valued team"
+msgstr "ได้เป็นส่วนหนึ่งของทีมที่มีคุณค่าและประสบความสำเร็จ"
+
+#: /question:WYPK_11A/response:10/text:1
+msgctxt "/question:WYPK_11A/response:10/text"
+msgid "pay them a salary that they are satisfied with"
+msgstr "ให้เงินเดือนที่พวกเขาพอใจ"
+
+#: /question:WYPK_11A/response:11/text:1
+msgctxt "/question:WYPK_11A/response:11/text"
+msgid "allow them to work with a manager whom they have a good relationship with"
+msgstr "ทำให้พวกเขาได้ทำงานกับผู้จัดการที่พวกเขามีความสัมพันธ์ที่ดีด้วย"
+
+#: /question:WYPK_11A/response:12/text:1
+msgctxt "/question:WYPK_11A/response:12/text"
+msgid "offer them development opportunity"
+msgstr "มอบโอกาสในการพัฒนาตัวเองให้กับพวกเขา"
+
+#: /question:WYPK_11A/response:97/text:1
+msgctxt "/question:WYPK_11A/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_11A/response:99/text:1
+msgctxt "/question:WYPK_11A/response:99/text"
+msgid "None - there's nothing they are happy about in their job roles"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้พวกเขาพอใจกับบทบาทการทำงานของตัวเอง"
+
+#: /question:WYPK_11B/text:1
+msgctxt "/question:WYPK_11B/text"
+msgid ""
+"What do you think makes your employees <u>unhappy</u> about in their "
+"current job roles? Select all that apply.<br/><br/>Their roles …"
+msgstr ""
+"คุณคิดว่าอะไรทำให้พนักงานของคุณ<u>ไม่พอใจ</u>กับบทบาทการทำงานในปัจจุบันของพวกเขา"
+" (เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บทบาทการทำงานของพวกเขา..."
+
+#: /question:WYPK_11B/response:1/text:1
+msgctxt "/question:WYPK_11B/response:1/text"
+msgid "do not give them meaning"
+msgstr "ไม่ได้ทำให้พวกเขารู้สึกว่ามีความหมาย"
+
+#: /question:WYPK_11B/response:2/text:1
+msgctxt "/question:WYPK_11B/response:2/text"
+msgid "do not allow them to decide how their work should be done"
+msgstr "ไม่ทำให้พวกเขาตัดสินใจได้ว่าควรทำงานของตัวเองให้เสร็จได้อย่างไร"
+
+#: /question:WYPK_11B/response:3/text:1
+msgctxt "/question:WYPK_11B/response:3/text"
+msgid "do not allow them to be flexible with their work arrangements"
+msgstr "ไม่ได้ทำให้พวกเขาเลือกวิธีการทำงานได้อย่างยืดหยุ่น"
+
+#: /question:WYPK_11B/response:4/text:1
+msgctxt "/question:WYPK_11B/response:4/text"
+msgid "do not offer them work-life balance"
+msgstr "ไม่ได้สร้างสมดุลชีวิตการทำงานและชีวิตส่วนตัวให้กับพวกเขา"
+
+#: /question:WYPK_11B/response:5/text:1
+msgctxt "/question:WYPK_11B/response:5/text"
+msgid "are not challenging enough"
+msgstr "ไม่ท้าทายพอ"
+
+#: /question:WYPK_11B/response:6/text:1
+msgctxt "/question:WYPK_11B/response:6/text"
+msgid "are too challenging"
+msgstr "ท้าทายมากเกินไป"
+
+#: /question:WYPK_11B/response:7/text:1
+msgctxt "/question:WYPK_11B/response:7/text"
+msgid "do not allow them to utilise their core skill set"
+msgstr "ไม่ได้ทำให้พวกเขานำทักษะที่สำคัญมาประยุกต์ใช้ได้"
+
+#: /question:WYPK_11B/response:8/text:1
+msgctxt "/question:WYPK_11B/response:8/text"
+msgid "do not allow them to add value to the team"
+msgstr "ไม่ได้ทำให้พวกเขาเพิ่มคุณค่าให้กับทีมได้"
+
+#: /question:WYPK_11B/response:9/text:1
+msgctxt "/question:WYPK_11B/response:9/text"
+msgid "are not part of a successful and valued team"
+msgstr "ไม่ได้เป็นส่วนหนึ่งของทีมที่มีคุณค่าและประสบความสำเร็จ"
+
+#: /question:WYPK_11B/response:10/text:1
+msgctxt "/question:WYPK_11B/response:10/text"
+msgid "do not pay them a salary that they are satisfied with"
+msgstr "ไม่ให้เงินเดือนที่พวกเขาพอใจ"
+
+#: /question:WYPK_11B/response:11/text:1
+msgctxt "/question:WYPK_11B/response:11/text"
+msgid ""
+"do not allow them to work with a manager whom they have a good "
+"relationship with"
+msgstr "ไม่ทำให้พวกเขาได้ทำงานกับผู้จัดการที่พวกเขามีความสัมพันธ์ที่ดีด้วย"
+
+#: /question:WYPK_11B/response:12/text:1
+msgctxt "/question:WYPK_11B/response:12/text"
+msgid "do not offer them development opportunity"
+msgstr "ไม่ได้มอบโอกาสในการพัฒนาตัวเองให้กับพวกเขา"
+
+#: /question:WYPK_11B/response:97/text:1
+msgctxt "/question:WYPK_11B/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_11B/response:99/text:1
+msgctxt "/question:WYPK_11B/response:99/text"
+msgid "None - there's nothing they are unhappy about in their job roles"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้พวกเขาไม่พอใจกับบทบาทการทำงานของตัวเอง"
+
+#: /question:WYPK_12/text:1
+msgctxt "/question:WYPK_12/text"
+msgid ""
+"How happy or unhappy do you think your employees are with the "
+"<u>company</u>?"
+msgstr "คุณคิดว่าพนักงานของคุณพอใจหรือไม่พอใจกับ<u>บริษัท </u>"
+
+#: /question:WYPK_12/response:1/text:1
+msgctxt "/question:WYPK_12/response:1/text"
+msgid "0 - Not at all happy"
+msgstr "0 - ไม่พอใจเลย"
+
+#: /question:WYPK_12/response:2/text:1
+msgctxt "/question:WYPK_12/response:2/text"
+msgid "1"
+msgstr "1"
+
+#: /question:WYPK_12/response:3/text:1
+msgctxt "/question:WYPK_12/response:3/text"
+msgid "2"
+msgstr "2"
+
+#: /question:WYPK_12/response:4/text:1
+msgctxt "/question:WYPK_12/response:4/text"
+msgid "3"
+msgstr "3"
+
+#: /question:WYPK_12/response:5/text:1
+msgctxt "/question:WYPK_12/response:5/text"
+msgid "4"
+msgstr "4"
+
+#: /question:WYPK_12/response:6/text:1
+msgctxt "/question:WYPK_12/response:6/text"
+msgid "5"
+msgstr "5"
+
+#: /question:WYPK_12/response:7/text:1
+msgctxt "/question:WYPK_12/response:7/text"
+msgid "6"
+msgstr "6"
+
+#: /question:WYPK_12/response:8/text:1
+msgctxt "/question:WYPK_12/response:8/text"
+msgid "7"
+msgstr "7"
+
+#: /question:WYPK_12/response:9/text:1
+msgctxt "/question:WYPK_12/response:9/text"
+msgid "8"
+msgstr "8"
+
+#: /question:WYPK_12/response:10/text:1
+msgctxt "/question:WYPK_12/response:10/text"
+msgid "9"
+msgstr "9"
+
+#: /question:WYPK_12/response:11/text:1
+msgctxt "/question:WYPK_12/response:11/text"
+msgid "10 - Extremely happy"
+msgstr "10 - พอใจอย่างมาก"
+
+#: /question:WYPK_13A/text:1
+msgctxt "/question:WYPK_13A/text"
+msgid ""
+"What about your company do you think makes your employees <u>happy</u>? "
+"Select all that apply. <br/><br/>The company …"
+msgstr ""
+"คุณคิดว่าอะไรทำให้พนักงานของคุณ<u>พอใจ</u>กับบริษัทของคุณบ้าง "
+"(เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บริษัท..."
+
+#: /question:WYPK_13A/response:1/text:1
+msgctxt "/question:WYPK_13A/response:1/text"
+msgid "has a positive work culture"
+msgstr "มีวัฒนธรรมการทำงานที่ดี"
+
+#: /question:WYPK_13A/response:2/text:1
+msgctxt "/question:WYPK_13A/response:2/text"
+msgid "has a good reputation"
+msgstr "มีชื่อเสียงดีงาม"
+
+#: /question:WYPK_13A/response:3/text:1
+msgctxt "/question:WYPK_13A/response:3/text"
+msgid "has a vision they believe in"
+msgstr "มีวิสัยทัศน์ที่พวกเขาเชื่อมั่น"
+
+#: /question:WYPK_13A/response:4/text:1
+msgctxt "/question:WYPK_13A/response:4/text"
+msgid "treats them fairly"
+msgstr "ปฏิบัติต่อพวกเขาอย่างยุติธรรม"
+
+#: /question:WYPK_13A/response:5/text:1
+msgctxt "/question:WYPK_13A/response:5/text"
+msgid "recognises the work that they do"
+msgstr "ยอมรับและชื่นชมผลงานของพวกเขา"
+
+#: /question:WYPK_13A/response:6/text:1
+msgctxt "/question:WYPK_13A/response:6/text"
+msgid "operates from a location they like"
+msgstr "ดำเนินธุรกิจในทำเลที่พวกเขาชอบ"
+
+#: /question:WYPK_13A/response:7/text:1
+msgctxt "/question:WYPK_13A/response:7/text"
+msgid "does work that they are proud of"
+msgstr "ทำงานที่พวกเขาภาคภูมิใจ"
+
+#: /question:WYPK_13A/response:8/text:1
+msgctxt "/question:WYPK_13A/response:8/text"
+msgid "offers a pleasant working environment"
+msgstr "มีสภาพแวดล้อมการทำงานที่น่าพอใจ"
+
+#: /question:WYPK_13A/response:9/text:1
+msgctxt "/question:WYPK_13A/response:9/text"
+msgid "offers good perks/ benefits"
+msgstr "ให้ผลตอบแทน/ สิทธิประโยชน์ที่ดี"
+
+#: /question:WYPK_13A/response:97/text:1
+msgctxt "/question:WYPK_13A/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_13A/response:99/text:1
+msgctxt "/question:WYPK_13A/response:99/text"
+msgid "None - there's nothing they are happy about the company"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้พวกเขาพอใจกับบริษัท"
+
+#: /question:WYPK_13B/text:1
+msgctxt "/question:WYPK_13B/text"
+msgid ""
+"What about your company do you think makes your employees <u>unhappy</u>?"
+" Select all that apply. <br/><br/>The company …"
+msgstr ""
+"คุณคิดว่าอะไรทำให้พนักงานของคุณ<u>ไม่พอใจ</u>กับบริษัทของคุณบ้าง "
+"(เลือกทุกข้อที่เกี่ยวข้อง) <br/><br/>บริษัท..."
+
+#: /question:WYPK_13B/response:1/text:1
+msgctxt "/question:WYPK_13B/response:1/text"
+msgid "has a negative work culture"
+msgstr "มีวัฒนธรรมการทำงานที่ไม่ดี"
+
+#: /question:WYPK_13B/response:2/text:1
+msgctxt "/question:WYPK_13B/response:2/text"
+msgid "has a bad reputation"
+msgstr "มีชื่อเสียงเลวร้าย"
+
+#: /question:WYPK_13B/response:3/text:1
+msgctxt "/question:WYPK_13B/response:3/text"
+msgid "has a vision they don't believe in"
+msgstr "มีวิสัยทัศน์ที่พวกเขาไม่เชื่อมั่น"
+
+#: /question:WYPK_13B/response:4/text:1
+msgctxt "/question:WYPK_13B/response:4/text"
+msgid "treats them unfairly"
+msgstr "ปฏิบัติต่อพวกเขาอย่างไม่ยุติธรรม"
+
+#: /question:WYPK_13B/response:5/text:1
+msgctxt "/question:WYPK_13B/response:5/text"
+msgid "does not recognise the work that they do"
+msgstr "ไม่ยอมรับและชื่นชมผลงานของพวกเชา"
+
+#: /question:WYPK_13B/response:6/text:1
+msgctxt "/question:WYPK_13B/response:6/text"
+msgid "does not operate from a location they like"
+msgstr "ไม่ได้ดำเนินธุรกิจในทำเลที่พวกเขาชอบ"
+
+#: /question:WYPK_13B/response:7/text:1
+msgctxt "/question:WYPK_13B/response:7/text"
+msgid "does work that they are not proud of"
+msgstr "ไม่ได้ทำงานที่พวกเขาภาคภูมิใจ"
+
+#: /question:WYPK_13B/response:8/text:1
+msgctxt "/question:WYPK_13B/response:8/text"
+msgid "offers an unpleasant working environment"
+msgstr "มีสภาพแวดล้อมการทำงานที่ไม่น่าพอใจ"
+
+#: /question:WYPK_13B/response:9/text:1
+msgctxt "/question:WYPK_13B/response:9/text"
+msgid "offers poor perks/ benefits"
+msgstr "ให้ผลตอบแทน/ สิทธิประโยชน์ที่ไม่น่าพอใจ"
+
+#: /question:WYPK_13B/response:97/text:1
+msgctxt "/question:WYPK_13B/response:97/text"
+msgid "Others, please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_13B/response:99/text:1
+msgctxt "/question:WYPK_13B/response:99/text"
+msgid "None - there's nothing they are unhappy about the company"
+msgstr "ไม่มี - ไม่มีสิ่งที่ทำให้พวกเขาไม่พอใจกับบริษัท"
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid "Now, we will ask you a few more questions about your opinions of work.\n"
+msgstr "ต่อไป เราจะสอบถามความคิดเห็นเกี่ยวกับงานจากคุณสักเล็กน้อย"
+
+#: /question:WYPK_14/text:1
+msgctxt "/question:WYPK_14/text"
+msgid ""
+"Select the sentence that better represents your benefits package, if any,"
+" in your company."
+msgstr "กรุณาเลือกประโยคที่ตรงกับแพ็คเกจสิทธิประโยชน์ของคุณในบริษัท (ถ้ามี)"
+
+#: /question:WYPK_14/response:1/text:1
+msgctxt "/question:WYPK_14/response:1/text"
+msgid ""
+"I have a benefits package that is standardized across all employees in my"
+" company."
+msgstr "ฉันมีแพ็คเกจสิทธิประโยชน์ที่เป็นมาตรฐานเหมือนกับพนักงานทุกคนในบริษัท"
+
+#: /question:WYPK_14/response:2/text:1
+msgctxt "/question:WYPK_14/response:2/text"
+msgid ""
+"I have a benefits package that is tailored to fit with my needs as an "
+"individual."
+msgstr "ฉันมีแพ็คเกจสิทธิประโยชน์ที่ปรับให้เหมาะกับความต้องการของฉัน"
+
+#: /question:WYPK_14/response:3/text:1
+msgctxt "/question:WYPK_14/response:3/text"
+msgid "I don't have a benefits package"
+msgstr "ฉันไม่มีแพ็คเกจสิทธิประโยชน์"
+
+#: /question:WYPK_14/response:4/text:1
+msgctxt "/question:WYPK_14/response:4/text"
+msgid "Don't know/ Not sure"
+msgstr "ไม่ทราบ / ไม่แน่ใจ"
+
+#: /question:WYPK_15/text:1
+msgctxt "/question:WYPK_15/text"
+msgid ""
+"I believe companies ________ tailoring company benefits based on the "
+"needs of each employee."
+msgstr ""
+"ฉันเชื่อว่าบริษัท ________ "
+"ปรับสิทธิประโยชน์ของบริษัทให้เหมาะกับความต้องการของพนักงานแต่ละคน"
+
+#: /question:WYPK_15/response:1/text:1
+msgctxt "/question:WYPK_15/response:1/text"
+msgid "should be"
+msgstr "สมควร"
+
+#: /question:WYPK_15/response:2/text:1
+msgctxt "/question:WYPK_15/response:2/text"
+msgid "should <u>not</u> be"
+msgstr "<u>ไม่</u>สมควร"
+
+#: /question:WYPK_15/response:3/text:1
+msgctxt "/question:WYPK_15/response:3/text"
+msgid "I have no opinion"
+msgstr "ฉันไม่มีความเห็นในเรื่องนี้"
+
+#: /question:WYPK_16/text:1
+msgctxt "/question:WYPK_16/text"
+msgid ""
+"When it comes to expressing any concerns you have at work with your "
+"manager(s)/ superior(s), …."
+msgstr ""
+"ถ้าเป็นเรื่องของการรายงานข้อกังวลในสถานที่ทำงานกับผู้จัดการ/ "
+"หัวหน้างานของคุณ..."
+
+#: /question:WYPK_16/response:1/text:1
+msgctxt "/question:WYPK_16/response:1/text"
+msgid "I am given the opportunity to do so whenever there's a need to"
+msgstr "ฉันสามารถทำแบบนั้นได้ทุกเมื่อที่ต้องการ"
+
+#: /question:WYPK_16/response:2/text:1
+msgctxt "/question:WYPK_16/response:2/text"
+msgid ""
+"I am given the opportunity to do so on specified occasions, and these "
+"occasions happen <u>regularly</u>"
+msgstr "ฉันสามารถทำแบบนั้นได้ในบางโอกาส และโอกาสเหล่านี้<u>เกิดขึ้นเป็นประจำ</u>"
+
+#: /question:WYPK_16/response:3/text:1
+msgctxt "/question:WYPK_16/response:3/text"
+msgid ""
+"I am given the opportunity to do so on specified occasions, and these "
+"occasions happen <u>rarely</u>"
+msgstr "ฉันสามารถทำแบบนั้นได้ในบางโอกาส และโอกาสเหล่านี้<u>ไม่ค่อยเกิดขึ้น</u>"
+
+#: /question:WYPK_16/response:4/text:1
+msgctxt "/question:WYPK_16/response:4/text"
+msgid "I am not given the opportunity to do so"
+msgstr "ฉันไม่มีโอกาสทำแบบนั้น"
+
+#: /question:WYPK_16/response:5/text:1
+msgctxt "/question:WYPK_16/response:5/text"
+msgid "I don't have any concerns at work"
+msgstr "ฉันไม่มีข้อกังวลอะไรในสถานที่ทำงาน"
+
+#: /question:WYPK_17/text:1
+msgctxt "/question:WYPK_17/text"
+msgid "When I address my concerns at work to my manager/ superior, I feel that…."
+msgstr ""
+"เมื่อฉันรายงานข้อกังวลในสถานที่ทำงานกับผู้จัดการ/ หัวหน้างานของฉัน "
+"ฉันรู้สึกว่า..."
+
+#: /question:WYPK_17/response:1/text:1
+msgctxt "/question:WYPK_17/response:1/text"
+msgid "my employer does not care"
+msgstr "นายจ้างไม่ให้ความสนใจ"
+
+#: /question:WYPK_17/response:2/text:1
+msgctxt "/question:WYPK_17/response:2/text"
+msgid "my employer cares, but does not attempt to address it"
+msgstr "นายจ้างให้ความสนใจ แต่ไม่ได้พยายามจะแก้ไข"
+
+#: /question:WYPK_17/response:3/text:1
+msgctxt "/question:WYPK_17/response:3/text"
+msgid "my employer cares, and attempts to address it"
+msgstr "นายจ้างให้ความสนใจ และพยายามจะแก้ไข"
+
+#: /question:WYPK_19/text:1
+msgctxt "/question:WYPK_19/text"
+msgid "How often, if at all, …... <br/><br/> Select the option that best fits."
+msgstr ""
+"โปรดเลือกความถี่ที่จะเกิดขึ้นกับคุณในสถานการณ์เหล่านี้… "
+"<br/><br/>(กรุณาเลือกตัวเลือกที่ตรงที่สุด)"
+
+#: /question:WYPK_19_1/text:1
+msgctxt "/question:WYPK_19_1/text"
+msgid "do you have one-to-one conversations with your manager?"
+msgstr "คุณได้พูดคุยกับผู้จัดการของคุณแบบตัวต่อตัว"
+
+#: /question:WYPK_19_2/text:1
+msgctxt "/question:WYPK_19_2/text"
+msgid "do you want to have one-to-one conversations with your manager?"
+msgstr "คุณต้องการที่จะพูดคุยกับผู้จัดการของคุณแบบตัวต่อตัว"
+
+#: /question:WYPK_19_3/text:1
+msgctxt "/question:WYPK_19_3/text"
+msgid "are you having one-to-one conversations with your employees?"
+msgstr "คุณจะพูดคุยกับพนักงานของคุณแบบตัวต่อตัว"
+
+#: /question:WYPK_19/response:1/text:1
+msgctxt "/question:WYPK_19/response:1/text"
+msgid "Once a week or more often"
+msgstr "สัปดาห์ละครั้งหรือบ่อยกว่านั้น"
+
+#: /question:WYPK_19/response:2/text:1
+msgctxt "/question:WYPK_19/response:2/text"
+msgid "Once every 2 to 3 weeks"
+msgstr "2 - 3 สัปดาห์ต่อครั้ง"
+
+#: /question:WYPK_19/response:3/text:1
+msgctxt "/question:WYPK_19/response:3/text"
+msgid "Once a month"
+msgstr "เดือนละครั้ง"
+
+#: /question:WYPK_19/response:4/text:1
+msgctxt "/question:WYPK_19/response:4/text"
+msgid "Once every 2 to 3 months"
+msgstr "ทุก 2 - 3 เดือน"
+
+#: /question:WYPK_19/response:5/text:1
+msgctxt "/question:WYPK_19/response:5/text"
+msgid "Once every 4 to 6 months"
+msgstr "ทุก 4 - 6 เดือน"
+
+#: /question:WYPK_19/response:6/text:1
+msgctxt "/question:WYPK_19/response:6/text"
+msgid "Once every 7 to 12 months"
+msgstr "ทุก 7 - 12 เดือน"
+
+#: /question:WYPK_19/response:7/text:1
+msgctxt "/question:WYPK_19/response:7/text"
+msgid "Less often than once a year"
+msgstr "น้อยกว่าปีละครั้ง"
+
+#: /question:WYPK_19/response:8/text:1
+msgctxt "/question:WYPK_19/response:8/text"
+msgid "Not applicable for me"
+msgstr "ไม่เกี่ยวข้องกับฉัน"
+
+#: /question:WYPK_21/text:1
+msgctxt "/question:WYPK_21/text"
+msgid ""
+"From the list below, select <u>up to five</u> characteristics that you "
+"believe are most undesirable when it comes to people you work with."
+msgstr ""
+"จากรายการด้านล่าง "
+"กรุณาเลือกคุณลักษณะที่คุณเชื่อว่าเป็นคุณลักษณะที่ไม่พึงประสงค์ที่สุดของคนที่คุณทำงานด้วยมา<u>ไม่เกิน"
+" 5 ข้อ</u> "
+
+#: /question:WYPK_21/response:1/text:1
+msgctxt "/question:WYPK_21/response:1/text"
+msgid "Does not have the skills to do the job"
+msgstr "ไม่มีทักษะในการทำงาน"
+
+#: /question:WYPK_21/response:2/text:1
+msgctxt "/question:WYPK_21/response:2/text"
+msgid "Is not a team player"
+msgstr "ไม่รู้จักการทำงานเป็นทีม"
+
+#: /question:WYPK_21/response:3/text:1
+msgctxt "/question:WYPK_21/response:3/text"
+msgid "Treats different colleagues differently"
+msgstr "ปฏิบัติต่อเพื่อนร่วมงานแต่ละคนแตกต่างกัน"
+
+#: /question:WYPK_21/response:4/text:1
+msgctxt "/question:WYPK_21/response:4/text"
+msgid "Avoids taking on additional tasks"
+msgstr "หลีกเลี่ยงไม่ยอมทำงานเพิ่ม"
+
+#: /question:WYPK_21/response:5/text:1
+msgctxt "/question:WYPK_21/response:5/text"
+msgid "Complains regularly"
+msgstr "พร่ำบ่นเป็นประจำ"
+
+#: /question:WYPK_21/response:6/text:1
+msgctxt "/question:WYPK_21/response:6/text"
+msgid "Too quiet"
+msgstr "เงียบเกินไป"
+
+#: /question:WYPK_21/response:7/text:1
+msgctxt "/question:WYPK_21/response:7/text"
+msgid "Too loud"
+msgstr "เสียงดังเกินไป"
+
+#: /question:WYPK_21/response:8/text:1
+msgctxt "/question:WYPK_21/response:8/text"
+msgid "Has poor time management"
+msgstr "บริหารเวลาได้ไม่ดี"
+
+#: /question:WYPK_21/response:9/text:1
+msgctxt "/question:WYPK_21/response:9/text"
+msgid "Is disorganised"
+msgstr "ไม่เป็นระเบียบ"
+
+#: /question:WYPK_21/response:10/text:1
+msgctxt "/question:WYPK_21/response:10/text"
+msgid "Does not care about how other colleagues feel"
+msgstr "ไม่สนใจว่าเพื่อนร่วมงานคนอื่นคิดยังไง"
+
+#: /question:WYPK_21/response:11/text:1
+msgctxt "/question:WYPK_21/response:11/text"
+msgid "Believes he/ she is always right"
+msgstr "เชื่อว่าตัวเองถูกต้องเสมอ"
+
+#: /question:WYPK_21/response:12/text:1
+msgctxt "/question:WYPK_21/response:12/text"
+msgid "Has an aggressive attitude"
+msgstr "มีทัศนคติก้าวร้าว"
+
+#: /question:WYPK_21/response:13/text:1
+msgctxt "/question:WYPK_21/response:13/text"
+msgid "Talks bad about previous employer"
+msgstr "พูดถึงนายจ้างคนเก่าในแง่ลบ"
+
+#: /question:WYPK_21/response:14/text:1
+msgctxt "/question:WYPK_21/response:14/text"
+msgid "Not open to working overtime"
+msgstr "ไม่ยอมทำงานล่วงเวลา"
+
+#: /question:WYPK_21/response:15/text:1
+msgctxt "/question:WYPK_21/response:15/text"
+msgid "Does not dress appropriately"
+msgstr "แต่งตัวไม่เหมาะสม"
+
+#: /question:WYPK_21/response:16/text:1
+msgctxt "/question:WYPK_21/response:16/text"
+msgid "Too many requests/ demands"
+msgstr "เรียกร้อง/ ขอมากเกินไป"
+
+#: /question:WYPK_21/response:17/text:1
+msgctxt "/question:WYPK_21/response:17/text"
+msgid "Poor body language"
+msgstr "ใช้ภาษากายที่ไม่สุภาพ"
+
+#: /question:WYPK_21/response:98/text:1
+msgctxt "/question:WYPK_21/response:98/text"
+msgid "Others; please specify"
+msgstr "อื่น ๆ โปรดระบุ"
+
+#: /question:WYPK_21/response:99/text:1
+msgctxt "/question:WYPK_21/response:99/text"
+msgid "None of these"
+msgstr "ไม่ใช่ทั้งหมดที่กล่าวมา"
+
+#: /question:WYPK_28/text:1
+msgctxt "/question:WYPK_28/text"
+msgid ""
+"What are your biggest challenges when hiring new people for your team? "
+"Please rank your top 3 with 1 being the biggest challenge and so on."
+msgstr ""
+"อะไรคือความท้าทายที่ยิ่งใหญ่ที่สุดของคุณ เมื่อจ้างคนใหม่ให้กับทีมของคุณ "
+"โปรดให้คะแนน 3 อันดับแรกของคุณ โดยที่ 1 "
+"เป็นความท้าทายที่ยิ่งใหญ่ที่สุดและอื่น ๆ"
+
+#: /question:WYPK_28/response:1/text:1
+msgctxt "/question:WYPK_28/response:1/text"
+msgid "Finding workers with the right skills and experience"
+msgstr "การหาคนงานที่มีทักษะและประสบการณ์ที่เหมาะสม"
+
+#: /question:WYPK_28/response:2/text:1
+msgctxt "/question:WYPK_28/response:2/text"
+msgid "Competition from other organisations"
+msgstr "การแข่งขันจากองค์กรอื่น ๆ"
+
+#: /question:WYPK_28/response:3/text:1
+msgctxt "/question:WYPK_28/response:3/text"
+msgid "Limited budget/salary"
+msgstr "งบประมาณ/ เงินเดือนที่มีจำกัด"
+
+#: /question:WYPK_28/response:4/text:1
+msgctxt "/question:WYPK_28/response:4/text"
+msgid "Attracting the right culture/ values fit"
+msgstr "การจูงใจทางวัฒนธรรม/ ค่านิยมที่เหมาะสม"
+
+#: /question:WYPK_28/response:5/text:1
+msgctxt "/question:WYPK_28/response:5/text"
+msgid "Poor retention of new hires"
+msgstr "ทำงานที่ใหม่ไม่นาน"
+
+#: /question:WYPK_28/response:6/text:1
+msgctxt "/question:WYPK_28/response:6/text"
+msgid "Time to hire is too long"
+msgstr "เวลาในการจ้างนานเกินไป"
+
+#: /question:WYPK_28/response:7/text:1
+msgctxt "/question:WYPK_28/response:7/text"
+msgid "Asking the right interview questions"
+msgstr "การถามคำถามสัมภาษณ์ที่เหมาะสม"
+
+#: /question:WYPK_23/text:1
+msgctxt "/question:WYPK_23/text"
+msgid "To what extent do you agree or disagree with the following statements?"
+msgstr "คุณเห็นด้วยหรือไม่เห็นด้วยกับข้อความต่อไปนี้มากน้อยเพียงใด"
+
+#: /question:WYPK_23_1/text:1
+msgctxt "/question:WYPK_23_1/text"
+msgid "I will recommend my company to my friends or family"
+msgstr "ฉันจะแนะนำบริษัทให้กับเพื่อนหรือครอบครัว"
+
+#: /question:WYPK_23_2/text:1
+msgctxt "/question:WYPK_23_2/text"
+msgid "I respect my manager/ superior"
+msgstr "ฉันเคารพผู้จัดการ/หัวหน้างาน"
+
+#: /question:WYPK_23_3/text:1
+msgctxt "/question:WYPK_23_3/text"
+msgid "I feel proud working for my company"
+msgstr "ฉันรู้สึกภูมิใจที่ได้ทำงานในบริษัท"
+
+#: /question:WYPK_23_4/text:1
+msgctxt "/question:WYPK_23_4/text"
+msgid "I am willing to work overtime to help a colleague"
+msgstr "ฉันเต็มใจทำงานล่วงเวลาเพื่อช่วยเพื่อนร่วมงาน"
+
+#: /question:WYPK_23_5/text:1
+msgctxt "/question:WYPK_23_5/text"
+msgid "I compliment my colleague(s) when they do a good job"
+msgstr "ฉันชมเพื่อนร่วมงานเมื่อพวกเขาทำงานได้ดี"
+
+#: /question:WYPK_23_6/text:1
+msgctxt "/question:WYPK_23_6/text"
+msgid "I see myself in the long term plans of the company"
+msgstr "ฉันคิดว่าจะทำงานกับบริษัทไปอีกนาน"
+
+#: /question:WYPK_23_7/text:1
+msgctxt "/question:WYPK_23_7/text"
+msgid "I feel productive at work"
+msgstr "ฉันรู้สึกว่าทำงานได้เต็มที่"
+
+#: /question:WYPK_23_8/text:1
+msgctxt "/question:WYPK_23_8/text"
+msgid "I often smile while I am at work"
+msgstr "ฉันมักจะยิ้มบ่อย ๆ เวลาทำงาน"
+
+#: /question:WYPK_23_9/text:1
+msgctxt "/question:WYPK_23_9/text"
+msgid "I volunteer myself to be part of projects in my workplace"
+msgstr "ฉันอาสาเข้าร่วมทำโครงการต่าง ๆ ในที่ทำงาน"
+
+#: /question:WYPK_23_10/text:1
+msgctxt "/question:WYPK_23_10/text"
+msgid "I am dedicated to my job"
+msgstr "ฉันทุ่มเทให้กับงานของฉัน"
+
+#: /question:WYPK_23/response:1/text:1
+msgctxt "/question:WYPK_23/response:1/text"
+msgid "Strongly disagree"
+msgstr "ไม่เห็นด้วยอย่างยิ่ง"
+
+#: /question:WYPK_23/response:2/text:1
+msgctxt "/question:WYPK_23/response:2/text"
+msgid "Disagree"
+msgstr "ไม่เห็นด้วย"
+
+#: /question:WYPK_23/response:3/text:1
+msgctxt "/question:WYPK_23/response:3/text"
+msgid "Neither agree nor disagree"
+msgstr "เฉย ๆ"
+
+#: /question:WYPK_23/response:4/text:1
+msgctxt "/question:WYPK_23/response:4/text"
+msgid "Agree"
+msgstr "เห็นด้วย"
+
+#: /question:WYPK_23/response:5/text:1
+msgctxt "/question:WYPK_23/response:5/text"
+msgid "Strongly agree"
+msgstr "เห็นด้วยอย่างยิ่ง"
+
+#: /question:WYPK_23/response:6/text:1
+msgctxt "/question:WYPK_23/response:6/text"
+msgid "Not applicable"
+msgstr "ไม่เกี่ยวข้องกับตัวฉัน"
+
+#: /question:WYPK_24/text:1
+msgctxt "/question:WYPK_24/text"
+msgid ""
+"Thank you for answering the questions so far! <br/><br/>Lastly, we would "
+"like to collect your name, contact number (optional), and email address "
+"to help with data validation and to contact you if you are selected as a "
+"prize winner. <br/><br/>We are required to obtain your explicit consent "
+"when we collect your personal data. Please be assured that your personal "
+"information will be kept confidential and will not be used for any other "
+"purposes other than that detailed above.<br/><br/>$Click.raw <br/> "
+"$Click1.raw"
+msgstr ""
+
+#: /question:WYPK_24/response:1/text:1
+msgctxt "/question:WYPK_24/response:1/text"
+msgid ""
+"I understand and I consent to the collection, use and disclosure of my "
+"personal data provided by me in this study for the purpose as stated "
+"above."
+msgstr ""
+
+#: /question:WYPK_24/response:2/text:1
+msgctxt "/question:WYPK_24/response:2/text"
+msgid ""
+"I decline (please note we will be unable to contact you if you are a "
+"prize winner)."
+msgstr ""
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid "<div class=\"alert alert-error\">Please double check your answer.</div>\n"
+msgstr ""
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"Please provide your name, contact number, and email address in the spaces"
+" below.\n"
+msgstr ""
+
+#: /question:q_name/left:1
+msgctxt "/question:q_name/left"
+msgid "Name:"
+msgstr ""
+
+#: /question:q_contact/left:1
+msgctxt "/question:q_contact/left"
+msgid "Contact number (optional): "
+msgstr ""
+
+#: /question:q_email/left:1
+msgctxt "/question:q_email/left"
+msgid "Email address:"
+msgstr ""
+
+#: /question:WYPK_29/text:1
+msgctxt "/question:WYPK_29/text"
+msgid ""
+"To go in the running to win a $100 VISA gift card, tell us in 25 words or"
+" less what you love about your job and why. <br/><br><i> You may skip "
+"this question if you do not wish to participate in winning the gift "
+"card.</i>"
+msgstr ""
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid "Please click the button below to complete the survey.\n"
+msgstr ""
+
+#: /free_text/text:1
+msgctxt "/free_text/text"
+msgid ""
+"Hello,<br><br>\n"
+"\n"
+"Your responses within this survey have been flagged by our automatic "
+"system check as not meeting YouGov standards. Please click <a "
+"href=\"https://th.yougov.com/en-th/account/faq/$diez/F4\" "
+"target=\"_blank\">here</a> to read further.<br><br>\n"
+"\n"
+"We regret to inform you that you will not be allowed to proceed further "
+"with this survey.<br><br>\n"
+"\n"
+"We understand that there could be accidental errors that might have "
+"triggered this message.<br><br>\n"
+"\n"
+"You will receive another survey shortly, based on the research "
+"requirements of your market. <br><br>\n"
+"\n"
+"We thank you for your understanding and patience and for working with us "
+"on this commitment that we at YouGov have towards quality.<br><br>\n"
+"\n"
+"Best,<br>\n"
+"YouGov\n"
+msgstr ""
+"สวัสดี,<br><br>\n"
+"\n"
+"คำตอบของคุณในแบบสำรวจนี้ถูกพบโดยระบบตรวจสอบอัตโนมัติของเราว่าไม่เป็นไปตามมาตรฐานของ"
+" YouGov โปรดคลิก <a "
+"href=\"https://th.yougov.com/th/account/faq/$diez/F4\" "
+"target=\"_blank\">ที่นี่</a> เพื่ออ่านเพิ่มเติม<br><br>\n"
+"\n"
+"เราเสียใจที่ต้องแจ้งให้คุณทราบว่าคุณจะไม่ได้รับอนุญาตให้ดำเนินการทำแบบสำรวจนี้ต่อไป<br><br>"
+"\n"
+"\n"
+"เราเข้าใจว่าอาจมีข้อผิดพลาดที่ทำให้เกิดข้อความนี้<br><br>\n"
+"\n"
+"คุณจะได้รับแบบสำรวจอื่นอีกครั้งในไม่ช้า "
+"โดยขึ้นอยู่กับข้อกำหนดการวิจัยของตลาดที่ตรงกับตัวคุณ<br><br>\n"
+"\n"
+"เราขอขอบคุณที่คุณเข้าใจและสนใจตอบแบบสำรวจกับเรา "
+"และขอขอบคุณสำหรับการเป็นส่วนหนึ่งของYouGov "
+"ที่เรามุ่งมั่นทำให้ข้อมูลของเรามีคุณภาพต่อไป<br><br>\n"
+"\n"
+"ขอแสดงความนับถือ<br>\n"
+"YouGov"
+
+#: /question:family_life_cycle_th/text:1
+msgctxt "/question:family_life_cycle_th/text"
+msgid "Family life cycle (recoded)"
+msgstr "Family life cycle (recoded)"
+
+#: /question:family_life_cycle_th/response:1/text:1
+msgctxt "/question:family_life_cycle_th/response:1/text"
+msgid "Pre family"
+msgstr "Pre family"
+
+#: /question:family_life_cycle_th/response:2/text:1
+msgctxt "/question:family_life_cycle_th/response:2/text"
+msgid "Young family"
+msgstr "Young family"
+
+#: /question:family_life_cycle_th/response:3/text:1
+msgctxt "/question:family_life_cycle_th/response:3/text"
+msgid "Adult family"
+msgstr "Adult family"
+
+#: /question:family_life_cycle_th/response:4/text:1
+msgctxt "/question:family_life_cycle_th/response:4/text"
+msgid "Active Empty Nest‘ers"
+msgstr "Active Empty Nest‘ers"
+
+#: /question:family_life_cycle_th/response:5/text:1
+msgctxt "/question:family_life_cycle_th/response:5/text"
+msgid "Senior Citizens / In-active Empty Nest‘ers"
+msgstr "Senior Citizens / In-active Empty Nest‘ers"
+
+#~ msgctxt "/question:vendor/response:2/text"
+#~ msgid "Vendor 1"
+#~ msgstr "Vendor 1"
+
+#~ msgctxt "/free_text/text"
+#~ msgid "**Moving on...**\n"
+#~ msgstr "**ถัดไป...**"
+
+#~ msgctxt "/free_text/text"
+#~ msgid "**Changing the subject...**\n"
+#~ msgstr "**กำลังเปลี่ยนหัวข้อเรื่อง...**"
+
+#~ msgctxt "/free_text/text"
+#~ msgid "**On a different topic...**\n"
+#~ msgstr "**ในหัวข้อเรื่องที่แตกต่างกัน...**"
+

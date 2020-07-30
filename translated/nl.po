@@ -1,0 +1,12 @@
+#: string_a
+msgid "String A"
+msgstr "This is string 'A'"
+
+#: string_b
+#, fuzzy
+#| msgid "String A"
+msgid "String C"
+msgstr "This is string 'A'"
+
+#~ msgid "String B"
+#~ msgstr "This is string 'b'"

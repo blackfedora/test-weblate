@@ -1,2 +1,2 @@
-msgid: ""
-msgstr: ""
+msgid: "test"
+msgstr: "test"

@@ -1,2 +1,3 @@
+#: test
 msgid: "test"
 msgstr: "test"
